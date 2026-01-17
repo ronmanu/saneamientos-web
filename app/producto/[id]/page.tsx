@@ -78,7 +78,6 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
                 <div className={styles.infoSection}>
                     <span className={styles.brand}>{product.brand}</span>
                     <h1 className={styles.title}>{product.name}</h1>
-                    <p className={styles.price}>{product.price}€</p>
 
                     {/* Rarity Stars - Visual indicator of how hard to find */}
                     <div className={styles.raritySection}>

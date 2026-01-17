@@ -7,7 +7,7 @@ import { products } from '../data/products';
 import styles from './page.module.css';
 
 /** Type for sorting options */
-type SortOption = 'name' | 'price-asc' | 'price-desc' | 'rarity';
+type SortOption = 'name' | 'rarity';
 
 // Get unique values for filters
 const brands = [...new Set(products.map(p => p.brand))].sort();
@@ -40,10 +40,6 @@ function CatalogContent() {
         // Sort
         result = [...result].sort((a, b) => {
             switch (sortBy) {
-                case 'price-asc':
-                    return a.price - b.price;
-                case 'price-desc':
-                    return b.price - a.price;
                 case 'rarity':
                     return b.rarity - a.rarity;
                 default:
@@ -115,8 +111,6 @@ function CatalogContent() {
                         className={styles.filterSelect}
                     >
                         <option value="name">Nombre A-Z</option>
-                        <option value="price-asc">Precio: menor a mayor</option>
-                        <option value="price-desc">Precio: mayor a menor</option>
                         <option value="rarity">Rareza (difícil primero)</option>
                     </select>
                 </div>
@@ -148,8 +142,7 @@ function CatalogContent() {
                                 <span className={styles.brand}>{product.brand}</span>
                                 <h3 className={styles.name}>{product.name}</h3>
                                 <div className={styles.cardFooter}>
-                                    <p className={styles.price}>{product.price}€</p>
-                                    <span className={styles.viewBtn}>Ver →</span>
+                                    <span className={styles.viewBtn}>Ver detalles →</span>
                                 </div>
                             </div>
                         </a>

@@ -63,7 +63,6 @@ export default async function CategoryPage({ params }: { params: Promise<{ categ
                                 <div className={styles.content}>
                                     <span className={styles.brand}>{product.brand}</span>
                                     <h3 className={styles.name}>{product.name}</h3>
-                                    <p className={styles.price}>{product.price}€</p>
                                     <a href={`/producto/${product.id}`} className={styles.button}>
                                         Ver Detalles
                                     </a>
