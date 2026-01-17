@@ -15,7 +15,7 @@ export default function CategoriasPage() {
             <div className={styles.header}>
                 <h1 className={styles.title}>Categorías</h1>
                 <p className={styles.subtitle}>
-                    Explora nuestra selección de sanitarios descatalogados organizados por tipo de producto
+                    Explora nuestra selección de aparatos sanitarios descatalogados organizados por tipo de producto
                 </p>
             </div>
 

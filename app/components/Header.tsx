@@ -32,7 +32,7 @@ export default function Header() {
                 <a href="/" className={styles.logoLink}>
                     <Image
                         src="/logo-nobg.png"
-                        alt="Saneamientos Descatalogados"
+                        alt="Aparatos Sanitarios Descatalogados"
                         width={200}
                         height={60}
                         className={styles.logoImage}

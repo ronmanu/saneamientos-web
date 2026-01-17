@@ -32,7 +32,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
     const { id } = await params;
     const product = products.find(p => p.id === id);
     return {
-        title: product ? `${product.name} (${product.brand}) | Saneamientos Descatalogados` : 'Producto no encontrado',
+        title: product ? `${product.name} (${product.brand}) | Aparatos Sanitarios Descatalogados` : 'Producto no encontrado',
         description: product ? product.description : 'Pieza sanitaria descatalogada.',
     };
 }

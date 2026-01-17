@@ -17,7 +17,7 @@ export default function ContactoPage() {
             <div className={styles.logoContainer}>
                 <Image
                     src="/logo-nobg.png"
-                    alt="Saneamientos Descatalogados"
+                    alt="Aparatos Sanitarios Descatalogados"
                     width={300}
                     height={90}
                     className={styles.logoImage}
@@ -51,7 +51,7 @@ export default function ContactoPage() {
                         allowFullScreen
                         loading="lazy"
                         referrerPolicy="no-referrer-when-downgrade"
-                        title="Ubicación Saneamientos Descatalogados"
+                        title="Ubicación Aparatos Sanitarios Descatalogados"
                     ></iframe>
                 </div>
 

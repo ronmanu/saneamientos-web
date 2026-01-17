@@ -11,8 +11,8 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "Sanitarios Descatalogados - Catálogo Premium",
-  description: "Encuentra sanitarios descatalogados de Roca, Gala, Bellavista y más. Calidad garantizada y envío rápido.",
+  title: "Aparatos Sanitarios Descatalogados - Catálogo Premium",
+  description: "Encuentra aparatos sanitarios descatalogados de Roca, Gala, Bellavista y más. Calidad garantizada y envío rápido.",
 };
 
 export default function RootLayout({

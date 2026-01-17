@@ -43,7 +43,7 @@ export default function Footer() {
             </div>
 
             <div className={styles.bottom}>
-                &copy; {new Date().getFullYear()} Saneamientos Descatalogados. Todos los derechos reservados.
+                &copy; {new Date().getFullYear()} Aparatos Sanitarios Descatalogados. Todos los derechos reservados.
             </div>
         </footer>
     );
