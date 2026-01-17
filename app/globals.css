@@ -33,11 +33,11 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --color-bg: hsl(var(--hue-primary), 30%, 8%);
-    --color-surface: rgba(15, 23, 42, 0.6);
-    --color-text-main: hsl(var(--hue-water), 30%, 95%);
-    --color-text-muted: hsl(var(--hue-water), 10%, 70%);
-    --glass-bg: rgba(15, 23, 42, 0.6);
-    --glass-border: rgba(255, 255, 255, 0.1);
+    --color-surface: rgba(30, 41, 59, 0.9);
+    --color-text-main: hsl(0, 0%, 98%);
+    --color-text-muted: hsl(0, 0%, 80%);
+    --glass-bg: rgba(30, 41, 59, 0.85);
+    --glass-border: rgba(255, 255, 255, 0.15);
   }
 }
 
