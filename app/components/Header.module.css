@@ -35,6 +35,13 @@
     object-fit: contain;
 }
 
+/* Brighten logo in dark mode */
+@media (prefers-color-scheme: dark) {
+    .logoImage {
+        filter: brightness(0) invert(1);
+    }
+}
+
 /* Desktop Navigation */
 .nav {
     display: flex;
