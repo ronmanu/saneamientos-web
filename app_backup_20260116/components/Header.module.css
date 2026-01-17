@@ -1,0 +1,98 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: var(--header-height);
+    z-index: 1000;
+    background: var(--glass-bg);
+    -webkit-backdrop-filter: blur(var(--backdrop-blur));
+    backdrop-filter: blur(var(--backdrop-blur));
+    border-bottom: 1px solid var(--glass-border);
+    transition: all 0.3s ease;
+}
+
+.scrolled {
+    box-shadow: var(--glass-shadow);
+    background: rgba(255, 255, 255, 0.85);
+}
+
+.container {
+    max-width: var(--container-width);
+    margin: 0 auto;
+    padding: 0 2rem;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logoLink {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    height: 70px;
+    /* Container height for cropping */
+    margin-right: 2rem;
+    overflow: hidden;
+    /* Crop the whitespace */
+}
+
+.logoImage {
+    height: 200px;
+    /* Make image larger than container */
+    width: auto;
+    object-fit: contain;
+    mix-blend-mode: multiply;
+    /* Blend with background */
+    margin-top: -5px;
+    /* Pull up to crop top whitespace */
+}
+
+.nav {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+.navLink {
+    font-weight: 500;
+    font-size: 1rem;
+    color: var(--color-text-main);
+    position: relative;
+}
+
+.navLink::after {
+    content: '';
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: var(--color-accent);
+    transition: width 0.3s;
+}
+
+.navLink:hover::after {
+    width: 100%;
+}
+
+.actions {
+    display: flex;
+    gap: 1rem;
+}
+
+.contactBtn {
+    background: transparent;
+    border: 2px solid var(--color-primary);
+    color: var(--color-primary);
+    padding: 0.5rem 1.25rem;
+    border-radius: 50px;
+    font-weight: 600;
+    transition: all 0.2s;
+}
+
+.contactBtn:hover {
+    background: var(--color-primary);
+    color: white;
+}

@@ -1,0 +1,158 @@
+/* Page container - replaces inline styles */
+.pageContainer {
+    max-width: var(--container-width);
+    margin: 0 auto;
+    padding: calc(var(--header-height) + 1rem) 2rem 4rem;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    align-items: start;
+}
+
+/* Rarity Section */
+.raritySection {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+}
+
+.rarityLabel {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+}
+
+.rarityStars {
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+}
+
+.rarityText {
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+/* Rarity color modifiers */
+.rarityLevel1 {
+    color: #4caf50;
+}
+
+.rarityLevel2 {
+    color: #2196f3;
+}
+
+.rarityLevel3 {
+    color: #ff9800;
+}
+
+.rarityLevel4 {
+    color: #ff5722;
+}
+
+.rarityLevel5 {
+    color: #e91e63;
+}
+
+@media (max-width: 768px) {
+    .wrapper {
+        grid-template-columns: 1fr;
+    }
+}
+
+.mainImage {
+    width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: contain;
+    background: white;
+    border-radius: var(--radius-lg);
+    padding: 2rem;
+    border: 1px solid var(--glass-border);
+}
+
+.brand {
+    color: var(--color-primary);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.title {
+    font-size: 2.5rem;
+    margin: 0.5rem 0 1rem;
+    line-height: 1.1;
+    color: var(--color-text-main);
+}
+
+.price {
+    font-size: 2rem;
+    color: var(--color-text-main);
+    font-weight: 300;
+    margin-bottom: 2rem;
+}
+
+.stock {
+    color: green;
+    font-weight: 600;
+    background: #e6ffe6;
+    padding: 0.5rem 1rem;
+    border-radius: 50px;
+}
+
+.noStock {
+    color: orange;
+    font-weight: 600;
+    background: #fff8e6;
+    padding: 0.5rem 1rem;
+    border-radius: 50px;
+}
+
+.description {
+    margin: 2rem 0;
+    line-height: 1.6;
+    color: var(--color-text-muted);
+}
+
+.ctaButton {
+    width: 100%;
+    padding: 1.2rem;
+    background: var(--color-primary);
+    color: white;
+    font-size: 1.1rem;
+    font-weight: 700;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    margin-bottom: 3rem;
+}
+
+.ctaButton:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.details {
+    background: var(--glass-bg);
+    padding: 2rem;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--glass-border);
+}
+
+.details h3 {
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+}
+
+.details ul {
+    list-style: none;
+    padding: 0;
+}
+
+.details li {
+    margin-bottom: 0.5rem;
+    color: var(--color-text-muted);
+}

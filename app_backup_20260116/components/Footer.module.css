@@ -1,0 +1,67 @@
+.footer {
+    background: white;
+    padding: 4rem 0 2rem;
+    border-top: 1px solid var(--glass-border);
+    margin-top: auto;
+}
+
+.container {
+    max-width: var(--container-width);
+    margin: 0 auto;
+    padding: 0 2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 3rem;
+}
+
+.column h3 {
+    color: var(--color-primary);
+    margin-bottom: 1.5rem;
+    font-size: 1.2rem;
+}
+
+.column ul {
+    list-style: none;
+}
+
+.column li {
+    margin-bottom: 0.8rem;
+}
+
+.column a {
+    color: var(--color-text-muted);
+    font-size: 0.95rem;
+}
+
+.column a:hover {
+    color: var(--color-primary);
+}
+
+.contactInfo {
+    color: var(--color-text-muted);
+    line-height: 1.6;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.contactInfo strong {
+    color: var(--color-text-main);
+}
+
+.contactInfo a {
+    color: var(--color-text-muted);
+}
+
+.contactInfo a:hover {
+    color: var(--color-primary);
+}
+
+.bottom {
+    max-width: var(--container-width);
+    margin: 3rem auto 0;
+    padding: 2rem 2rem 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    text-align: center;
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+}
