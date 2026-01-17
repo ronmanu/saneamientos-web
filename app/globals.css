@@ -10,9 +10,9 @@
   /* Clear Water */
 
   --color-bg: hsl(var(--hue-water), 30%, 96%);
-  --color-surface: rgba(255, 255, 255, 0.7);
-  --color-text-main: hsl(var(--hue-primary), 40%, 15%);
-  --color-text-muted: hsl(var(--hue-primary), 20%, 40%);
+  --color-surface: rgba(255, 255, 255, 0.85);
+  --color-text-main: hsl(var(--hue-primary), 50%, 10%);
+  --color-text-muted: hsl(var(--hue-primary), 25%, 30%);
 
   /* Glassmorphism */
   --glass-bg: rgba(255, 255, 255, 0.65);
