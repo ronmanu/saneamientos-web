@@ -1,5 +1,5 @@
 .footer {
-    background: white;
+    background: var(--color-surface);
     padding: 4rem 0 2rem;
     border-top: 1px solid var(--glass-border);
     margin-top: auto;
@@ -29,7 +29,7 @@
 }
 
 .column a {
-    color: var(--color-text-muted);
+    color: var(--color-text-main);
     font-size: 0.95rem;
 }
 
@@ -38,7 +38,7 @@
 }
 
 .contactInfo {
-    color: var(--color-text-muted);
+    color: var(--color-text-main);
     line-height: 1.6;
     font-size: 0.9rem;
     margin-bottom: 1rem;
@@ -49,7 +49,7 @@
 }
 
 .contactInfo a {
-    color: var(--color-text-muted);
+    color: var(--color-text-main);
 }
 
 .contactInfo a:hover {
@@ -60,8 +60,19 @@
     max-width: var(--container-width);
     margin: 3rem auto 0;
     padding: 2rem 2rem 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
     text-align: center;
-    color: var(--color-text-muted);
+    color: var(--color-text-main);
     font-size: 0.9rem;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    .footer {
+        border-top-color: rgba(255, 255, 255, 0.1);
+    }
+
+    .bottom {
+        border-top-color: rgba(255, 255, 255, 0.1);
+    }
 }
