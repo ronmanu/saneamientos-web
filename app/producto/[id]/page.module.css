@@ -156,3 +156,89 @@
     margin-bottom: 0.5rem;
     color: var(--color-text-muted);
 }
+
+/* =============================================================================
+ * PRODUCTOS RELACIONADOS
+ * ============================================================================= */
+
+.relacionados {
+    margin-top: 4rem;
+    padding-top: 3rem;
+    border-top: 1px solid var(--glass-border);
+}
+
+.relacionados h2 {
+    font-size: 1.75rem;
+    color: var(--color-text-main);
+    margin-bottom: 2rem;
+}
+
+.relacionadosGrid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+}
+
+@media (max-width: 1024px) {
+    .relacionadosGrid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    .relacionadosGrid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.relacionadoCard {
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius-md);
+    padding: 1rem;
+    text-decoration: none;
+    transition: transform 0.2s, box-shadow 0.2s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.relacionadoCard:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.relacionadoImageContainer {
+    width: 120px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0.75rem;
+}
+
+.relacionadoImage {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.relacionadoInfo h3 {
+    font-size: 0.95rem;
+    color: var(--color-text-main);
+    margin: 0.25rem 0;
+}
+
+.relacionadoMarca {
+    font-size: 0.7rem;
+    color: var(--color-primary);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: 600;
+}
+
+.relacionadoCategoria {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+}

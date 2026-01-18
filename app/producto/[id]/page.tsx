@@ -10,6 +10,7 @@
  */
 
 import Image from 'next/image';
+import Link from 'next/link';
 import { products } from '../../data/products';
 import { getRarityInfo } from '../../lib/rarity';
 import styles from './page.module.css';
@@ -38,6 +39,18 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
 }
 
 /**
+ * Get related products by same brand or category
+ */
+function getRelatedProducts(currentProduct: typeof products[0], limit: number = 4) {
+    return products
+        .filter(p =>
+            p.id !== currentProduct.id &&
+            (p.brand === currentProduct.brand || p.category === currentProduct.category)
+        )
+        .slice(0, limit);
+}
+
+/**
  * Product Detail Page Component
  * 
  * Displays comprehensive product information including:
@@ -58,6 +71,7 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
     }
 
     const rarityInfo = getRarityInfo(product.rarity);
+    const relatedProducts = getRelatedProducts(product, 4);
 
     return (
         <main className={styles.pageContainer}>
@@ -117,6 +131,34 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
                     </div>
                 </div>
             </div>
+
+            {/* Related Products Section */}
+            {relatedProducts.length > 0 && (
+                <section className={styles.relacionados}>
+                    <h2>Productos Relacionados</h2>
+                    <div className={styles.relacionadosGrid}>
+                        {relatedProducts.map(rel => (
+                            <Link key={rel.id} href={`/producto/${rel.id}`} className={styles.relacionadoCard}>
+                                <div className={styles.relacionadoImageContainer}>
+                                    <Image
+                                        src={rel.image}
+                                        alt={rel.name}
+                                        width={150}
+                                        height={150}
+                                        className={styles.relacionadoImage}
+                                    />
+                                </div>
+                                <div className={styles.relacionadoInfo}>
+                                    <span className={styles.relacionadoMarca}>{rel.brand}</span>
+                                    <h3>{rel.name}</h3>
+                                    <span className={styles.relacionadoCategoria}>{rel.category}</span>
+                                </div>
+                            </Link>
+                        ))}
+                    </div>
+                </section>
+            )}
         </main>
     );
 }
+
