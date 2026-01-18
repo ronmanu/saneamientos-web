@@ -287,42 +287,6 @@ export default async function ProductoPage({ params }: ProductPageProps) {
                                 )}
                             </div>
 
-                            {/* Disponibilidad y plazo */}
-                            {(producto.specs.disponibilidad || producto.specs.plazoRecambio || producto.specs.costeEstimado) && (
-                                <div className={styles.disponibilidadBox}>
-                                    {producto.specs.disponibilidad && (
-                                        <div className={styles.disponibilidadItem}>
-                                            <span>📦 Disponibilidad:</span>
-                                            <strong>{producto.specs.disponibilidad}</strong>
-                                        </div>
-                                    )}
-                                    {producto.specs.plazoRecambio && (
-                                        <div className={styles.disponibilidadItem}>
-                                            <span>🕐 Plazo entrega:</span>
-                                            <strong>{producto.specs.plazoRecambio} días</strong>
-                                        </div>
-                                    )}
-                                    {producto.specs.costeEstimado && (
-                                        <div className={styles.disponibilidadItem}>
-                                            <span>💰 Precio orientativo:</span>
-                                            <strong>€{producto.specs.costeEstimado}</strong>
-                                        </div>
-                                    )}
-                                </div>
-                            )}
-
-                            {/* Distribuidores recomendados */}
-                            {producto.specs.distribuidoresRecomendados && Array.isArray(producto.specs.distribuidoresRecomendados) && (
-                                <div className={styles.distribuidores}>
-                                    <span className={styles.distribuidoresLabel}>🏪 Dónde encontrar recambios:</span>
-                                    <div className={styles.distribuidoresList}>
-                                        {producto.specs.distribuidoresRecomendados.map((dist: string, idx: number) => (
-                                            <span key={idx} className={styles.distribuidorTag}>{dist}</span>
-                                        ))}
-                                    </div>
-                                </div>
-                            )}
-
                             {/* Colores disponibles */}
                             {producto.specs.colorDisponible && Array.isArray(producto.specs.colorDisponible) && (
                                 <div className={styles.colores}>
