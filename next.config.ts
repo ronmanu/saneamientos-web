@@ -369,20 +369,7 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
 
-      // =====================================================================
-      // REDIRECCIÓN GENERAL DE /marcas/
-      // =====================================================================
-      {
-        source: '/marcas',
-        destination: '/marcas',
-        permanent: true,
-      },
-      {
-        source: '/marcas/',
-        destination: '/marcas',
-        permanent: true,
-      },
-
+      // NOTA: /marcas ahora es una página real, no necesita redirección
       // =====================================================================
       // REDIRECCIONES DE CONTACTO / FORMULARIOS ANTIGUOS
       // =====================================================================
