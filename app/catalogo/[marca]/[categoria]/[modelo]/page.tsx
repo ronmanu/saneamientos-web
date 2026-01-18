@@ -212,6 +212,138 @@ export default async function ProductoPage({ params }: ProductPageProps) {
                         )}
                     </div>
 
+                    {/* ESPECIFICACIONES TÉCNICAS */}
+                    {producto.specs && Object.values(producto.specs).some(v => v !== null) && (
+                        <div className={styles.specsContainer}>
+                            <h3 className={styles.specsTitle}>📐 Especificaciones Técnicas</h3>
+
+                            {/* Alerta de compatibilidad si existe */}
+                            {producto.specs.alertaCompatibilidad && (
+                                <div className={styles.alertaCritica}>
+                                    {producto.specs.alertaCompatibilidad}
+                                </div>
+                            )}
+
+                            <div className={styles.specsGrid}>
+                                {producto.specs.ancho && (
+                                    <div className={styles.specItem}>
+                                        <span className={styles.specLabel}>Ancho</span>
+                                        <span className={styles.specValue}>{producto.specs.ancho} cm</span>
+                                    </div>
+                                )}
+                                {producto.specs.fondo && (
+                                    <div className={styles.specItem}>
+                                        <span className={styles.specLabel}>Fondo/Largo</span>
+                                        <span className={styles.specValue}>{producto.specs.fondo} cm</span>
+                                    </div>
+                                )}
+                                {producto.specs.alturaTotal && (
+                                    <div className={styles.specItem}>
+                                        <span className={styles.specLabel}>Altura Total</span>
+                                        <span className={styles.specValue}>{producto.specs.alturaTotal} cm</span>
+                                    </div>
+                                )}
+                                {producto.specs.alturaAsiento && (
+                                    <div className={styles.specItem}>
+                                        <span className={styles.specLabel}>Altura Asiento</span>
+                                        <span className={styles.specValue}>{producto.specs.alturaAsiento} cm</span>
+                                    </div>
+                                )}
+                                {producto.specs.distanciaEntreTornillos && (
+                                    <div className={styles.specItem}>
+                                        <span className={styles.specLabel}>⚠️ Dist. Tornillos</span>
+                                        <span className={styles.specValue}>{producto.specs.distanciaEntreTornillos} cm</span>
+                                    </div>
+                                )}
+                                {producto.specs.formaTaza && (
+                                    <div className={styles.specItem}>
+                                        <span className={styles.specLabel}>Forma</span>
+                                        <span className={styles.specValue}>{producto.specs.formaTaza}</span>
+                                    </div>
+                                )}
+                                {producto.specs.salida && (
+                                    <div className={styles.specItem}>
+                                        <span className={styles.specLabel}>Salida</span>
+                                        <span className={styles.specValue}>{producto.specs.salida}</span>
+                                    </div>
+                                )}
+                                {producto.specs.grupoCompatibilidad && (
+                                    <div className={styles.specItem}>
+                                        <span className={styles.specLabel}>Grupo Compat.</span>
+                                        <span className={styles.specValue}>{producto.specs.grupoCompatibilidad}</span>
+                                    </div>
+                                )}
+                                {producto.specs.material && (
+                                    <div className={styles.specItem}>
+                                        <span className={styles.specLabel}>Material Tapa</span>
+                                        <span className={styles.specValue}>{producto.specs.material}</span>
+                                    </div>
+                                )}
+                                {producto.specs.tipoMecanismo && (
+                                    <div className={styles.specItem}>
+                                        <span className={styles.specLabel}>Mecanismo</span>
+                                        <span className={styles.specValue}>{producto.specs.tipoMecanismo}</span>
+                                    </div>
+                                )}
+                            </div>
+
+                            {/* Disponibilidad y plazo */}
+                            {(producto.specs.disponibilidad || producto.specs.plazoRecambio || producto.specs.costeEstimado) && (
+                                <div className={styles.disponibilidadBox}>
+                                    {producto.specs.disponibilidad && (
+                                        <div className={styles.disponibilidadItem}>
+                                            <span>📦 Disponibilidad:</span>
+                                            <strong>{producto.specs.disponibilidad}</strong>
+                                        </div>
+                                    )}
+                                    {producto.specs.plazoRecambio && (
+                                        <div className={styles.disponibilidadItem}>
+                                            <span>🕐 Plazo entrega:</span>
+                                            <strong>{producto.specs.plazoRecambio} días</strong>
+                                        </div>
+                                    )}
+                                    {producto.specs.costeEstimado && (
+                                        <div className={styles.disponibilidadItem}>
+                                            <span>💰 Precio orientativo:</span>
+                                            <strong>€{producto.specs.costeEstimado}</strong>
+                                        </div>
+                                    )}
+                                </div>
+                            )}
+
+                            {/* Distribuidores recomendados */}
+                            {producto.specs.distribuidoresRecomendados && Array.isArray(producto.specs.distribuidoresRecomendados) && (
+                                <div className={styles.distribuidores}>
+                                    <span className={styles.distribuidoresLabel}>🏪 Dónde encontrar recambios:</span>
+                                    <div className={styles.distribuidoresList}>
+                                        {producto.specs.distribuidoresRecomendados.map((dist: string, idx: number) => (
+                                            <span key={idx} className={styles.distribuidorTag}>{dist}</span>
+                                        ))}
+                                    </div>
+                                </div>
+                            )}
+
+                            {/* Colores disponibles */}
+                            {producto.specs.colorDisponible && Array.isArray(producto.specs.colorDisponible) && (
+                                <div className={styles.colores}>
+                                    <span className={styles.coloresLabel}>🎨 Colores disponibles:</span>
+                                    <div className={styles.coloresList}>
+                                        {producto.specs.colorDisponible.map((color: string, idx: number) => (
+                                            <span key={idx} className={styles.colorTag}>{color}</span>
+                                        ))}
+                                    </div>
+                                </div>
+                            )}
+
+                            {/* Nota técnica */}
+                            {producto.specs.notaTecnica && (
+                                <p className={styles.notaTecnica}>
+                                    💡 {producto.specs.notaTecnica}
+                                </p>
+                            )}
+                        </div>
+                    )}
+
                     {/* CTA WhatsApp */}
                     <a
                         href={whatsappUrl}

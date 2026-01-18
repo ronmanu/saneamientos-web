@@ -9,71 +9,61 @@
 
 import productosData from './productos.json';
 
-// Tipos de especificaciones técnicas por categoría
-export interface SpecsInodoro {
-    alturaTotal: string | null;           // cm - Altura desde suelo hasta parte superior cisterna
-    alturaAsiento: string | null;         // cm - Altura desde suelo hasta borde taza
-    ancho: string | null;                 // cm - Ancho máximo
-    fondo: string | null;                 // cm - Profundidad desde pared hasta frente
-    salida: 'horizontal' | 'vertical' | 'dual' | null;
-    distanciaDesague: string | null;      // cm - Centro del desagüe a la pared
-    entradaAgua: 'lateral izquierda' | 'lateral derecha' | 'inferior' | null;
-    capacidadCisterna: string | null;     // litros - ej: "6L" o "3-6L"
-    formaTaza: 'ovalada' | 'redonda' | 'cuadrada' | null;
-    fijacion: string | null;              // "2 tornillos" | "4 tornillos"
-    distanciaEntreTornillos: string | null; // cm - Para tapas compatibles
-    colorDisponible: string[] | null;     // Array de colores disponibles
+// Tipo de especificaciones técnicas - flexible para todos los tipos de productos
+export interface ProductSpecs {
+    // Medidas generales
+    alturaTotal?: string | null;
+    alturaAsiento?: string | null;
+    altura?: string | null;
+    ancho?: string | null;
+    fondo?: string | null;
+
+    // Inodoros específicos
+    salida?: string | null;
+    distanciaDesague?: string | null;
+    entradaAgua?: string | null;
+    capacidadCisterna?: string | null;
+    formaTaza?: string | null;
+    fijacion?: string | null;
+    distanciaEntreTornillos?: string | null;
+
+    // Tapas WC
+    largoTotal?: string | null;
+    anchoMaximo?: string | null;
+    distanciaEntreEjes?: string | null;
+    forma?: string | null;
+    material?: string | null;
+    caidaAmortiguada?: boolean | null;
+    bisagrasRegulables?: boolean | null;
+
+    // Lavabos
+    tipoMontaje?: string | null;
+    numOrificiosGriferia?: number | null;
+    separacionOrificios?: string | null;
+    conRebosadero?: boolean | null;
+    diametroDesague?: string | null;
+
+    // Cisternas
+    capacidad?: string | null;
+    tipoMecanismo?: string | null;
+
+    // Colores y disponibilidad
+    colorDisponible?: string[] | null;
+
+    // Campos adicionales del JSON de especificaciones
+    grupoCompatibilidad?: string | null;
+    alertaCompatibilidad?: string | null;
+    disponibilidad?: string | null;
+    plazoRecambio?: string | null;
+    costeEstimado?: string | null;
+    distribuidoresRecomendados?: string[] | null;
+    notaTecnica?: string | null;
+    codigoReferencia?: string | null;
+
+    // Campo genérico para otros
+    dimensiones?: string | null;
 }
 
-export interface SpecsLavabo {
-    ancho: string | null;                 // cm
-    fondo: string | null;                 // cm
-    altura: string | null;                // cm - Altura total con pedestal
-    tipoMontaje: 'mural' | 'pedestal' | 'semipedestal' | 'encastre' | 'sobre encimera' | null;
-    numOrificiosGriferia: number | null;  // 1 | 3
-    separacionOrificios: string | null;   // cm
-    conRebosadero: boolean | null;
-    diametroDesague: string | null;       // mm - 32 | 40
-    colorDisponible: string[] | null;
-}
-
-export interface SpecsBidet {
-    altura: string | null;                // cm
-    ancho: string | null;                 // cm
-    fondo: string | null;                 // cm
-    numOrificiosGriferia: number | null;  // 1 | 2
-    salida: 'horizontal' | 'vertical' | null;
-    distanciaDesague: string | null;      // cm
-    colorDisponible: string[] | null;
-}
-
-export interface SpecsTapa {
-    largoTotal: string | null;            // cm
-    anchoMaximo: string | null;           // cm
-    distanciaEntreEjes: string | null;    // cm - CRÍTICO para compatibilidad
-    forma: 'ovalada' | 'cuadrada' | 'en D' | 'redonda' | null;
-    material: 'duroplast' | 'MDF lacado' | 'polipropileno' | 'madera maciza' | null;
-    caidaAmortiguada: boolean | null;     // Soft close
-    bisagrasRegulables: boolean | null;
-    colorDisponible: string[] | null;
-}
-
-export interface SpecsCisterna {
-    capacidad: string | null;             // litros
-    tipoMecanismo: 'D1P' | 'D2P' | 'tirón' | 'pulsador simple' | 'doble pulsador' | null;
-    entradaAgua: 'lateral' | 'inferior' | null;
-    alto: string | null;                  // cm
-    ancho: string | null;                 // cm
-    fondo: string | null;                 // cm
-    colorDisponible: string[] | null;
-}
-
-export interface SpecsOtros {
-    dimensiones: string | null;           // Texto libre para medidas
-    colorDisponible: string[] | null;
-}
-
-export type ProductSpecs = SpecsInodoro | SpecsLavabo | SpecsBidet | SpecsTapa | SpecsCisterna | SpecsOtros;
 
 // Tipos
 export interface Producto {

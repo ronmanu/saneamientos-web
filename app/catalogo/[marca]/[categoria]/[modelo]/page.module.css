@@ -299,8 +299,156 @@
     color: var(--color-text-muted);
 }
 
+/* =============================================================================
+ * ESPECIFICACIONES TÉCNICAS
+ * ============================================================================= */
+
+.specsContainer {
+    background: linear-gradient(135deg, rgba(59, 130, 246, 0.05), rgba(147, 51, 234, 0.05));
+    border: 1px solid rgba(59, 130, 246, 0.2);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-top: 2rem;
+}
+
+.specsTitle {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--color-text-main);
+    margin: 0 0 1rem;
+}
+
+.alertaCritica {
+    background: linear-gradient(135deg, rgba(239, 68, 68, 0.1), rgba(220, 38, 38, 0.05));
+    border: 1px solid rgba(239, 68, 68, 0.3);
+    border-radius: 8px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    color: #dc2626;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.specsGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+}
+
+.specItem {
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 8px;
+    padding: 0.75rem;
+    text-align: center;
+}
+
+.specLabel {
+    display: block;
+    font-size: 0.7rem;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.25rem;
+}
+
+.specValue {
+    display: block;
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: var(--color-text-main);
+}
+
+.disponibilidadBox {
+    background: linear-gradient(135deg, rgba(34, 197, 94, 0.1), rgba(16, 185, 129, 0.05));
+    border-radius: 8px;
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.disponibilidadItem {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.disponibilidadItem span {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+}
+
+.disponibilidadItem strong {
+    font-size: 1rem;
+    color: #16a34a;
+}
+
+.distribuidores,
+.colores {
+    margin-bottom: 1rem;
+}
+
+.distribuidoresLabel,
+.coloresLabel {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--color-text-main);
+    margin-bottom: 0.5rem;
+}
+
+.distribuidoresList,
+.coloresList {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.distribuidorTag {
+    background: rgba(59, 130, 246, 0.1);
+    color: var(--color-primary);
+    padding: 0.35rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.colorTag {
+    background: rgba(147, 51, 234, 0.1);
+    color: #9333ea;
+    padding: 0.35rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.notaTecnica {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    background: rgba(251, 191, 36, 0.1);
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    margin: 0;
+    line-height: 1.5;
+}
+
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
+    .specsContainer {
+        background: linear-gradient(135deg, rgba(59, 130, 246, 0.1), rgba(147, 51, 234, 0.1));
+        border-color: rgba(59, 130, 246, 0.3);
+    }
+
+    .specItem {
+        background: rgba(0, 0, 0, 0.3);
+    }
+
+    .disponibilidadBox {
+        background: linear-gradient(135deg, rgba(34, 197, 94, 0.15), rgba(16, 185, 129, 0.1));
+    }
+
     .relacionadoCard {
         border-color: rgba(255, 255, 255, 0.1);
     }
