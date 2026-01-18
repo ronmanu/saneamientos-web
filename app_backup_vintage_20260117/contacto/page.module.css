@@ -1,0 +1,203 @@
+/* Page container - reduces spacing */
+.pageContainer {
+    max-width: var(--container-width);
+    margin: 0 auto;
+    padding: calc(var(--header-height) + 0.5rem) 2rem 2rem;
+}
+
+.logoContainer {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0.5rem;
+    padding: 0;
+    width: 100%;
+    /* Visually crop the image to remove whitespace padding in the PNG */
+    overflow: hidden;
+    height: 120px;
+    /* Fixed height to crop */
+}
+
+.googleLogo {
+    margin-right: 10px;
+}
+
+.logoImage {
+    height: 300px;
+    /* Make image larger than container */
+    width: auto;
+    object-fit: contain;
+    mix-blend-mode: multiply;
+    margin-top: -90px;
+    /* Pull up to crop top whitespace */
+}
+
+.contactDetails {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (max-width: 768px) {
+    .contactDetails {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+
+    .logoImage {
+        height: 120px;
+    }
+}
+
+.item {
+    padding: 0.5rem;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+}
+
+.item:hover {
+    transform: none;
+}
+
+.item strong {
+    color: var(--color-primary);
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.item,
+.item a {
+    color: var(--color-text-main);
+    text-decoration: none;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.item a:hover {
+    color: var(--color-primary);
+    text-decoration: underline;
+}
+
+/* Map and Reviews Section */
+.bottomSection {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr;
+    gap: 1.5rem;
+    margin-top: 0;
+}
+
+@media (max-width: 900px) {
+    .bottomSection {
+        grid-template-columns: 1fr;
+    }
+}
+
+.mapContainer {
+    width: 100%;
+    height: 350px;
+    border-radius: var(--radius-md);
+    overflow: hidden;
+    position: relative;
+}
+
+.mapFrame {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.reviewsContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.reviewCard {
+    background: var(--color-surface);
+    padding: 1rem;
+    border-radius: var(--radius-md);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.reviewerHeader {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.reviewerAvatar {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background: var(--color-primary-light);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.reviewerInfo {
+    display: flex;
+    flex-direction: column;
+}
+
+.reviewerName {
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.stars {
+    color: #f59e0b;
+    font-size: 0.85rem;
+    letter-spacing: 2px;
+}
+
+.reviewText {
+    font-size: 0.85rem;
+    color: var(--color-text-main);
+    line-height: 1.4;
+}
+
+.googleBadge {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-weight: 600;
+    color: var(--color-text-muted);
+    margin-bottom: 0.75rem;
+}
+
+.container {
+    max-width: var(--container-width);
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    .reviewCard {
+        border-color: rgba(255, 255, 255, 0.1);
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    }
+
+    .reviewerName {
+        color: var(--color-text-main);
+    }
+
+    .googleBadge {
+        color: var(--color-text-main);
+    }
+}

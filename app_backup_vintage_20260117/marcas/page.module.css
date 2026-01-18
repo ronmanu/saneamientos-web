@@ -1,0 +1,71 @@
+/* Page container - replaces inline styles */
+.pageContainer {
+    max-width: var(--container-width);
+    margin: 0 auto;
+    padding: calc(var(--header-height) + 1rem) 2rem 4rem;
+}
+
+.title {
+    font-size: 3rem;
+    color: var(--color-primary);
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.subtitle {
+    text-align: center;
+    color: var(--color-text-muted);
+    font-size: 1.2rem;
+    margin-bottom: 4rem;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+@media (max-width: 1200px) {
+    .grid {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+}
+
+@media (max-width: 768px) {
+    .grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.brandCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem;
+    text-decoration: none;
+    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.brandCard:hover {
+    transform: scale(1.05);
+    background: white;
+}
+
+.brandLogo {
+    height: 80px;
+    width: auto;
+    object-fit: contain;
+    margin-bottom: 1.5rem;
+    /* Make logos dark blue to match theme on white glass card */
+    filter: brightness(0) saturate(100%) invert(32%) sepia(96%) saturate(1637%) hue-rotate(202deg) brightness(97%) contrast(105%);
+}
+
+.name {
+    color: var(--color-text-main);
+    font-weight: 700;
+    font-size: 1.2rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}

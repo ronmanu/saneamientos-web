@@ -1,0 +1,31 @@
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.title {
+    font-size: 8rem;
+    font-weight: 900;
+    margin: 0;
+    line-height: 1;
+    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-accent) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.subtitle {
+    font-size: 2rem;
+    margin: 1rem 0;
+    color: var(--color-text-main);
+}
+
+.text {
+    color: var(--color-text-muted);
+    max-width: 400px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
