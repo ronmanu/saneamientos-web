@@ -29,12 +29,12 @@ export default function Header() {
     return (
         <header className={styles.header}>
             <div className={styles.container}>
-                <a href="/" className={styles.logoLink}>
+                <a href="/" className={styles.logoLink} title="Sanitarios Descatalogados - Inicio">
                     <Image
-                        src="/logo-nobg.png"
-                        alt="Aparatos Sanitarios Descatalogados"
-                        width={200}
-                        height={60}
+                        src="/logo-principal-nobg.png"
+                        alt="Sanitarios Descatalogados"
+                        width={215}
+                        height={120}
                         className={styles.logoImage}
                         priority
                     />
@@ -68,6 +68,9 @@ export default function Header() {
                     </a>
                     <a href="/contacto" className={`${styles.navLink} ${isActive('/contacto') ? styles.navLinkActive : ''}`} onClick={closeMenu}>
                         Contacto
+                    </a>
+                    <a href="/blog" className={`${styles.navLink} ${isActive('/blog') ? styles.navLinkActive : ''}`} onClick={closeMenu}>
+                        Blog
                     </a>
 
                     {/* CTA inside nav for mobile */}

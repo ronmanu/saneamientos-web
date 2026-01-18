@@ -16,10 +16,10 @@ export default function ContactoPage() {
             {/* Company Logo */}
             <div className={styles.logoContainer}>
                 <Image
-                    src="/logo-nobg.png"
-                    alt="Aparatos Sanitarios Descatalogados"
-                    width={300}
-                    height={90}
+                    src="/logo-principal-nobg.png"
+                    alt="Sanitarios Descatalogados"
+                    width={350}
+                    height={150}
                     className={styles.logoImage}
                     priority
                 />
@@ -51,7 +51,7 @@ export default function ContactoPage() {
                         allowFullScreen
                         loading="lazy"
                         referrerPolicy="no-referrer-when-downgrade"
-                        title="Ubicación Aparatos Sanitarios Descatalogados"
+                        title="Ubicación Sanitarios Descatalogados"
                     ></iframe>
                 </div>
 

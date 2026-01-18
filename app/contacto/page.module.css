@@ -8,13 +8,9 @@
 .logoContainer {
     display: flex;
     justify-content: center;
-    margin-bottom: 0.5rem;
-    padding: 0;
+    margin-bottom: 2rem;
+    padding: 1rem 0;
     width: 100%;
-    /* Visually crop the image to remove whitespace padding in the PNG */
-    overflow: hidden;
-    height: 120px;
-    /* Fixed height to crop */
 }
 
 .googleLogo {
@@ -22,13 +18,10 @@
 }
 
 .logoImage {
-    height: 300px;
-    /* Make image larger than container */
-    width: auto;
+    height: auto;
+    width: 100%;
+    max-width: 350px;
     object-fit: contain;
-    mix-blend-mode: multiply;
-    margin-top: -90px;
-    /* Pull up to crop top whitespace */
 }
 
 .contactDetails {
@@ -49,7 +42,7 @@
     }
 
     .logoImage {
-        height: 120px;
+        max-width: 250px;
     }
 }
 

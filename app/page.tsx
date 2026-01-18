@@ -17,22 +17,22 @@ export default function Home() {
 
   return (
     <main className={styles.main}>
-      {/* Hero Section */}
+      {/* Hero Section - CRO Optimizado */}
       <section className={styles.hero}>
         <div className={styles.heroContent}>
           <h1 className={styles.title}>
-            Tu sanitario descatalogado,<br />
-            como nuevo.
+            No cambies todo el baño<br />
+            por una pieza rota.
           </h1>
           <p className={styles.subtitle}>
-            Especialistas en piezas difíciles de encontrar.
-            Calidad original, stock garantizado y envío inmediato.
+            Encontramos tu sanitario descatalogado exacto.
+            Evita obras, escombros y gastos innecesarios. Envío en 24h.
           </p>
 
           <form className={styles.searchWrapper} onSubmit={handleSearch}>
             <input
               type="text"
-              placeholder="¿Qué pieza buscas? (Ej: Tapa Roca Dama)"
+              placeholder="¿Qué pieza buscas? (Ej: Tapa Roca Victoria)"
               className={styles.searchInput}
               value={query}
               onChange={(e) => setQuery(e.target.value)}
@@ -44,48 +44,59 @@ export default function Home() {
               </svg>
             </button>
           </form>
+
+          {/* CTA WhatsApp - Irresistible */}
+          <a
+            href="https://wa.me/34653942261?text=Hola,%20se%20me%20ha%20roto%20el%20inodoro%20y%20no%20sé%20qué%20modelo%20es.%20¿Podéis%20ayudarme?"
+            className={styles.whatsappCta}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            🤳 No sé qué modelo es: Enviar foto por WhatsApp
+          </a>
         </div>
       </section>
 
       <section className={styles.brandsSection}>
         <div className={styles.brandsContainer}>
-          <a href="/marca/roca" className={styles.brandLink}>
+          <a href="/catalogo?marca=roca" className={styles.brandLink}>
             <img src="/logos/roca.png" alt="Roca" className={styles.brandLogo} />
             <span className={styles.brandName}>Roca</span>
           </a>
-          <a href="/marca/gala" className={styles.brandLink}>
+          <a href="/catalogo?marca=gala" className={styles.brandLink}>
             <img src="/logos/gala.png" alt="Gala" className={styles.brandLogo} />
             <span className={styles.brandName}>Gala</span>
           </a>
-          <a href="/marca/bellavista" className={styles.brandLink}>
+          <a href="/catalogo?marca=bellavista" className={styles.brandLink}>
             <img src="/logos/bellavista.png" alt="Bellavista" className={styles.brandLogo} />
             <span className={styles.brandName}>Bellavista</span>
           </a>
-          <a href="/marca/jacob-delafon" className={styles.brandLink}>
+          <a href="/catalogo?marca=jacob-delafon" className={styles.brandLink}>
             <img src="/logos/jacob-delafon.png" alt="Jacob Delafon" className={styles.brandLogo} />
             <span className={styles.brandName}>Jacob Delafon</span>
           </a>
-          <a href="/marca/sangra" className={styles.brandLink}>
+          <a href="/catalogo?marca=sangra" className={styles.brandLink}>
             <img src="/logos/sangra.png" alt="Sangrá" className={styles.brandLogo} />
             <span className={styles.brandName}>Sangrá</span>
           </a>
         </div>
       </section>
 
-      {/* CTA Section */}
+      {/* CTA Section - Urgencia y Ahorro */}
       <section className={styles.ctaSection}>
         <div className={styles.ctaContent}>
-          <h2 className={styles.ctaTitle}>¿No encuentras tu pieza?</h2>
+          <h2 className={styles.ctaTitle}>¿Se te ha roto tu inodoro antiguo?</h2>
           <p className={styles.ctaText}>
-            Tenemos acceso a miles de referencias descatalogadas.
-            Consúltanos y te ayudamos a encontrar lo que necesitas.
+            No necesitas picar suelos ni cambiar azulejos.
+            Tenemos la pieza exacta de Roca, Gala o Bellavista que ya no se fabrica.
+            Stock real y envío inmediato para que tu baño vuelva a funcionar hoy.
           </p>
           <div className={styles.ctaButtons}>
-            <a href="/categorias" className={styles.ctaBtn}>
-              Ver Categorías
+            <a href="/catalogo" className={styles.ctaBtn}>
+              Ver Catálogo Completo
             </a>
             <a href="/consultar-stock" className={styles.ctaBtnOutline}>
-              Consultar Stock
+              Consultar Disponibilidad
             </a>
           </div>
         </div>
