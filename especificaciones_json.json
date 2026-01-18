@@ -1,0 +1,447 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "fecha_compilacion": "2026-01-18",
+    "titulo": "ESPECIFICACIONES TÉCNICAS SANITARIOS DESCATALOGADOS 1940-2010",
+    "descripcion": "Base de datos estructurada con especificaciones precisas de 40+ modelos",
+    "ambito": "Fabricantes españoles y europeos principales",
+    "precision_datos": {
+      "1990_2010": "Alta (85-95%)",
+      "1970_1990": "Media (50-70%)",
+      "pre_1970": "Muy baja (<30%)"
+    }
+  },
+
+  "guia_compatibilidad_critica": {
+    "grupo_15_5_cm": {
+      "distancia_mm": 155,
+      "incompatible_con": "grupo_16_0_cm",
+      "modelos": {
+        "Roca Victoria": { "ancho": 35.2, "largo": 43.8, "codigo": "A801B6200B", "periodo": "1990-2010" },
+        "Gala Marina PRE-2007": { "ancho": 35.5, "largo": 42, "codigo": "N51420B", "periodo": "1975-2007", "ALERTA": "CAMBIO 2007" },
+        "Jacob Delafon Odeon Up": { "ancho": 35.5, "largo": 42, "periodo": "2000-2010" },
+        "Sangrá Europa": { "ancho": 35, "largo": 41.5, "periodo": "1980-2007" },
+        "Sangrá Alcora": { "ancho": 35, "largo": 42.5, "periodo": "1980-2007" },
+        "Sanitana Regina": { "ancho": 35, "largo": 42, "periodo": "1980-2005" }
+      },
+      "compatible_entre_si": true,
+      "alerta": "NO intercambiables con grupo 16.0 cm"
+    },
+    "grupo_16_0_cm": {
+      "distancia_mm": 160,
+      "incompatible_con": "grupo_15_5_cm",
+      "modelos": {
+        "Roca Góndola": { "ancho": 36, "largo": 42.5, "periodo": "1980-1999" },
+        "Roca Dama": { "ancho": 32.7, "largo": 43, "periodo": "1990-2010", "nota": "compacto" },
+        "Roca Atlanta": { "ancho": 36, "largo": 43, "periodo": "1985-2010" },
+        "Roca Meridian": { "ancho": 36, "largo": 43, "periodo": "1995-2008" },
+        "Gala Marina POST-2007": { "ancho": 36, "largo": 44, "codigo": "E51423", "periodo": "2007-2010", "ALERTA": "CAMBIO 2007" },
+        "Gala Loa": { "ancho": 36, "largo": 43, "periodo": "1980-2010" },
+        "Bellavista Duna": { "ancho": 36, "largo": 43, "codigo": "1422", "periodo": "1970-2010" },
+        "Bellavista Nexo": { "ancho": 35.5, "largo": 43, "codigo": "0521", "periodo": "1980-2010" },
+        "Bellavista Stylo": { "ancho": 35.5, "largo": 43, "codigo": "E54117", "periodo": "1985-2010" },
+        "Jacob Delafon Altair": { "ancho": 35.1, "largo": 43.5, "periodo": "1970-2005" },
+        "Valadares Assimétrica": { "ancho": 37, "largo": 60, "codigo": "390071XX2", "periodo": "1990-2015" },
+        "Valadares Nautilus": { "ancho": 37, "largo": 60, "codigo": "34554002", "periodo": "1995-2015" },
+        "Sanitana Grecia": { "ancho": 36, "largo": 43, "codigo": "GRTM3I10C1", "periodo": "1985-2010" },
+        "Sanitana Munique": { "ancho": 36, "largo": 43, "codigo": "MPTD2E10C0", "periodo": "1990-2010" }
+      },
+      "compatible_entre_si": true,
+      "alerta": "ESTÁNDAR EUROPEO - mayoría modelos post-1980"
+    },
+    "alerta_critica_gala_marina": {
+      "evento": "CAMBIO COMPLETO ESPECIFICACIÓN AÑO 2007",
+      "impacto": "CRÍTICO - Gala Marina es modelo más instalado España 1990-2005",
+      "pre_2007": {
+        "codigo": "N51420B",
+        "distancia_orificios_cm": 15.5,
+        "ancho_cm": 35.5,
+        "largo_cm": 42,
+        "forma_anclaje": "HORIZONTAL",
+        "grupo_compatibilidad": "15.5 cm"
+      },
+      "post_2007": {
+        "codigo": "E51423 / G5142301",
+        "distancia_orificios_cm": 16.0,
+        "ancho_cm": 36,
+        "largo_cm": 44,
+        "forma_anclaje": "VERTICAL",
+        "grupo_compatibilidad": "16.0 cm"
+      },
+      "compatibilidad": "❌ NO - COMPLETAMENTE INCOMPATIBLES",
+      "diferencia": "Diferencia 5mm (15.5 vs 16.0 cm) es IMPOSIBLE de forzar",
+      "solucion": "Requiere especificación EXACTA del año de fabricación para comprar recambio correcto"
+    }
+  },
+
+  "modelos_principales": [
+    {
+      "marca": "ROCA",
+      "modelo": "Victoria",
+      "periodo": "1990-2010",
+      "tipo": "Inodoro tanque bajo",
+      "especificaciones": {
+        "ancho_tapa_cm": 35.2,
+        "largo_tapa_cm": 43.8,
+        "distancia_orificios_cm": 15.4,
+        "forma": "Ovalada",
+        "material_tapa": "Duroplast/Supralit",
+        "codigo_referencia": "A801B6200B",
+        "caida_disponible": "Normal / Amortiguada"
+      },
+      "disponibilidad": "Excelente",
+      "volumen_parque": "MUY ALTO",
+      "plazo_recambio_dias": "3-7",
+      "coste_estimado_eur": "60-100",
+      "distribuidores": ["WCTapas", "TapaDelWater", "Disper", "Leroy Merlin"],
+      "compatibilidad_grupo": "15.5 cm"
+    },
+    {
+      "marca": "ROCA",
+      "modelo": "Gondola",
+      "periodo": "1980-1999",
+      "tipo": "Inodoro tanque bajo",
+      "especificaciones": {
+        "ancho_tapa_cm": 36,
+        "largo_tapa_cm": 42.5,
+        "distancia_orificios_cm": 16,
+        "forma": "Ovalada/redondeada",
+        "material_tapa": "Resiwood / MDF+PVC",
+        "mecanismo": "D1P (compatible)",
+        "caida_disponible": "Normal / Amortiguada"
+      },
+      "disponibilidad": "Muy buena",
+      "volumen_parque": "MUY ALTO",
+      "plazo_recambio_dias": "3-7",
+      "coste_estimado_eur": "65-100",
+      "distribuidores": ["TapaDelWater", "Disper", "Yokando"],
+      "compatibilidad_grupo": "16.0 cm"
+    },
+    {
+      "marca": "ROCA",
+      "modelo": "Dama",
+      "periodo": "1990-2010",
+      "tipo": "Inodoro tanque bajo/compacto",
+      "especificaciones": {
+        "ancho_tapa_cm": 32.7,
+        "largo_tapa_cm": 43,
+        "distancia_orificios_cm": 16,
+        "forma": "Cuadrada/Redondeada",
+        "codigo_referencia": "A801B2000",
+        "material_tapa": "Duroplast"
+      },
+      "disponibilidad": "Excelente",
+      "volumen_parque": "MUY ALTO",
+      "plazo_recambio_dias": "3-7",
+      "coste_estimado_eur": "60-95",
+      "distribuidores": ["WCTapas", "TapaDelWater", "Disper", "Leroy Merlin"],
+      "compatibilidad_grupo": "16.0 cm"
+    },
+    {
+      "marca": "GALA",
+      "modelo": "Marina PRE-2007",
+      "periodo": "1975-2007",
+      "tipo": "Inodoro tanque bajo",
+      "especificaciones": {
+        "ancho_tapa_cm": 35.5,
+        "largo_tapa_cm": 42,
+        "distancia_orificios_cm": 15.5,
+        "forma": "Ovalada",
+        "codigo_referencia": "N51420B",
+        "material_tapa": "Duroplast/Resiwood",
+        "anclaje": "Posición HORIZONTAL"
+      },
+      "disponibilidad": "Excelente",
+      "volumen_parque": "EXTREMADAMENTE ALTO",
+      "plazo_recambio_dias": "3-7",
+      "coste_estimado_eur": "60-95",
+      "distribuidores": ["TapaWC", "WCTapas", "Disper", "Yokando", "TapaDelWater"],
+      "compatibilidad_grupo": "15.5 cm",
+      "ALERTA_CRITICA": "NO COMPATIBLE con versión post-2007 (distancia diferente)"
+    },
+    {
+      "marca": "GALA",
+      "modelo": "Marina POST-2007",
+      "periodo": "2007-2010",
+      "tipo": "Inodoro tanque bajo",
+      "especificaciones": {
+        "ancho_tapa_cm": 36,
+        "largo_tapa_cm": 44,
+        "distancia_orificios_cm": 16,
+        "forma": "Ovalada",
+        "codigo_referencia": "E51423 / G5142301",
+        "material_tapa": "Duroplast",
+        "anclaje": "Posición VERTICAL"
+      },
+      "disponibilidad": "Excelente",
+      "volumen_parque": "ALTO",
+      "plazo_recambio_dias": "3-7",
+      "coste_estimado_eur": "65-100",
+      "distribuidores": ["TapaDelWater", "Leroy Merlin", "distribuidores múltiples"],
+      "compatibilidad_grupo": "16.0 cm",
+      "ALERTA_CRITICA": "NO COMPATIBLE con versión pre-2007 (cambio total especificación 2007)"
+    },
+    {
+      "marca": "BELLAVISTA",
+      "modelo": "Duna",
+      "periodo": "1970-2010",
+      "tipo": "Gama completa (lavabos, inodoros, bidés, cisternas)",
+      "especificaciones": {
+        "ancho_cm": 36,
+        "largo_cm": 43,
+        "distancia_orificios_cm": 16,
+        "forma": "Ovalada",
+        "codigo_lavabo_60": "1410",
+        "codigo_inodoro": "1422",
+        "codigo_cisterna": "1468",
+        "codigo_mecanismo": "3358",
+        "codigo_tapa": "2305"
+      },
+      "disponibilidad": "Excelente",
+      "volumen_parque": "MUY ALTO",
+      "plazo_recambio_dias": "3-7",
+      "coste_estimado_eur": "60-100",
+      "distribuidores": ["WCTapas", "TapaDelWater", "Disper"],
+      "compatibilidad_grupo": "16.0 cm",
+      "nota": "Una de las series más documentadas y masivas - códigos de referencia bien preservados"
+    },
+    {
+      "marca": "SANITANA",
+      "modelo": "Grecia",
+      "periodo": "1985-2010",
+      "tipo": "Inodoro clásico tanque bajo",
+      "especificaciones": {
+        "distancia_orificios_cm": 16,
+        "forma": "Ovalada clásica",
+        "codigo_tapa_blanco": "GRTM3I10C1",
+        "codigo_tapa_pergamon": "GRTM3I57C1",
+        "codigo_tapa_especial": "GRTMC78C05 / GRTMC83C05"
+      },
+      "disponibilidad": "Excelente",
+      "volumen_parque": "EXTREMADAMENTE ALTO",
+      "plazo_recambio_dias": "3-7",
+      "coste_estimado_eur": "60-100",
+      "distribuidores": ["Leroy Merlin", "distribuidores múltiples"],
+      "compatibilidad_grupo": "16.0 cm",
+      "nota": "Probablemente el modelo más masivo después de Victoria/Marina/Dama"
+    },
+    {
+      "marca": "VALADARES",
+      "modelo": "Assimetrica",
+      "periodo": "1990-2015",
+      "tipo": "Inodoro back-to-wall + lavabos",
+      "especificaciones": {
+        "codigo_bacia": "390071XX2",
+        "codigo_lavabo_90x50": "39881XX2",
+        "codigo_tapa": "50264004 / 50264005",
+        "forma": "Moderna",
+        "distancia_orificios_cm": 16
+      },
+      "disponibilidad": "Excelente",
+      "volumen_parque": "MUY ALTO",
+      "plazo_recambio_dias": "5-10",
+      "coste_estimado_eur": "70-120",
+      "distribuidores": ["Arch Valadares", "distribuidores autorizados"],
+      "compatibilidad_grupo": "16.0 cm",
+      "nota": "Muy documentada - catálogo técnico 2010-2011 disponible"
+    },
+    {
+      "marca": "SANGRÁ",
+      "modelo": "Europa",
+      "periodo": "1980-2007",
+      "tipo": "Inodoro tanque bajo",
+      "especificaciones": {
+        "forma": "Ovalada envolvente (original)",
+        "distancia_orificios_cm": 15.5,
+        "ancho_cm": 35,
+        "largo_cm": 41.5
+      },
+      "disponibilidad": "Solo a medida",
+      "volumen_parque": "ALTO",
+      "plazo_recambio_dias": "7-30",
+      "coste_estimado_eur": "80-140",
+      "distribuidores": ["Yokando", "Disper", "La Bagnoteca", "TAPAWC"],
+      "compatibilidad_grupo": "15.5 cm",
+      "nota": "Empresa cerró 2007 - descatalogado. Original era ENVOLVENTE; a medida es NO ENVOLVENTE (diferencia visual)"
+    },
+    {
+      "marca": "JACOB DELAFON",
+      "modelo": "Altair",
+      "periodo": "1970-2005",
+      "tipo": "Inodoro tanque bajo clásico",
+      "especificaciones": {
+        "ancho_tapa_cm": 35.1,
+        "largo_tapa_cm": 43.5,
+        "distancia_orificios_cm": 16,
+        "forma": "Ovalada",
+        "codigo_referencia": "E6374-00",
+        "material": "Madera / Duroplast"
+      },
+      "disponibilidad": "Buena",
+      "volumen_parque": "ALTO",
+      "plazo_recambio_dias": "7-14",
+      "coste_estimado_eur": "75-120",
+      "distribuidores": ["Leroy Merlin", "distribuidores especializados"],
+      "compatibilidad_grupo": "16.0 cm",
+      "nota": "Modelo clásico muy reconocible, buena disponibilidad tapas a medida"
+    }
+  ],
+
+  "distribuidores_contacto": {
+    "españa": [
+      {
+        "nombre": "WCTapas.es",
+        "url": "wctapas.es",
+        "especialidad": "Tapas hechas a medida, amplio catálogo",
+        "plazo": "3-7 días",
+        "precio_tipico": "€60-120",
+        "productos": "Originales + compatibles, caídas normales/amortiguadas"
+      },
+      {
+        "nombre": "TapaDelWater.com",
+        "url": "tapadelwater.com",
+        "especialidad": "Fichas técnicas, medidas detalladas",
+        "plazo": "3-7 días",
+        "precio_tipico": "€60-120",
+        "productos": "Múltiples marcas, especificaciones precisas"
+      },
+      {
+        "nombre": "Disper.es",
+        "url": "disper.com/es",
+        "especialidad": "Distribuidor especializado, asesoría técnica",
+        "plazo": "7-14 días",
+        "precio_tipico": "€70-140",
+        "productos": "Múltiples marcas, fabricación a medida"
+      },
+      {
+        "nombre": "Yokando.com",
+        "url": "yokando.com/es",
+        "especialidad": "Fabricación a medida premium",
+        "plazo": "7-30 días",
+        "precio_tipico": "€80-150",
+        "productos": "Fabricación a medida, materiales premium"
+      },
+      {
+        "nombre": "Leroy Merlin",
+        "url": "leroymerlin.es",
+        "especialidad": "Distribuidor masivo, stock",
+        "plazo": "3-5 días (stock) / 12+ (encargo)",
+        "precio_tipico": "€60-110",
+        "productos": "Original Sanitana, Roca, Gala"
+      },
+      {
+        "nombre": "La Bagnoteca",
+        "url": "labagnoteca.es",
+        "especialidad": "Descatalogados especializados",
+        "plazo": "3-30 días",
+        "precio_tipico": "€70-140",
+        "productos": "Compatible/Original, múltiples marcas"
+      }
+    ],
+    "portugal": [
+      {
+        "nombre": "Arch Valadares",
+        "url": "archvaladares.com",
+        "especialidad": "Distribuidor oficial Valadares",
+        "plazo": "5-10 días",
+        "productos": "Valadares original, catálogos técnicos"
+      },
+      {
+        "nombre": "Sanitana.com",
+        "url": "sanitana.com",
+        "especialidad": "Distribuidor oficial Sanitana",
+        "plazo": "5-10 días",
+        "productos": "Sanitana original, descargas PDF"
+      }
+    ]
+  },
+
+  "guia_rapida_identificacion": {
+    "paso_1": {
+      "duracion": "2 minutos",
+      "acciones": [
+        "Buscar marca impresa en cisterna, tapa o cerámica",
+        "Buscar modelo (Victoria, Marina, Grecia, etc.)",
+        "Anotar código si es visible",
+        "SI NO ENCUENTRAS: pasar a Paso 2"
+      ]
+    },
+    "paso_2": {
+      "duracion": "5-7 minutos",
+      "acciones": [
+        "Medir DISTANCIA ENTRE ORIFICIOS (CRÍTICO)",
+        "Medir ancho máximo tapa",
+        "Medir largo máximo tapa",
+        "Anotar forma (ovalada, cuadrada, etc.)",
+        "Fotografiar medidas con regla visible"
+      ],
+      "nota": "Distancia orificios: 15.5 vs 16.0 cm (INCOMPATIBLES entre sí)"
+    },
+    "paso_3": {
+      "duracion": "5 minutos",
+      "acciones": [
+        "Buscar distancia orificios en tabla compatibilidad",
+        "Comparar medidas ancho x largo",
+        "Identificar modelo probable",
+        "SI COINCIDE: pasar a Paso 4"
+      ]
+    },
+    "paso_4": {
+      "duracion": "30 min - 2 horas",
+      "acciones": [
+        "Contactar 2-3 distribuidores",
+        "Proporcionar: marca, modelo, medidas exactas, fotos",
+        "Solicitar: precio, plazo, opciones",
+        "Comparar respuestas",
+        "Realizar pedido"
+      ]
+    }
+  },
+
+  "colores_disponibles": {
+    "universales": {
+      "blanco": "Disponible siempre en 100% modelos",
+      "pergamino_hueso": "Disponible siempre en 95% modelos"
+    },
+    "semi_disponibles": {
+      "vison_gris_marron": "Algunos modelos, años 1980-2000",
+      "azul_caribe_agua": "Algunos modelos, años 1980-2000"
+    },
+    "no_disponibles_nuevos": {
+      "rosa_ilusion": "Años 80-90, solo original o fabricación especial cara",
+      "verdes_especiales": "Raramente disponible nuevo",
+      "champagne_dorado": "Premium 1990s, descatalogado",
+      "negro_grafito": "Moderno 2000s, solo algunas marcas",
+      "combinaciones_especiales": "Muy raras"
+    },
+    "recomendacion": "Si color original no disponible: compatible blanco/pergamino (€60-140) O fabricar a medida color exacto (€100-150)"
+  },
+
+  "faq": [
+    {
+      "pregunta": "¿Por qué mi tapa de 15.5 cm no encaja en un inodoro de 16 cm?",
+      "respuesta": "Distancia entre orificios es especificación crítica. 15.5 y 16.0 cm son INCOMPATIBLES. Diferencia 5mm pero imposible intercambiar.",
+      "solucion": "Medir exactamente. Comprar tapa para especificación correcta."
+    },
+    {
+      "pregunta": "¿Puedo conseguir tapa en color original (Rosa Ilusión)?",
+      "respuesta": "Raramente nuevas. Colores básicos (blanco, pergamino) sí. Especiales años 80-90 no.",
+      "solucion": "Opción 1: Original segunda mano. Opción 2: Fabricar a medida (€100-150). Opción 3: Compatible blanco/pergamino."
+    },
+    {
+      "pregunta": "¿Diferencia entre tapa original y compatible?",
+      "respuesta": "ORIGINAL: marca original (a veces descatalogada). COMPATIBLE: tercero, medidas idénticas (hechas a medida MDF+PVC). Funcionalmente idénticas.",
+      "solucion": "Si original disponible: preferir. Si no: compatible (calidad buena, precio mejor)."
+    },
+    {
+      "pregunta": "Mi inodoro es Sangrá pero empresa cerró 2007 - ¿hay recambios?",
+      "respuesta": "SÍ. Aunque cerró, demanda continúa (parque antiguo muy instalado). Disponibles como tapas hechas a medida.",
+      "solucion": "Contactar Yokando, Disper, La Bagnoteca, TAPAWC. Plazo: 7-30 días, precio: €80-140."
+    },
+    {
+      "pregunta": "¿Cómo sé si mi Gala Marina es pre-2007 o post-2007?",
+      "respuesta": "Código: N51420B = pre-2007 (15.5cm). E51423 = post-2007 (16.0cm). O medir distancia orificios.",
+      "solucion": "Buscar código. Si no visible: medir distancia orificios (15.5 vs 16.0cm)."
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+═══════════════════════════════════════════════════════════════════════════════
+  ESPECIFICACIONES TÉCNICAS SANITARIOS DESCATALOGADOS - REFERENCIA RÁPIDA
+  Compilación: 18 enero 2026 | Fuentes: WCTapas, TapaDelWater, Disper, Yokando
+═══════════════════════════════════════════════════════════════════════════════
+
+⚠️  ALERTA CRÍTICA: GALA MARINA CAMBIÓ ESPECIFICACIÓN EN 2007
+   PRE-2007:  Distancia 15.5cm | 35.5x42cm | Código N51420B
+   POST-2007: Distancia 16.0cm | 36x44cm   | Código E51423
+   = COMPLETAMENTE INCOMPATIBLES (5mm diferencia imposible de forzar)
+
+═══════════════════════════════════════════════════════════════════════════════
+TABLA COMPATIBILIDAD: DISTANCIA ENTRE ORIFICIOS (MEDIDA CRÍTICA)
+═══════════════════════════════════════════════════════════════════════════════
+
+GRUPO A: 15.4-15.5 cm (NO COMPATIBLE CON GRUPO B)
+────────────────────────────────────────────────────────────────────────────────
+Modelo                      | Ancho x Largo | Código        | Período
+────────────────────────────────────────────────────────────────────────────────
+Roca Victoria               | 35.2 x 43.8   | A801B6200B    | 1990-2010
+Gala Marina PRE-2007 ⚠️     | 35.5 x 42     | N51420B       | 1975-2007
+Jacob Delafon Odeon Up      | 35.5 x 42     | –             | 2000-2010
+Sangrá Europa               | 35 x 41.5     | –             | 1980-2007
+Sangrá Alcora               | 35 x 42.5     | –             | 1980-2007
+Sanitana Regina             | 35 x 42       | RGTC4MKF10C1  | 1980-2005
+
+GRUPO B: 16.0 cm ESTÁNDAR EUROPEO (COMPATIBLE ENTRE SÍ)
+────────────────────────────────────────────────────────────────────────────────
+Modelo                      | Ancho x Largo | Código        | Período
+────────────────────────────────────────────────────────────────────────────────
+Roca Góndola                | 36 x 42.5     | D1P           | 1980-1999
+Roca Dama                   | 32.7 x 43     | A801B2000     | 1990-2010
+Roca Atlanta                | 36 x 43       | D1P           | 1985-2010
+Roca Meridian               | 36 x 43       | D1P           | 1995-2008
+Gala Marina POST-2007 ⚠️    | 36 x 44       | E51423        | 2007-2010
+Gala Loa                    | 36 x 43       | –             | 1980-2010
+Bellavista Duna             | 36 x 43       | 1422          | 1970-2010
+Bellavista Nexo             | 35.5 x 43     | 0521          | 1980-2010
+Bellavista Stylo            | 35.5 x 43     | E54117        | 1985-2010
+Jacob Delafon Altair        | 35.1 x 43.5   | E6374-00      | 1970-2005
+Valadares Assimétrica       | 37 x 60       | 390071XX2     | 1990-2015
+Valadares Nautilus          | 37 x 60       | 34554002      | 1995-2015
+Sanitana Grecia             | 36 x 43       | GRTM3I10C1    | 1985-2010
+Sanitana Munique            | 36 x 43       | MPTD2E10C0    | 1990-2010
+
+═══════════════════════════════════════════════════════════════════════════════
+DISPONIBILIDAD RECAMBIOS
+═══════════════════════════════════════════════════════════════════════════════
+
+CATEGORÍA A - EXCELENTE (3-7 días, €60-100)
+Victoria, Góndola, Dama, Atlanta (Roca) | Marina pre+post-2007, Loa (Gala)
+Duna, Nexo, Stylo (Bellavista) | Grecia, Munique (Sanitana)
+
+CATEGORÍA B - BUENA (7-14 días, €70-120)
+Meridian, Veranda, Frontalis (Roca) | Bacara, Diana, Aurea (Gala)
+Arcadia (Bellavista) | Altair, Odeon Up, Antares (Jacob Delafon)
+Regina, Coral (Sanitana) | Nautilus, Assimétrica (Valadares)
+
+CATEGORÍA C - LIMITADA (30+ días, €80-150)
+SANGRÁ (TODOS - empresa cerró 2007) | Georgia, Lucerna (Roca)
+Modelos antiguos Jacob Delafon | Valadares pre-1995
+
+═══════════════════════════════════════════════════════════════════════════════
+IDENTIFICACIÓN EN CAMPO: 5 MINUTOS
+═══════════════════════════════════════════════════════════════════════════════
+
+PASO 1: Buscar marca/modelo en cisterna o cerámica
+   → Si encontrado: ir a Paso 3
+   → Si NO encontrado: ir a Paso 2
+
+PASO 2: Medir (con regla o cinta métrica)
+   ✓ DISTANCIA ENTRE ORIFICIOS (CRÍTICA): 15.5 vs 16.0 cm
+   ✓ Ancho máximo tapa: lado a lado
+   ✓ Largo máximo tapa: frente a pared
+   ✓ Forma: ovalada / cuadrada / asimétrica
+
+PASO 3: Buscar en tabla compatibilidad superior
+   → Buscar distancia orificios
+   → Comparar medidas ancho x largo
+   → Identificar modelo
+
+PASO 4: Contactar distribuidor
+   Proporcionar: marca, modelo, medidas exactas, FOTOS
+   Solicitar: precio, plazo, opción (original/compatible)
+
+═══════════════════════════════════════════════════════════════════════════════
+CONTACTO DISTRIBUIDORES
+═══════════════════════════════════════════════════════════════════════════════
+
+ESPAÑA (mejor cobertura)
+────────────────────────────────────────────────────────────────────────────────
+WCTapas.es                  → 3-7 días, €60-120, hechas a medida
+TapaDelWater.com            → 3-7 días, €60-120, fichas técnicas completas
+Disper.es                   → 7-14 días, €70-140, asesoría técnica
+Yokando.com/es              → 7-30 días, €80-150, fabricación a medida premium
+Leroy Merlin.es             → 3-5 días (stock), €60-110, distribuidor masivo
+
+PORTUGAL
+────────────────────────────────────────────────────────────────────────────────
+Arch Valadares.com          → 5-10 días, distribuidor oficial
+Sanitana.com                → 5-10 días, distribuidor oficial
+
+═══════════════════════════════════════════════════════════════════════════════
+PUNTOS CLAVE A RECORDAR
+═══════════════════════════════════════════════════════════════════════════════
+
+✓ Distancia orificios: 15.5 ≠ 16.0 cm = INCOMPATIBLES (punto más crítico)
+
+✓ Gala Marina: CAMBIO TOTAL 2007 (pre ≠ post-2007, especificar año)
+
+✓ Sangrá: Empresa cerró 2007 pero recambios disponibles (solo a medida)
+
+✓ Colores originales: Mayoría años 80-90 NO disponibles nuevos
+  → Alternativa: compatible blanco/pergamino (€60-140)
+  → O: fabricar a medida color exacto (€100-150)
+
+✓ Original vs Compatible: Funcionalmente idénticas
+  → Original: preferir si disponible
+  → Compatible: calidad buena, precio mejor
+
+✓ Plazo típico: 3-30 días según disponibilidad/fabricación
+
+═══════════════════════════════════════════════════════════════════════════════
+MODELOS MÁS MASIVOS ESPAÑA (> 70% parque)
+═══════════════════════════════════════════════════════════════════════════════
+
+1. Gala Marina (pre-2007)      → EXTREMADAMENTE ALTO (años 1990-2005)
+2. Roca Victoria               → MUY ALTO (años 1990-2010)
+3. Sanitana Grecia             → MUY ALTO (años 1985-2010)
+4. Roca Góndola + Atlanta      → MUY ALTO (años 1980-2010)
+5. Bellavista Duna + Nexo      → MUY ALTO (años 1970-2010)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+DOCUMENTACIÓN COMPLETA DISPONIBLE:
+→ especificaciones_json.json     (base datos estructurada)
+→ especificaciones_csv.csv       (tabla Excel)
+→ RESUMEN_VISUAL_UNA_PAGINA.md  (referencia imprimible)
+→ guia_identificacion_visual_campo.md (guía práctica 5 min)
+
+═══════════════════════════════════════════════════════════════════════════════

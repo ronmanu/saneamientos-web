@@ -1,0 +1,34 @@
+Marca,Modelo,Período,Tipo,Distancia_Orificios_cm,Ancho_cm,Largo_cm,Forma,Código_Referencia,Disponibilidad,Volumen_Parque,Plazo_Días,Precio_EUR,Grupo_Compatibilidad,Distribuidores,Alerta_Crítica
+ROCA,Victoria,1990-2010,Inodoro tanque bajo,15.4,35.2,43.8,Ovalada,A801B6200B,Excelente,MUY ALTO,3-7,60-100,15.5 cm,"WCTapas, TapaDelWater, Disper, Leroy Merlin",Modelo icónico España 80-90
+ROCA,Góndola,1980-1999,Inodoro tanque bajo,16,36,42.5,Ovalada,D1P,Muy buena,MUY ALTO,3-7,65-100,16.0 cm,"TapaDelWater, Disper, Yokando",Amplio parque instalado
+ROCA,Dama,1990-2010,Inodoro tanque bajo,16,32.7,43,Cuadrada/Redondeada,A801B2000,Excelente,MUY ALTO,3-7,60-95,16.0 cm,"WCTapas, TapaDelWater, Disper, Leroy Merlin",Modelo muy masivo España
+ROCA,Atlanta,1985-2010,Inodoro tanque bajo,16,36,43,Ovalada,D1P,Excelente,ALTO,3-7,65-100,16.0 cm,"WCTapas, Tapa del Water, Disper",Muy extendido
+ROCA,Meridian,1995-2008,Inodoro tanque bajo,16,36,43,Ovalada,D1P,Buena,MEDIO-ALTO,7-14,70-110,16.0 cm,Distribuidores recambos,Versiones originales parcialmente descatalogadas
+ROCA,Veranda,1995-2008,Inodoro asimétrico,16,~35,~42,Asimétrica,–,Moderada,MEDIO,7-14,75-120,16.0 cm,"Yokando, especializados",Diseño innovador
+GALA,Marina PRE-2007,1975-2007,Inodoro tanque bajo,15.5,35.5,42,Ovalada,N51420B,Excelente,EXTREMADAMENTE ALTO,3-7,60-95,15.5 cm,"TapaWC, WCTapas, Disper, Yokando","⚠️ CAMBIO 2007 - NO compatible con post-2007"
+GALA,Marina POST-2007,2007-2010,Inodoro tanque bajo,16,36,44,Ovalada,E51423,Excelente,ALTO,3-7,65-100,16.0 cm,"TapaDelWater, Leroy Merlin","⚠️ CAMBIO 2007 - NO compatible con pre-2007"
+GALA,Loa,1980-2010,Inodoro tanque bajo,16,36,43,Ovalada,–,Muy buena,ALTO,7-14,70-110,16.0 cm,Distribuidores múltiples,Múltiples variantes tapa
+GALA,Bacara,1995-2008,Inodoro,16,~36,~43,Ovalada,–,Moderada,MEDIO,7-14,75-120,16.0 cm,Distribuidores especializados,Algunos colores originales no disponibles
+GALA,Diana,1985-2005,Inodoro,16,~36,~43,Ovalada,–,Moderada,BAJO-MEDIO,7-14,75-120,16.0 cm,Distribuidores especializados,Tapa original aún soportada
+BELLAVISTA,Duna,1970-2010,Gama completa sanitarios,16,36,43,Ovalada,"1410, 1422, 1468, 3358",Excelente,MUY ALTO,3-7,60-100,16.0 cm,"Distribuidores especializados, WCTapas",Serie de enorme volumen instalado
+BELLAVISTA,Nexo,1980-2010,Gama versátil suelo+suspendido,16,35.5,43,Ovalada,"0521, 0562, 0531, 3514, 2305",Buena,MUY ALTO,7-14,70-110,16.0 cm,Distribuidores múltiples,Muchas variantes aún disponibles
+BELLAVISTA,Stylo,1985-2010,Gama amplia sanitarios,16,35.5,43,Curva en D,"1113-1117, 1184, 3154",Excelente,ALTO,5-10,65-105,16.0 cm,Distribuidores especializados,Gama muy completa con recambios
+BELLAVISTA,Arcadia,1990-2010,Inodoro suspendido,16,~36,~42,Moderna,"1325, 2337",Buena,MEDIO,7-14,75-120,16.0 cm,Distribuidores de suspendidos,Recambios aún disponibles
+JACOBDELAFON,Altair,1970-2005,Inodoro tanque bajo,16,35.1,43.5,Ovalada,E6374-00,Buena,ALTO,7-14,75-120,16.0 cm,"Yokando, Disper, especializados",Modelo icónico
+JACOBDELAFON,Odeon Up,2000-2010,Inodoro modernizado,15.5,35.5,42,Ovalada,–,Buena,ALTO,7-14,75-125,15.5 cm,Distribuidores especializados,Evolución del Odeon clásico
+JACOBDELAFON,Odeon Clásico,1950-2010,Inodoro tanque bajo,~16,~35,~42,Ovalada,–,Buena,MUY ALTO,7-14,75-120,16.0 cm,Distribuidores especializados,Serie histórica múltiples evoluciones
+JACOBDELAFON,Antares,1975-2005,Inodoro tanque bajo,16,~35,~43,Ovalada,–,Buena,MEDIO-ALTO,7-14,75-120,16.0 cm,Distribuidores múltiples,Modelo icónico muy reconocible
+SANGRA,Europa,1980-2007,Inodoro tanque bajo,15.5,35,41.5,Ovalada,–,Solo a medida,ALTO,7-30,80-140,15.5 cm,"Yokando, Disper, La Bagnoteca, TAPAWC",⚠️ EMPRESA CERRÓ 2007 - descatalogado
+SANGRA,Alcora,1980-2007,Inodoro tanque bajo,15.5,35,42.5,Ovalada,–,Solo a medida,MUY ALTO,7-30,80-140,15.5 cm,"Yokando, Disper, La Bagnoteca","⚠️ EMPRESA CERRÓ 2007 - modelo histórico"
+SANGRA,Bahía,1975-2007,Inodoro tanque bajo,15.5,~35,~42,Ovalada,–,Solo a medida,ALTO,7-30,80-140,15.5 cm,"Distribuidores especializados, Catálogos recambos",⚠️ EMPRESA CERRÓ 2007
+SANGRA,Isis,1975-2007,Inodoro,15.5,~35,~42,Ovalada,–,Solo a medida,ALTO,7-30,80-140,15.5 cm,"Distribuidores especializados, Catálogos recambos",⚠️ Volumen instalado muy alto
+VALADARES,Assimétrica,1990-2015,Inodoro back-to-wall,16,37,60,Moderna,"39881XX2, 390071XX2, 50264004",Excelente,MUY ALTO,5-10,70-120,16.0 cm,"Arch Valadares, distribuidores autorizados",Modelo muy popular Portugal/España
+VALADARES,Nautilus,1995-2015,Inodoro compacto rimless,16,37,60,Ovalada moderna,34554002,Moderada,MEDIO-ALTO,7-14,75-120,16.0 cm,Distribuidores especializados,Modelo relativamente moderno
+VALADARES,Tagus,2000-2015,Inodoro back-to-wall,16,~37,~60,Moderna,–,Moderada,ALTO,7-14,70-120,16.0 cm,Distribuidores múltiples,Modelo de gama media
+VALADARES,Oporto,1980-2010,Inodoro close coupled,16,~36,~42,Ovalada,–,Limitada,MEDIO,7-30,80-140,16.0 cm,Distribuidores especializados,Modelo antiguo típico Portugal
+SANITANA,Grecia,1985-2010,Inodoro clásico,16,36,43,Ovalada,"GRTM3I10C1, GRTM3I57C1, GRTMC78C05",Excelente,EXTREMADAMENTE ALTO,3-7,60-100,16.0 cm,Leroy Merlin,Probablemente modelo más masivo post-Victoria
+SANITANA,Munique,1990-2010,Inodoro funcional,16,36,43,Ovalada,MPTD2E10C0,Muy buena,MUY ALTO,5-10,65-105,16.0 cm,Distribuidores múltiples,Algunos colores originales no disponibles
+SANITANA,Regina,1980-2005,Inodoro gama premium,15.5,35,42,Ovalada,"RGTC4MKF10C1, MCAID351",Buena,ALTO,7-14,70-110,15.5 cm,Distribuidores especializados,Modelo de gama alta años 80-90
+SANITANA,Colonia,1975-2005,Inodoro clásico,16,~35,~42,Ovalada,–,Limitada,BAJO-MEDIO,30+,90-150,16.0 cm,Distribuidores especializados,Modelo muy antiguo
+DURAVIT,Darling New,1999-2010,Inodoro suelo wash-down,16,~36,~42,Ovalada,"D2557090, D2100200",Limitada,BAJO,7-30,100-160,16.0 cm,Distribuidores especializados,⚠️ Completamente descatalogado desde 2010
+DURAVIT,Happy D Original,1999-2010,Inodoro close-coupled,16,~36,~42,Ovalada,"017009, 017109, 017209",Limitada,BAJO-MEDIO,7-30,100-160,16.0 cm,Distribuidores especializados,Sustituido por Happy D.2
