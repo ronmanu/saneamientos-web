@@ -3661,6 +3661,229 @@
             "fondo": "45",
             "alto": "55"
           }
+        },
+        {
+          "id": "gala-elia_cisterna-52",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Elia Cisterna",
+          "modeloSlug": "elia_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1970-2000",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Elia Cisterna de GALA",
+          "url": "/catalogo/gala/cisternas/elia_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "simple",
+            "compatibleConModelosWc": [
+              "Elia"
+            ],
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-klea_cisterna-53",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Klea Cisterna",
+          "modeloSlug": "klea_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1990-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Klea Cisterna de GALA",
+          "url": "/catalogo/gala/cisternas/klea_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "simple",
+            "compatibleConModelosWc": [
+              "Klea"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "gala-street_cisterna-54",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Street Cisterna",
+          "modeloSlug": "street_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1995-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Street Cisterna de GALA",
+          "url": "/catalogo/gala/cisternas/street_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "simple",
+            "compatibleConModelosWc": [
+              "Street"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "gala-gala_2000_cisterna-55",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Gala 2000 Cisterna",
+          "modeloSlug": "gala_2000_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1998-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Gala 2000 Cisterna de GALA",
+          "url": "/catalogo/gala/cisternas/gala_2000_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "simple",
+            "compatibleConModelosWc": [
+              "Gala 2000"
+            ],
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-aurea_cisterna-56",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Aurea Cisterna",
+          "modeloSlug": "aurea_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Aurea Cisterna de GALA",
+          "url": "/catalogo/gala/cisternas/aurea_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "simple",
+            "compatibleConModelosWc": [
+              "Aurea"
+            ],
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-loa_cisterna-57",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Loa Cisterna",
+          "modeloSlug": "loa_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1980-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Loa Cisterna de GALA",
+          "url": "/catalogo/gala/cisternas/loa_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "simple",
+            "compatibleConModelosWc": [
+              "Loa"
+            ],
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-nostalgia_cisterna-58",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Nostalgia Cisterna",
+          "modeloSlug": "nostalgia_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Nostalgia Cisterna de GALA",
+          "url": "/catalogo/gala/cisternas/nostalgia_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "simple",
+            "compatibleConModelosWc": [
+              "Nostalgia"
+            ],
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-bacara_cisterna-59",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Bacara Cisterna",
+          "modeloSlug": "bacara_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1990-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Bacara Cisterna de GALA",
+          "url": "/catalogo/gala/cisternas/bacara_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "simple",
+            "compatibleConModelosWc": [
+              "Bacara"
+            ],
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-diana_cisterna-60",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Diana Cisterna",
+          "modeloSlug": "diana_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1980-2000",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Diana Cisterna de GALA",
+          "url": "/catalogo/gala/cisternas/diana_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "simple",
+            "compatibleConModelosWc": [
+              "Diana"
+            ],
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
         }
       ]
     },
@@ -6093,6 +6316,191 @@
             "cristal": "templado 6mm",
             "perfileria": "aluminio"
           }
+        },
+        {
+          "id": "valadares-nautilus_cisterna-41",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Nautilus Cisterna",
+          "modeloSlug": "nautilus_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1995-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Nautilus Cisterna de Valadares",
+          "url": "/catalogo/valadares/cisternas/nautilus_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "compatibleConModelosWc": [
+              "Nautilus"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-tagus_cisterna-42",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Tagus Cisterna",
+          "modeloSlug": "tagus_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Tagus Cisterna de Valadares",
+          "url": "/catalogo/valadares/cisternas/tagus_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "compatibleConModelosWc": [
+              "Tagus"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-oporto_cisterna-43",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Oporto Cisterna",
+          "modeloSlug": "oporto_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1985-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Oporto Cisterna de Valadares",
+          "url": "/catalogo/valadares/cisternas/oporto_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "compatibleConModelosWc": [
+              "Oporto"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-opus_cisterna-44",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Opus Cisterna",
+          "modeloSlug": "opus_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Opus Cisterna de Valadares",
+          "url": "/catalogo/valadares/cisternas/opus_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "compatibleConModelosWc": [
+              "Opus"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-oceanus_cisterna-45",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Oceanus Cisterna",
+          "modeloSlug": "oceanus_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Oceanus Cisterna de Valadares",
+          "url": "/catalogo/valadares/cisternas/oceanus_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "compatibleConModelosWc": [
+              "Oceanus"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-durius_cisterna-46",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Durius Cisterna",
+          "modeloSlug": "durius_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1985-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Durius Cisterna de Valadares",
+          "url": "/catalogo/valadares/cisternas/durius_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "compatibleConModelosWc": [
+              "Durius"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-egg_cisterna-47",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Egg Cisterna",
+          "modeloSlug": "egg_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Egg Cisterna de Valadares",
+          "url": "/catalogo/valadares/cisternas/egg_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "doble",
+            "compatibleConModelosWc": [
+              "Egg"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-thema_cisterna-48",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Thema Cisterna",
+          "modeloSlug": "thema_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Thema Cisterna de Valadares",
+          "url": "/catalogo/valadares/cisternas/thema_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "compatibleConModelosWc": [
+              "Thema"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
         }
       ]
     },
@@ -7167,6 +7575,223 @@
             "tipoApertura": "corredera",
             "cristal": "templado 6mm",
             "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "sanitana-regina_cisterna-46",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Regina Cisterna",
+          "modeloSlug": "regina_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1980-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Regina Cisterna de Sanitana",
+          "url": "/catalogo/sanitana/cisternas/regina_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "simple",
+            "compatibleConModelosWc": [
+              "Regina"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-munique_cisterna-47",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Munique Cisterna",
+          "modeloSlug": "munique_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Munique Cisterna de Sanitana",
+          "url": "/catalogo/sanitana/cisternas/munique_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "simple",
+            "compatibleConModelosWc": [
+              "Munique",
+              "Munich"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-colonia_cisterna-48",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Colonia Cisterna",
+          "modeloSlug": "colonia_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1985-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Colonia Cisterna de Sanitana",
+          "url": "/catalogo/sanitana/cisternas/colonia_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "simple",
+            "compatibleConModelosWc": [
+              "Colonia"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-kapa_cisterna-49",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Kapa Cisterna",
+          "modeloSlug": "kapa_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Kapa Cisterna de Sanitana",
+          "url": "/catalogo/sanitana/cisternas/kapa_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "simple",
+            "compatibleConModelosWc": [
+              "Kapa"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-imperial_cisterna-50",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Imperial Cisterna",
+          "modeloSlug": "imperial_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1980-2000",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Imperial Cisterna de Sanitana",
+          "url": "/catalogo/sanitana/cisternas/imperial_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "simple",
+            "compatibleConModelosWc": [
+              "Imperial"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-coral_cisterna-51",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Coral Cisterna",
+          "modeloSlug": "coral_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Coral Cisterna de Sanitana",
+          "url": "/catalogo/sanitana/cisternas/coral_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "simple",
+            "compatibleConModelosWc": [
+              "Coral"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-nexo_cisterna-52",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Nexo Cisterna",
+          "modeloSlug": "nexo_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Nexo Cisterna de Sanitana",
+          "url": "/catalogo/sanitana/cisternas/nexo_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "doble",
+            "compatibleConModelosWc": [
+              "Nexo"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-mobil_pmr_cisterna-53",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Mobil PMR Cisterna",
+          "modeloSlug": "mobil_pmr_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "2005-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Mobil PMR Cisterna de Sanitana",
+          "url": "/catalogo/sanitana/cisternas/mobil_pmr_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "doble",
+            "compatibleConModelosWc": [
+              "Mobil PMR"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-lisboa_cisterna-54",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Lisboa Cisterna",
+          "modeloSlug": "lisboa_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Lisboa Cisterna de Sanitana",
+          "url": "/catalogo/sanitana/cisternas/lisboa_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "simple",
+            "compatibleConModelosWc": [
+              "Lisboa"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
           }
         }
       ]
@@ -8400,6 +9025,222 @@
               "blanco alpino"
             ]
           }
+        },
+        {
+          "id": "duravit-darling_new_cisterna-53",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Darling New Cisterna",
+          "modeloSlug": "darling_new_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "2005-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Darling New Cisterna de Duravit",
+          "url": "/catalogo/duravit/cisternas/darling_new_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "doble",
+            "compatibleConModelosWc": [
+              "Darling New"
+            ],
+            "colorDisponible": [
+              "blanco alpino"
+            ]
+          }
+        },
+        {
+          "id": "duravit-happy_d_original_cisterna-54",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Happy D Original Cisterna",
+          "modeloSlug": "happy_d_original_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "2000-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Happy D Original Cisterna de Duravit",
+          "url": "/catalogo/duravit/cisternas/happy_d_original_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "doble",
+            "compatibleConModelosWc": [
+              "Happy D"
+            ],
+            "colorDisponible": [
+              "blanco alpino"
+            ]
+          }
+        },
+        {
+          "id": "duravit-happy_d2_cisterna-55",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Happy D.2 Cisterna",
+          "modeloSlug": "happy_d2_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "2008-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Happy D.2 Cisterna de Duravit",
+          "url": "/catalogo/duravit/cisternas/happy_d2_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "doble",
+            "compatibleConModelosWc": [
+              "Happy D.2"
+            ],
+            "colorDisponible": [
+              "blanco alpino"
+            ]
+          }
+        },
+        {
+          "id": "duravit-d-code_cisterna-56",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "D-Code Cisterna",
+          "modeloSlug": "d-code_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1995-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna D-Code Cisterna de Duravit",
+          "url": "/catalogo/duravit/cisternas/d-code_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "doble",
+            "compatibleConModelosWc": [
+              "D-Code"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-starck_2_cisterna-57",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Starck 2 Cisterna",
+          "modeloSlug": "starck_2_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Starck 2 Cisterna de Duravit",
+          "url": "/catalogo/duravit/cisternas/starck_2_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "doble",
+            "compatibleConModelosWc": [
+              "Starck 2"
+            ],
+            "colorDisponible": [
+              "blanco alpino"
+            ]
+          }
+        },
+        {
+          "id": "duravit-starck_3_cisterna-58",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Starck 3 Cisterna",
+          "modeloSlug": "starck_3_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Starck 3 Cisterna de Duravit",
+          "url": "/catalogo/duravit/cisternas/starck_3_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "doble",
+            "compatibleConModelosWc": [
+              "Starck 3"
+            ],
+            "colorDisponible": [
+              "blanco alpino"
+            ]
+          }
+        },
+        {
+          "id": "duravit-me_by_starck_cisterna-59",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "ME by Starck Cisterna",
+          "modeloSlug": "me_by_starck_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "2010-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna ME by Starck Cisterna de Duravit",
+          "url": "/catalogo/duravit/cisternas/me_by_starck_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "doble",
+            "compatibleConModelosWc": [
+              "ME by Starck"
+            ],
+            "colorDisponible": [
+              "blanco alpino"
+            ]
+          }
+        },
+        {
+          "id": "duravit-vero_cisterna-60",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Vero Cisterna",
+          "modeloSlug": "vero_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Vero Cisterna de Duravit",
+          "url": "/catalogo/duravit/cisternas/vero_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "doble",
+            "compatibleConModelosWc": [
+              "Vero"
+            ],
+            "colorDisponible": [
+              "blanco alpino"
+            ]
+          }
+        },
+        {
+          "id": "duravit-vero_air_cisterna-61",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Vero Air Cisterna",
+          "modeloSlug": "vero_air_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "2010-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Vero Air Cisterna de Duravit",
+          "url": "/catalogo/duravit/cisternas/vero_air_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "tipoDescarga": "doble",
+            "compatibleConModelosWc": [
+              "Vero Air"
+            ],
+            "colorDisponible": [
+              "blanco alpino"
+            ]
+          }
         }
       ]
     },
@@ -9217,6 +10058,213 @@
             "tipoApertura": "corredera",
             "cristal": "templado 6mm",
             "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "jacobdelafon-odeon_clasico_cisterna-37",
+          "marca": "JACOB DELAFON",
+          "marcaSlug": "jacobdelafon",
+          "modelo": "Odeon Clásico Cisterna",
+          "modeloSlug": "odeon_clasico_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1970-2000",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Odeon Clásico Cisterna de JACOB DELAFON",
+          "url": "/catalogo/jacobdelafon/cisternas/odeon_clasico_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "compatibleConModelosWc": [
+              "Odeon clásico"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacobdelafon-odeon_up_cisterna-38",
+          "marca": "JACOB DELAFON",
+          "marcaSlug": "jacobdelafon",
+          "modelo": "Odeon Up Cisterna",
+          "modeloSlug": "odeon_up_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Odeon Up Cisterna de JACOB DELAFON",
+          "url": "/catalogo/jacobdelafon/cisternas/odeon_up_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "compatibleConModelosWc": [
+              "Odeon Up"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacobdelafon-antares_cisterna-39",
+          "marca": "JACOB DELAFON",
+          "marcaSlug": "jacobdelafon",
+          "modelo": "Antares Cisterna",
+          "modeloSlug": "antares_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Antares Cisterna de JACOB DELAFON",
+          "url": "/catalogo/jacobdelafon/cisternas/antares_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "compatibleConModelosWc": [
+              "Antares"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacobdelafon-astros_cisterna-40",
+          "marca": "JACOB DELAFON",
+          "marcaSlug": "jacobdelafon",
+          "modelo": "Astros Cisterna",
+          "modeloSlug": "astros_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1990-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Astros Cisterna de JACOB DELAFON",
+          "url": "/catalogo/jacobdelafon/cisternas/astros_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "compatibleConModelosWc": [
+              "Astros"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacobdelafon-freelance_cisterna-41",
+          "marca": "JACOB DELAFON",
+          "marcaSlug": "jacobdelafon",
+          "modelo": "Freelance Cisterna",
+          "modeloSlug": "freelance_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "1995-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Freelance Cisterna de JACOB DELAFON",
+          "url": "/catalogo/jacobdelafon/cisternas/freelance_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "compatibleConModelosWc": [
+              "Freelance"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacobdelafon-portrait_cisterna-42",
+          "marca": "JACOB DELAFON",
+          "marcaSlug": "jacobdelafon",
+          "modelo": "Portrait Cisterna",
+          "modeloSlug": "portrait_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Portrait Cisterna de JACOB DELAFON",
+          "url": "/catalogo/jacobdelafon/cisternas/portrait_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "compatibleConModelosWc": [
+              "Portrait"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacobdelafon-escale_cisterna-43",
+          "marca": "JACOB DELAFON",
+          "marcaSlug": "jacobdelafon",
+          "modelo": "Escale Cisterna",
+          "modeloSlug": "escale_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "2005-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Escale Cisterna de JACOB DELAFON",
+          "url": "/catalogo/jacobdelafon/cisternas/escale_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "compatibleConModelosWc": [
+              "Escale"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacobdelafon-ove_cisterna-44",
+          "marca": "JACOB DELAFON",
+          "marcaSlug": "jacobdelafon",
+          "modelo": "Ove Cisterna",
+          "modeloSlug": "ove_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "2005-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Ove Cisterna de JACOB DELAFON",
+          "url": "/catalogo/jacobdelafon/cisternas/ove_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "compatibleConModelosWc": [
+              "Ove"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacobdelafon-struktura_cisterna-45",
+          "marca": "JACOB DELAFON",
+          "marcaSlug": "jacobdelafon",
+          "modelo": "Struktura Cisterna",
+          "modeloSlug": "struktura_cisterna",
+          "tipoPrincipal": "Cisterna",
+          "categoria": "cisternas",
+          "periodo": "2008-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Cisterna Struktura Cisterna de JACOB DELAFON",
+          "url": "/catalogo/jacobdelafon/cisternas/struktura_cisterna",
+          "specs": {
+            "tipoCisterna": "tanque bajo",
+            "material": "porcelana",
+            "compatibleConModelosWc": [
+              "Struktura"
+            ],
+            "colorDisponible": [
+              "blanco"
+            ]
           }
         }
       ]
