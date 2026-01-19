@@ -20,10 +20,72 @@ import {
     getProductoByRuta,
     getStaticProductParams,
     getProductosRelacionados,
+    getProductosByMarcaYCategoria,
     Producto
 } from '@/app/data/productos';
 import { getImagenProducto } from '@/app/data/imagenes';
 import styles from './page.module.css';
+
+// Mapa de colores para el selector visual
+const COLOR_MAP: Record<string, string> = {
+    'blanco': '#FFFFFF',
+    'pergamon': '#F5F5DC',
+    'pergamón': '#F5F5DC',
+    'vison': '#D2B48C',
+    'visón': '#D2B48C',
+    'rosa': '#FFC0CB',
+    'azul': '#87CEEB',
+    'verde': '#90EE90',
+    'gris': '#D3D3D3',
+    'habana': '#5D4037',
+    'bolero': '#800000',
+    'champan': '#F7E7CE',
+    'champán': '#F7E7CE',
+    'manhatan': '#C0C0C0',
+    'jazim': '#FFFACD',
+    'jazmín': '#FFFACD',
+    'rojo': '#FF0000',
+    'negro': '#000000',
+    'mate': '#333333',
+    'caramelo': '#CD853F',
+    'amarillo': '#FFFF00',
+    'aguamarina': '#7FFFD4',
+    'marrón': '#8B4513',
+    'marron': '#8B4513'
+};
+
+const COLORES_IGNORAR = Object.keys(COLOR_MAP);
+
+// Helper para extraer el nombre base del modelo (sin color)
+function getNombreBase(modelo: string): string {
+    let nombre = modelo.toLowerCase().split('(')[0].trim();
+
+    // Intentar quitar el color del final del nombre
+    // Ordenamos colores por longitud para quitar primero los compuestos si hubiera
+    const coloresSorted = [...COLORES_IGNORAR].sort((a, b) => b.length - a.length);
+
+    for (const color of coloresSorted) {
+        if (nombre.endsWith(' ' + color)) {
+            nombre = nombre.substring(0, nombre.lastIndexOf(' ' + color)).trim();
+            break; // Solo quitamos el último token de color
+        }
+    }
+    return nombre;
+}
+
+// Helper para obtener color hexadecimal
+function getColorHex(modelo: string): string {
+    const nombreNorm = modelo.toLowerCase();
+    for (const [colorName, hex] of Object.entries(COLOR_MAP)) {
+        // Buscamos si el nombre contiene el color como palabra completa (idealmente)
+        // O al final
+        if (nombreNorm.includes(' ' + colorName) || nombreNorm === colorName) {
+            return hex;
+        }
+    }
+    // Si no detecta color, asumimos Blanco si es el modelo base
+    return '#FFFFFF';
+}
 
 interface ProductPageProps {
     params: Promise<{ marca: string; categoria: string; modelo: string }>;
@@ -99,6 +161,20 @@ export default async function ProductoPage({ params }: ProductPageProps) {
     const categoriaFormateada = formatearTexto(categoria);
     const relacionados = getProductosRelacionados(producto, 4);
     const imagenProducto = getImagenProducto(producto.marcaSlug, producto.modeloSlug, producto.categoria);
+
+    // Calcular variantes de color
+    const allProductsCat = getProductosByMarcaYCategoria(producto.marcaSlug, producto.categoria);
+    const baseName = getNombreBase(producto.modelo);
+    const variantes = allProductsCat
+        .filter(p => getNombreBase(p.modelo) === baseName)
+        // Ordenar: Blanco primero si existe, luego alfabético
+        .sort((a, b) => {
+            const nameA = a.modelo.toLowerCase();
+            const nameB = b.modelo.toLowerCase();
+            if (nameA.includes('blanco')) return -1;
+            if (nameB.includes('blanco')) return 1;
+            return nameA.localeCompare(nameB);
+        });
 
     // Schema.org JSON-LD para productos
     const jsonLd = {
@@ -186,6 +262,26 @@ export default async function ProductoPage({ params }: ProductPageProps) {
                     <div className={styles.tipoPrincipal}>
                         <strong>Tipo:</strong> {producto.tipoPrincipal}
                     </div>
+
+                    {/* Selector de Variantes de Color */}
+                    {variantes.length > 1 && (
+                        <div className={styles.variantSelector}>
+                            <span className={styles.variantLabel}>
+                                Color seleccionado: <strong style={{ color: 'var(--color-primary)' }}>{producto.modelo.replace(baseName, '').trim() || 'Blanco / Standard'}</strong>
+                            </span>
+                            <div className={styles.variantGrid}>
+                                {variantes.map(v => (
+                                    <Link
+                                        key={v.id}
+                                        href={`/catalogo/${marca}/${categoria}/${v.modeloSlug}`}
+                                        title={v.modelo}
+                                        className={`${styles.colorCircle} ${v.modeloSlug === producto.modeloSlug ? styles.active : ''}`}
+                                        style={{ backgroundColor: getColorHex(v.modelo) }}
+                                    />
+                                ))}
+                            </div>
+                        </div>
+                    )}
 
                     {producto.codigo && producto.codigo !== '–' && (
                         <div className={styles.codigo}>

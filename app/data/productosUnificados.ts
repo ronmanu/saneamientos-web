@@ -305,3 +305,25 @@ export function getProductosRelacionados(
         )
         .slice(0, limite);
 }
+
+/**
+ * Obtiene variantes de color del mismo modelo base
+ * @param producto Producto actual
+ * @returns Array de productos hermanos (mismo modelo, distinto color)
+ */
+export function getVariantesDeColor(producto: ProductoUnificado): ProductoUnificado[] {
+    const coloresRegex = /\s+(blanco|pergam[oó]n|vis[oó]n|rosa|azul|verde|gris|habana|bolero|champ[aá]n|manhatan|jazm[ií]n|caramelo|rojo|negro|mate).*$/i;
+    
+    // Extraer nombre base limpiando el color y la marca entre paréntesis
+    // Ej: 'Victoria Verde (ROCA)' -> 'Victoria Verde ' -> 'Victoria'
+    const cleanName = (name: string) => name.split('(')[0].replace(coloresRegex, '').trim().toLowerCase();
+    
+    const baseName = cleanName(producto.name);
+    
+    return productosUnificados.filter(p => 
+        p.brand === producto.brand &&
+        p.category === producto.category &&
+        cleanName(p.name) === baseName
+    ).sort((a, b) => a.name.localeCompare(b.name));
+}
+
