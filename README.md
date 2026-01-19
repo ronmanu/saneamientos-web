@@ -1,366 +1,174 @@
-# 🚿 Saneamientos Descatalogados - Web Application
+# 🚽 Sanitarios Descatalogados - Catálogo Web
 
-Portal e-commerce para sanitarios descatalogados de marcas premium.
+[![Next.js](https://img.shields.io/badge/Next.js-16.1.2-black)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)](https://www.typescriptlang.org/)
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black)](https://vercel.com)
 
-## 📋 Tabla de Contenidos
+> Plataforma web especializada en la localización y venta de piezas de recambio para sanitarios descatalogados en España. Catálogo con +80 modelos de marcas como **Roca, Gala, Bellavista, Jacob Delafon, Sangrá, Valadares, Sanitana y Duravit**.
 
-- [Tecnologías](#-tecnologías)
-- [Instalación](#-instalación)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Variables de Entorno](#-variables-de-entorno)
-- [Scripts Disponibles](#-scripts-disponibles)
-- [API Endpoints](#-api-endpoints)
-- [Testing](#-testing)
-- [Despliegue](#-despliegue)
-- [Mejoras Futuras](#-mejoras-futuras-roadmap)
+## 🌐 Demo
 
----
+**Producción:** [https://saneamientos-web.vercel.app](https://saneamientos-web.vercel.app)
 
-## 🛠 Tecnologías
+## ✨ Características
 
-| Tecnología | Versión | Uso |
-|------------|---------|-----|
-| Next.js | 16.x | Framework React con SSR/SSG |
-| React | 19.x | UI Components |
-| TypeScript | 5.x | Type safety |
-| Zod | 3.x | Validación de schemas |
-| Jest | 30.x | Testing framework |
-| Testing Library | 16.x | React component testing |
-| CSS Modules | - | Estilos aislados por componente |
+### 🔍 Catálogo Avanzado
 
----
+- Filtrado por marca, categoría y modelo
+- Especificaciones técnicas detalladas (ancho, fondo, distancia entre tornillos)
+- Grupos de compatibilidad para facilitar la búsqueda de recambios
+- Colores descatalogados: pergamino, visón, verde, azul, rosa
 
-## 🚀 Instalación
+### 📱 SEO Optimizado
 
-### Requisitos Previos
+- 300+ redirecciones 301 para migración desde dominio antiguo
+- Metadatos dinámicos por producto
+- Schema.org estructurado
+- URLs canónicas semánticas
 
-- Node.js >= 18.x
-- npm >= 9.x
+### 🎨 Diseño Moderno
 
-### Pasos
+- Responsive (mobile-first)
+- Dark mode automático
+- Glassmorphism y micro-animaciones
+- Imágenes generadas por IA para productos sin fotografía
 
-```bash
-# 1. Clonar el repositorio
-git clone <repo-url>
-cd web
-
-# 2. Instalar dependencias
-npm install
-
-# 3. Copiar variables de entorno
-cp .env.example .env.local
-
-# 4. Iniciar servidor de desarrollo
-npm run dev
-```
-
-La aplicación estará disponible en `http://localhost:3000`
-
----
-
-## 📁 Estructura del Proyecto
+## 🏗️ Arquitectura
 
 ```
 app/
-├── api/
-│   └── contact/
-│       └── route.ts         # API endpoint para formulario de contacto
-├── catalogo/
-│   ├── [categoria]/
-│   │   └── page.tsx         # Página dinámica por categoría
-│   └── page.tsx             # Catálogo principal con filtros
-├── categorias/
-│   └── page.tsx             # Grid de todas las categorías
-├── components/
-│   ├── Header.tsx           # Barra de navegación
-│   ├── Footer.tsx           # Pie de página
-│   └── *.module.css         # Estilos de componentes
-├── consultar-stock/
-│   └── page.tsx             # Formulario de consulta de stock
-├── contacto/
-│   └── page.tsx             # Página de contacto con mapa y reseñas
 ├── data/
-│   ├── products.ts          # Datos de productos (mock)
-│   └── reviews.ts           # Reseñas de clientes
-├── lib/
-│   ├── rarity.ts            # Utilidades de rareza de productos
-│   ├── validation.ts        # Schemas Zod y sanitización
-│   └── __tests__/           # Tests unitarios
-│       ├── rarity.test.ts
-│       └── validation.test.ts
-├── marca/
-│   └── [brand]/page.tsx     # Productos por marca
-├── marcas/
-│   └── page.tsx             # Listado de marcas
-├── producto/
-│   └── [id]/page.tsx        # Detalle de producto
-├── error.tsx                # Error boundary global
-├── globals.css              # Variables CSS y estilos globales
-├── layout.tsx               # Layout principal
-└── page.tsx                 # Página de inicio (Hero)
+│   ├── productos.json          # Fuente única de verdad (81 modelos)
+│   ├── productos.ts            # Servicios de acceso a datos
+│   ├── productosUnificados.ts  # Wrapper para catálogo
+│   └── products.ts             # [DEPRECADO] Datos legacy
+├── catalogo/
+│   ├── [marca]/[categoria]/[modelo]/  # Páginas dinámicas SSG
+│   └── page.tsx                       # Listado con filtros
+├── producto/[id]/              # [LEGACY] Redirigir a /catalogo
+├── marca/[brand]/              # Páginas por marca
+└── components/
+    ├── Header.tsx
+    └── Footer.tsx
 ```
 
----
+## 📊 Modelo de Datos
 
-## 🔐 Variables de Entorno
+### Producto (productos.json)
 
-Crear archivo `.env.local` con:
+```typescript
+interface Producto {
+  id: string;                    // "roca-gondola-0"
+  marca: string;                 // "ROCA"
+  marcaSlug: string;             // "roca"
+  modelo: string;                // "Gondola"
+  modeloSlug: string;            // "gondola"
+  tipoPrincipal: string;         // "Inodoro tanque bajo"
+  categoria: string;             // "inodoros"
+  periodo: string;               // "1980-1999"
+  situacion: string;             // "Descatalogado"
+  caracteristicas: string;       // Descripción
+  url: string;                   // "/catalogo/roca/inodoros/gondola"
+  specs: ProductSpecs;           // Especificaciones técnicas
+}
 
-```env
-# Webhook n8n para formulario de contacto
-N8N_CONTACT_WEBHOOK_URL=https://tu-n8n-instance.com/webhook/xxx
-
-# (Opcional) Para producción
-NODE_ENV=production
-```
-
----
-
-## 📜 Scripts Disponibles
-
-| Script | Comando | Descripción |
-|--------|---------|-------------|
-| `dev` | `npm run dev` | Servidor de desarrollo con hot reload |
-| `build` | `npm run build` | Compilación para producción |
-| `start` | `npm run start` | Iniciar servidor de producción |
-| `lint` | `npm run lint` | Ejecutar ESLint |
-| `test` | `npm test` | Ejecutar tests una vez |
-| `test:watch` | `npm run test:watch` | Tests en modo watch |
-| `test:coverage` | `npm run test:coverage` | Tests con reporte de cobertura |
-
----
-
-## 🌐 API Endpoints
-
-### POST `/api/contact`
-
-Envía datos del formulario de contacto al webhook n8n.
-
-**Request Body:**
-
-```json
-{
-  "name": "string (2-100 chars)",
-  "email": "string (email válido)",
-  "message": "string (10-2000 chars)",
-  "hasImage": "Sí | No (opcional)"
+interface ProductSpecs {
+  ancho?: string;                       // "36.0"
+  fondo?: string;                       // "42.5"
+  distanciaEntreTornillos?: string;     // "16.0" (crítico para compatibilidad)
+  formaTaza?: string;                   // "ovalada" | "cuadrada"
+  grupoCompatibilidad?: string;         // "16.0 cm"
+  colorDisponible?: string[];           // ["blanco", "pergamón"]
+  material?: string;
+  tipoMecanismo?: string;
 }
 ```
 
-**Responses:**
+## 🚀 Instalación
 
-| Status | Descripción |
+```bash
+# Clonar repositorio
+git clone https://github.com/tu-usuario/saneamientos-web.git
+cd saneamientos-web/web
+
+# Instalar dependencias
+npm install
+
+# Desarrollo
+npm run dev
+
+# Build producción
+npm run build
+
+# Ejecutar producción local
+npm start
+```
+
+## 🔧 Scripts Útiles
+
+| Script | Descripción |
 |--------|-------------|
-| 200 | Solicitud enviada correctamente |
-| 400 | Datos inválidos (errores de validación) |
-| 429 | Rate limit excedido (máx 5 req/min) |
-| 500 | Error interno del servidor |
+| `npm run dev` | Servidor desarrollo (localhost:3000) |
+| `npm run build` | Build de producción |
+| `npm run lint` | ESLint |
+| `node scripts/merge-specs-*.js` | Integrar especificaciones desde CSV/JSON |
 
----
+## 📁 Archivos de Datos
 
-## 🧪 Testing
+| Archivo | Propósito |
+|---------|-----------|
+| `productos.json` | Catálogo completo (fuente única de verdad) |
+| `REFERENCIA_RAPIDA.txt` | Guía de compatibilidad por distancia entre tornillos |
+| `especificaciones_csv.csv` | Datos técnicos importados |
+| `PENDIENTES-SPECS.md` | Modelos pendientes de medidas |
 
-El proyecto usa **Jest** + **Testing Library** para tests unitarios.
+## 🎯 Grupos de Compatibilidad
 
-```bash
-# Ejecutar todos los tests
-npm test
+La **distancia entre tornillos** es el dato más importante para encontrar recambios:
 
-# Tests en modo watch (desarrollo)
-npm run test:watch
+| Grupo | Modelos Principales |
+|-------|---------------------|
+| **11.5 cm** | Bellavista Olympia |
+| **12.5 cm** | Valadares Durius |
+| **14.0 cm** | Roca Lorentina, Gala Baby |
+| **15.5 cm** | Bellavista Record, Gala 2000/Diana/Aurea, JD Struktura |
+| **16.0 cm** | Mayoría (Roca, Bellavista, Gala, Sanitana, Valadares) |
+| **16.5 cm** | Sangrá Granada antiguo |
+| **20.0 cm** | JD Presqu'ile, JD Replay |
+| **20.5 cm** | Bellavista Itálica |
 
-# Generar reporte de cobertura
-npm run test:coverage
+## 🌍 SEO y Migración
+
+### Redirecciones 301
+
+El archivo `next.config.ts` contiene 300+ redirecciones para preservar el posicionamiento del dominio antiguo:
+
+```
+/empresa-sanitarios-descatalogados → /contacto
+/almacen → /catalogo
+/sanitarios-roca-descatalogados/inodoro-gondola → /catalogo/roca/inodoros/gondola
 ```
 
-### Tests Incluidos
+## 🛠️ Tecnologías
 
-- **`lib/__tests__/validation.test.ts`** - Tests de validación Zod y sanitización XSS
-- **`lib/__tests__/rarity.test.ts`** - Tests de funciones de rareza
+- **Framework:** Next.js 16 (App Router + React Server Components)
+- **Lenguaje:** TypeScript 5.x
+- **Estilos:** CSS Modules + Variables CSS
+- **Deploy:** Vercel (Edge Functions)
+- **Contenido:** JSON estático (SSG)
 
-**Cobertura actual**: 38 tests pasando
+## 📝 Contribución
 
----
+1. Fork del repositorio
+2. Crear rama feature (`git checkout -b feature/nueva-funcionalidad`)
+3. Commit cambios (`git commit -m 'feat: descripción'`)
+4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
+5. Abrir Pull Request
 
-## 🚀 Despliegue
+## 📄 Licencia
 
-### Docker (Recomendado para VPS)
-
-```bash
-# Construir imagen
-docker build -t saneamientos-web .
-
-# Ejecutar contenedor
-docker run -p 3000:3000 -e N8N_CONTACT_WEBHOOK_URL=xxx saneamientos-web
-```
-
-### Vercel (Alternativa serverless)
-
-```bash
-npx vercel --prod
-```
+Propietario - © 2026 Sanitarios Descatalogados
 
 ---
 
-## 📊 Categorías y Marcas
-
-### Categorías de Productos
-
-| Categoría | Ruta | Descripción |
-|-----------|------|-------------|
-| Inodoros | `/catalogo/inodoros` | Inodoros completos, cisternas, mecanismos |
-| Bidets | `/catalogo/bidets` | Bidets de suelo y suspendidos |
-| Lavabos | `/catalogo/lavabos` | Lavabos de pedestal, encastre, sobre encimera |
-| Platos de Ducha | `/catalogo/plato-ducha` | Platos extraplanos y antideslizantes |
-| Mamparas | `/catalogo/mamparas` | Mamparas correderas, abatibles, fijas |
-| Accesorios | `/catalogo/accesorios` | Grifería, toalleros, complementos |
-
-### Marcas Soportadas
-
-- **Roca** - Líder español en sanitarios
-- **Gala** - Marca premium española
-- **Bellavista** - Diseño clásico
-- **Jacob Delafon** - Marca francesa de lujo
-- **Sangrá** - Opciones económicas de calidad
-
----
-
-## 🔮 Mejoras Futuras (Roadmap)
-
-### 🔴 Alta Prioridad
-
-#### 1. Base de Datos para Productos
-
-**Estado actual**: Los productos están hardcodeados en `app/data/products.ts` (693 líneas).
-
-**Cómo implementar**:
-
-- Opción A: **Headless CMS** (Sanity.io, Strapi, Contentful)
-  - Mejor para contenido gestionado por no-desarrolladores
-  - Panel de administración visual
-  - Imágenes optimizadas automáticamente
-  
-- Opción B: **Base de datos propia** (PostgreSQL/MySQL + Prisma)
-  - Mayor control sobre los datos
-  - Requiere desarrollo de panel de admin
-  - Mejor para integración con inventario existente
-
-**Archivos a modificar**:
-
-- `app/data/products.ts` → Migrar a API calls
-- `app/producto/[id]/page.tsx` → fetch dinámico
-- `app/catalogo/page.tsx` → fetch con filtros
-
----
-
-#### 2. Rate Limiting Distribuido
-
-**Estado actual**: Rate limiting en memoria (`Map` en `api/contact/route.ts`).
-
-**Problema**: No funciona en serverless (cada instancia tiene su propio estado).
-
-**Cómo implementar**:
-
-- Usar **Upstash Redis** (serverless Redis)
-- O **Redis tradicional** con `ioredis`
-
-```typescript
-// Ejemplo con Upstash
-import { Ratelimit } from "@upstash/ratelimit";
-import { Redis } from "@upstash/redis";
-
-const ratelimit = new Ratelimit({
-  redis: Redis.fromEnv(),
-  limiter: Ratelimit.slidingWindow(5, "60 s"),
-});
-```
-
-**Archivos a modificar**:
-
-- `app/api/contact/route.ts` → Reemplazar `rateLimitMap`
-
----
-
-### 🟡 Media Prioridad
-
-#### 3. Carrito de Compras + Stripe
-
-**Estado actual**: No hay funcionalidad de carrito. Los usuarios deben consultar stock por formulario.
-
-**Cómo implementar**:
-
-1. Crear contexto React para estado del carrito
-2. Persistir en localStorage / cookies
-3. Integrar [Stripe Checkout](https://stripe.com/docs/checkout)
-4. Webhook para confirmar pedidos
-
-**Archivos a crear**:
-
-- `app/contexts/CartContext.tsx`
-- `app/components/CartButton.tsx`
-- `app/carrito/page.tsx`
-- `app/api/checkout/route.ts`
-
----
-
-#### 4. Internacionalización (i18n)
-
-**Estado actual**: Todos los textos están hardcodeados en español.
-
-**Cómo implementar**:
-
-- Usar `next-intl` o `next-i18next`
-- Extraer strings a archivos de traducción
-- Añadir selector de idioma
-
-**Archivos a crear**:
-
-- `messages/es.json`
-- `messages/en.json`
-- `app/[locale]/layout.tsx`
-
----
-
-### 🟢 Baja Prioridad
-
-#### 5. Logger Estructurado
-
-**Estado actual**: `console.log/error` en desarrollo.
-
-**Cómo implementar**:
-
-- Usar `pino` para logs estructurados
-- Integrar con servicio de logs (Datadog, LogRocket)
-
----
-
-#### 6. Tests de Integración
-
-**Estado actual**: Solo tests unitarios para `lib/`.
-
-**Cómo implementar**:
-
-- Añadir tests para componentes React
-- Tests E2E con Playwright
-- Mocking de APIs
-
----
-
-## 📝 Licencia
-
-Proyecto privado - Todos los derechos reservados.
-
----
-
-## 👨‍💻 Desarrollo
-
-Para contribuir:
-
-1. Crear rama desde `main`
-2. Implementar cambios
-3. Ejecutar `npm run lint` y `npm test`
-4. Crear Pull Request
-
----
-
-*Última actualización: Enero 2026*
+**¿Necesitas una pieza descatalogada?** [Contáctanos](https://saneamientos-web.vercel.app/contacto) 📞
