@@ -901,6 +901,610 @@
               "pergamón"
             ]
           }
+        },
+        {
+          "id": "roca-giralda-plato-32",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Giralda Plato Ducha",
+          "modeloSlug": "giralda_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1960-1990",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Giralda de ROCA, acabado antideslizante",
+          "url": "/catalogo/roca/plato-ducha/giralda",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "roca-veronica-plato-33",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Verónica Plato Ducha",
+          "modeloSlug": "veronica_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1970-1995",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Verónica de ROCA, acabado antideslizante",
+          "url": "/catalogo/roca/plato-ducha/veronica",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "roca-lorentina-plato-34",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Lorentina Plato Ducha",
+          "modeloSlug": "lorentina_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1965-1985",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Lorentina de ROCA, acabado antideslizante",
+          "url": "/catalogo/roca/plato-ducha/lorentina",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "roca-lucerna-plato-35",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Lucerna Plato Ducha",
+          "modeloSlug": "lucerna_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1970-1990",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Lucerna de ROCA, acabado antideslizante",
+          "url": "/catalogo/roca/plato-ducha/lucerna",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "roca-victoria-plato-36",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Victoria Plato Ducha",
+          "modeloSlug": "victoria_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Victoria de ROCA, acabado antideslizante",
+          "url": "/catalogo/roca/plato-ducha/victoria",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "roca-dama_retro-plato-37",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Dama Retro Plato Ducha",
+          "modeloSlug": "dama_retro_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1990-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Dama Retro de ROCA, acabado antideslizante",
+          "url": "/catalogo/roca/plato-ducha/dama_retro",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "roca-meridian-plato-38",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Meridian Plato Ducha",
+          "modeloSlug": "meridian_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1995-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Meridian de ROCA, acabado antideslizante",
+          "url": "/catalogo/roca/plato-ducha/meridian",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "roca-frontalis-plato-39",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Frontalis Plato Ducha",
+          "modeloSlug": "frontalis_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Frontalis de ROCA, acabado antideslizante",
+          "url": "/catalogo/roca/plato-ducha/frontalis",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "roca-georgia-plato-40",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Georgia Plato Ducha",
+          "modeloSlug": "georgia_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Georgia de ROCA, acabado antideslizante",
+          "url": "/catalogo/roca/plato-ducha/georgia",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "roca-veranda-plato-41",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Veranda Plato Ducha",
+          "modeloSlug": "veranda_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1995-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Veranda de ROCA, acabado antideslizante",
+          "url": "/catalogo/roca/plato-ducha/veranda",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "roca-giralda-mampara-42",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Giralda Mampara",
+          "modeloSlug": "giralda_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1960-1990",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Giralda de ROCA, cristal templado",
+          "url": "/catalogo/roca/mamparas/giralda",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "roca-veronica-mampara-43",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Verónica Mampara",
+          "modeloSlug": "veronica_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1970-1995",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Verónica de ROCA, cristal templado",
+          "url": "/catalogo/roca/mamparas/veronica",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "roca-lorentina-mampara-44",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Lorentina Mampara",
+          "modeloSlug": "lorentina_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1965-1985",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Lorentina de ROCA, cristal templado",
+          "url": "/catalogo/roca/mamparas/lorentina",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "roca-lucerna-mampara-45",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Lucerna Mampara",
+          "modeloSlug": "lucerna_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1970-1990",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Lucerna de ROCA, cristal templado",
+          "url": "/catalogo/roca/mamparas/lucerna",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "roca-victoria-mampara-46",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Victoria Mampara",
+          "modeloSlug": "victoria_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Victoria de ROCA, cristal templado",
+          "url": "/catalogo/roca/mamparas/victoria",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "roca-dama_retro-mampara-47",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Dama Retro Mampara",
+          "modeloSlug": "dama_retro_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1990-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Dama Retro de ROCA, cristal templado",
+          "url": "/catalogo/roca/mamparas/dama_retro",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "roca-meridian-mampara-48",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Meridian Mampara",
+          "modeloSlug": "meridian_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1995-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Meridian de ROCA, cristal templado",
+          "url": "/catalogo/roca/mamparas/meridian",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "roca-frontalis-mampara-49",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Frontalis Mampara",
+          "modeloSlug": "frontalis_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Frontalis de ROCA, cristal templado",
+          "url": "/catalogo/roca/mamparas/frontalis",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "roca-georgia-mampara-50",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Georgia Mampara",
+          "modeloSlug": "georgia_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Georgia de ROCA, cristal templado",
+          "url": "/catalogo/roca/mamparas/georgia",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "roca-veranda-mampara-51",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Veranda Mampara",
+          "modeloSlug": "veranda_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1995-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Veranda de ROCA, cristal templado",
+          "url": "/catalogo/roca/mamparas/veranda",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "roca-veranda_portarrollos-acc-52",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Veranda Portarrollos",
+          "modeloSlug": "veranda_portarrollos",
+          "tipoPrincipal": "Portarrollos",
+          "categoria": "accesorios",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Portarrollos Veranda Portarrollos de ROCA",
+          "url": "/catalogo/roca/accesorios/veranda_portarrollos",
+          "specs": {
+            "ancho": "18",
+            "proyeccion": "8",
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "roca-veranda_toallero-acc-53",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Veranda Toallero",
+          "modeloSlug": "veranda_toallero",
+          "tipoPrincipal": "Toallero",
+          "categoria": "accesorios",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Toallero Veranda Toallero de ROCA",
+          "url": "/catalogo/roca/accesorios/veranda_toallero",
+          "specs": {
+            "ancho": "45",
+            "proyeccion": "8",
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "roca-veranda_jabonera-acc-54",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Veranda Jabonera",
+          "modeloSlug": "veranda_jabonera",
+          "tipoPrincipal": "Jabonera",
+          "categoria": "accesorios",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Jabonera Veranda Jabonera de ROCA",
+          "url": "/catalogo/roca/accesorios/veranda_jabonera",
+          "specs": {
+            "ancho": "12",
+            "proyeccion": "10",
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "roca-victoria_portarrollos-acc-55",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Victoria Portarrollos",
+          "modeloSlug": "victoria_portarrollos",
+          "tipoPrincipal": "Portarrollos",
+          "categoria": "accesorios",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Portarrollos Victoria Portarrollos de ROCA",
+          "url": "/catalogo/roca/accesorios/victoria_portarrollos",
+          "specs": {
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "roca-victoria_toallero-acc-56",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Victoria Toallero",
+          "modeloSlug": "victoria_toallero",
+          "tipoPrincipal": "Toallero",
+          "categoria": "accesorios",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Toallero Victoria Toallero de ROCA",
+          "url": "/catalogo/roca/accesorios/victoria_toallero",
+          "specs": {
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "roca-victoria_jabonera-acc-57",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Victoria Jabonera",
+          "modeloSlug": "victoria_jabonera",
+          "tipoPrincipal": "Jabonera",
+          "categoria": "accesorios",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Jabonera Victoria Jabonera de ROCA",
+          "url": "/catalogo/roca/accesorios/victoria_jabonera",
+          "specs": {
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "roca-meridian_portarrollos-acc-58",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Meridian Portarrollos",
+          "modeloSlug": "meridian_portarrollos",
+          "tipoPrincipal": "Portarrollos",
+          "categoria": "accesorios",
+          "periodo": "1995-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Portarrollos Meridian Portarrollos de ROCA",
+          "url": "/catalogo/roca/accesorios/meridian_portarrollos",
+          "specs": {
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "roca-meridian_toallero-acc-59",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Meridian Toallero",
+          "modeloSlug": "meridian_toallero",
+          "tipoPrincipal": "Toallero",
+          "categoria": "accesorios",
+          "periodo": "1995-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Toallero Meridian Toallero de ROCA",
+          "url": "/catalogo/roca/accesorios/meridian_toallero",
+          "specs": {
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "roca-dama_retro_portarrollos-acc-60",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Dama Retro Portarrollos",
+          "modeloSlug": "dama_retro_portarrollos",
+          "tipoPrincipal": "Portarrollos",
+          "categoria": "accesorios",
+          "periodo": "1990-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Portarrollos Dama Retro Portarrollos de ROCA",
+          "url": "/catalogo/roca/accesorios/dama_retro_portarrollos",
+          "specs": {
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "roca-dama_retro_toallero-acc-61",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Dama Retro Toallero",
+          "modeloSlug": "dama_retro_toallero",
+          "tipoPrincipal": "Toallero",
+          "categoria": "accesorios",
+          "periodo": "1990-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Toallero Dama Retro Toallero de ROCA",
+          "url": "/catalogo/roca/accesorios/dama_retro_toallero",
+          "specs": {
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "roca-victoria_mueble_lavabo-acc-62",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Victoria Mueble Lavabo",
+          "modeloSlug": "victoria_mueble_lavabo",
+          "tipoPrincipal": "Mueble lavabo",
+          "categoria": "accesorios",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mueble lavabo Victoria Mueble Lavabo de ROCA",
+          "url": "/catalogo/roca/accesorios/victoria_mueble_lavabo",
+          "specs": {
+            "ancho": "60",
+            "fondo": "40",
+            "alto": "50"
+          }
+        },
+        {
+          "id": "roca-mampara_frontal_anos_90-acc-63",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Mampara Frontal Años 90",
+          "modeloSlug": "mampara_frontal_anos_90",
+          "tipoPrincipal": "Mampara frontal",
+          "categoria": "accesorios",
+          "periodo": "1990-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara frontal Mampara Frontal Años 90 de ROCA",
+          "url": "/catalogo/roca/accesorios/mampara_frontal_anos_90",
+          "specs": {
+            "anchoMin": "120",
+            "anchoMax": "180",
+            "altura": "185",
+            "tipoApertura": "corredera",
+            "perfil": "blanco"
+          }
+        },
+        {
+          "id": "roca-mampara_angular_anos_90-acc-64",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Mampara Angular Años 90",
+          "modeloSlug": "mampara_angular_anos_90",
+          "tipoPrincipal": "Mampara angular",
+          "categoria": "accesorios",
+          "periodo": "1990-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara angular Mampara Angular Años 90 de ROCA",
+          "url": "/catalogo/roca/accesorios/mampara_angular_anos_90",
+          "specs": {
+            "anchoMin": "70",
+            "anchoMax": "90",
+            "altura": "185",
+            "tipoApertura": "corredera",
+            "perfil": "blanco"
+          }
         }
       ]
     },
@@ -1434,6 +2038,323 @@
               "blanco",
               "pergamón"
             ]
+          }
+        },
+        {
+          "id": "bellavista-arcadia-plato-20",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Arcadia Plato Ducha",
+          "modeloSlug": "arcadia_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Arcadia de BELLAVISTA, acabado antideslizante",
+          "url": "/catalogo/bellavista/plato-ducha/arcadia",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "bellavista-italica-plato-21",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Itálica Plato Ducha",
+          "modeloSlug": "italica_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Itálica de BELLAVISTA, acabado antideslizante",
+          "url": "/catalogo/bellavista/plato-ducha/italica",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "bellavista-magna-plato-22",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Magna Plato Ducha",
+          "modeloSlug": "magna_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1980-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Magna de BELLAVISTA, acabado antideslizante",
+          "url": "/catalogo/bellavista/plato-ducha/magna",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "bellavista-lara-plato-23",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Lara Plato Ducha",
+          "modeloSlug": "lara_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Lara de BELLAVISTA, acabado antideslizante",
+          "url": "/catalogo/bellavista/plato-ducha/lara",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "bellavista-record-plato-24",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Record Plato Ducha",
+          "modeloSlug": "record_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1980-2000",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Record de BELLAVISTA, acabado antideslizante",
+          "url": "/catalogo/bellavista/plato-ducha/record",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "bellavista-capri-plato-25",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Capri Plato Ducha",
+          "modeloSlug": "capri_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1975-1995",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Capri de BELLAVISTA, acabado antideslizante",
+          "url": "/catalogo/bellavista/plato-ducha/capri",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "bellavista-arcadia-mampara-26",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Arcadia Mampara",
+          "modeloSlug": "arcadia_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Arcadia de BELLAVISTA, cristal templado",
+          "url": "/catalogo/bellavista/mamparas/arcadia",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "bellavista-italica-mampara-27",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Itálica Mampara",
+          "modeloSlug": "italica_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Itálica de BELLAVISTA, cristal templado",
+          "url": "/catalogo/bellavista/mamparas/italica",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "bellavista-magna-mampara-28",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Magna Mampara",
+          "modeloSlug": "magna_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1980-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Magna de BELLAVISTA, cristal templado",
+          "url": "/catalogo/bellavista/mamparas/magna",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "bellavista-lara-mampara-29",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Lara Mampara",
+          "modeloSlug": "lara_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Lara de BELLAVISTA, cristal templado",
+          "url": "/catalogo/bellavista/mamparas/lara",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "bellavista-record-mampara-30",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Record Mampara",
+          "modeloSlug": "record_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1980-2000",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Record de BELLAVISTA, cristal templado",
+          "url": "/catalogo/bellavista/mamparas/record",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "bellavista-capri-mampara-31",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Capri Mampara",
+          "modeloSlug": "capri_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1975-1995",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Capri de BELLAVISTA, cristal templado",
+          "url": "/catalogo/bellavista/mamparas/capri",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "bellavista-duna_portarrollos-acc-32",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Duna Portarrollos",
+          "modeloSlug": "duna_portarrollos",
+          "tipoPrincipal": "Portarrollos",
+          "categoria": "accesorios",
+          "periodo": "1970-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Portarrollos Duna Portarrollos de BELLAVISTA",
+          "url": "/catalogo/bellavista/accesorios/duna_portarrollos",
+          "specs": {
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "bellavista-duna_toallero-acc-33",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Duna Toallero",
+          "modeloSlug": "duna_toallero",
+          "tipoPrincipal": "Toallero",
+          "categoria": "accesorios",
+          "periodo": "1970-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Toallero Duna Toallero de BELLAVISTA",
+          "url": "/catalogo/bellavista/accesorios/duna_toallero",
+          "specs": {
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "bellavista-stylo_portarrollos-acc-34",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Stylo Portarrollos",
+          "modeloSlug": "stylo_portarrollos",
+          "tipoPrincipal": "Portarrollos",
+          "categoria": "accesorios",
+          "periodo": "1985-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Portarrollos Stylo Portarrollos de BELLAVISTA",
+          "url": "/catalogo/bellavista/accesorios/stylo_portarrollos",
+          "specs": {
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "bellavista-stylo_toallero-acc-35",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Stylo Toallero",
+          "modeloSlug": "stylo_toallero",
+          "tipoPrincipal": "Toallero",
+          "categoria": "accesorios",
+          "periodo": "1985-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Toallero Stylo Toallero de BELLAVISTA",
+          "url": "/catalogo/bellavista/accesorios/stylo_toallero",
+          "specs": {
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "bellavista-aloe_2_mueble_lavabo-acc-36",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Aloe 2 Mueble Lavabo",
+          "modeloSlug": "aloe_2_mueble_lavabo",
+          "tipoPrincipal": "Mueble lavabo",
+          "categoria": "accesorios",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mueble lavabo Aloe 2 Mueble Lavabo de BELLAVISTA",
+          "url": "/catalogo/bellavista/accesorios/aloe_2_mueble_lavabo",
+          "specs": {
+            "ancho": "80",
+            "fondo": "45",
+            "alto": "55",
+            "tipoLavabo": "sobre-encimera"
           }
         }
       ]
@@ -2185,6 +3106,455 @@
               "blanco",
               "pergamón"
             ]
+          }
+        },
+        {
+          "id": "gala-elia-plato-28",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Elia Plato Ducha",
+          "modeloSlug": "elia_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Elia de GALA, acabado antideslizante",
+          "url": "/catalogo/gala/plato-ducha/elia",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-klea-plato-29",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Klea Plato Ducha",
+          "modeloSlug": "klea_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Klea de GALA, acabado antideslizante",
+          "url": "/catalogo/gala/plato-ducha/klea",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-street-plato-30",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Street Plato Ducha",
+          "modeloSlug": "street_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "2000-2012",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Street de GALA, acabado antideslizante",
+          "url": "/catalogo/gala/plato-ducha/street",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-gala_2000-plato-31",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Gala 2000 Plato Ducha",
+          "modeloSlug": "gala_2000_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Gala 2000 de GALA, acabado antideslizante",
+          "url": "/catalogo/gala/plato-ducha/gala_2000",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-aurea-plato-32",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Aurea Plato Ducha",
+          "modeloSlug": "aurea_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1990-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Aurea de GALA, acabado antideslizante",
+          "url": "/catalogo/gala/plato-ducha/aurea",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-loa-plato-33",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Loa Plato Ducha",
+          "modeloSlug": "loa_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1980-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Loa de GALA, acabado antideslizante",
+          "url": "/catalogo/gala/plato-ducha/loa",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-nostalgia-plato-34",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Nostalgia Plato Ducha",
+          "modeloSlug": "nostalgia_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Nostalgia de GALA, acabado antideslizante",
+          "url": "/catalogo/gala/plato-ducha/nostalgia",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-bacara-plato-35",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Bacara Plato Ducha",
+          "modeloSlug": "bacara_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1995-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Bacara de GALA, acabado antideslizante",
+          "url": "/catalogo/gala/plato-ducha/bacara",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-diana-plato-36",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Diana Plato Ducha",
+          "modeloSlug": "diana_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Diana de GALA, acabado antideslizante",
+          "url": "/catalogo/gala/plato-ducha/diana",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-elia-mampara-37",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Elia Mampara",
+          "modeloSlug": "elia_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Elia de GALA, cristal templado",
+          "url": "/catalogo/gala/mamparas/elia",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "gala-klea-mampara-38",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Klea Mampara",
+          "modeloSlug": "klea_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Klea de GALA, cristal templado",
+          "url": "/catalogo/gala/mamparas/klea",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "gala-street-mampara-39",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Street Mampara",
+          "modeloSlug": "street_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "2000-2012",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Street de GALA, cristal templado",
+          "url": "/catalogo/gala/mamparas/street",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "gala-gala_2000-mampara-40",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Gala 2000 Mampara",
+          "modeloSlug": "gala_2000_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Gala 2000 de GALA, cristal templado",
+          "url": "/catalogo/gala/mamparas/gala_2000",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "gala-aurea-mampara-41",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Aurea Mampara",
+          "modeloSlug": "aurea_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1990-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Aurea de GALA, cristal templado",
+          "url": "/catalogo/gala/mamparas/aurea",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "gala-loa-mampara-42",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Loa Mampara",
+          "modeloSlug": "loa_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1980-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Loa de GALA, cristal templado",
+          "url": "/catalogo/gala/mamparas/loa",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "gala-nostalgia-mampara-43",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Nostalgia Mampara",
+          "modeloSlug": "nostalgia_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Nostalgia de GALA, cristal templado",
+          "url": "/catalogo/gala/mamparas/nostalgia",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "gala-bacara-mampara-44",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Bacara Mampara",
+          "modeloSlug": "bacara_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1995-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Bacara de GALA, cristal templado",
+          "url": "/catalogo/gala/mamparas/bacara",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "gala-diana-mampara-45",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Diana Mampara",
+          "modeloSlug": "diana_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Diana de GALA, cristal templado",
+          "url": "/catalogo/gala/mamparas/diana",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "gala-marina_portarrollos-acc-46",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Marina Portarrollos",
+          "modeloSlug": "marina_portarrollos",
+          "tipoPrincipal": "Portarrollos",
+          "categoria": "accesorios",
+          "periodo": "1975-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Portarrollos Marina Portarrollos de GALA",
+          "url": "/catalogo/gala/accesorios/marina_portarrollos",
+          "specs": {
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "gala-marina_toallero-acc-47",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Marina Toallero",
+          "modeloSlug": "marina_toallero",
+          "tipoPrincipal": "Toallero",
+          "categoria": "accesorios",
+          "periodo": "1975-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Toallero Marina Toallero de GALA",
+          "url": "/catalogo/gala/accesorios/marina_toallero",
+          "specs": {
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "gala-marina_jabonera-acc-48",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Marina Jabonera",
+          "modeloSlug": "marina_jabonera",
+          "tipoPrincipal": "Jabonera",
+          "categoria": "accesorios",
+          "periodo": "1975-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Jabonera Marina Jabonera de GALA",
+          "url": "/catalogo/gala/accesorios/marina_jabonera",
+          "specs": {
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "gala-loa_portarrollos-acc-49",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Loa Portarrollos",
+          "modeloSlug": "loa_portarrollos",
+          "tipoPrincipal": "Portarrollos",
+          "categoria": "accesorios",
+          "periodo": "1980-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Portarrollos Loa Portarrollos de GALA",
+          "url": "/catalogo/gala/accesorios/loa_portarrollos",
+          "specs": {
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "gala-loa_toallero-acc-50",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Loa Toallero",
+          "modeloSlug": "loa_toallero",
+          "tipoPrincipal": "Toallero",
+          "categoria": "accesorios",
+          "periodo": "1980-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Toallero Loa Toallero de GALA",
+          "url": "/catalogo/gala/accesorios/loa_toallero",
+          "specs": {
+            "acabado": "cromo"
+          }
+        },
+        {
+          "id": "gala-street_mueble_lavabo-acc-51",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Street Mueble Lavabo",
+          "modeloSlug": "street_mueble_lavabo",
+          "tipoPrincipal": "Mueble lavabo",
+          "categoria": "accesorios",
+          "periodo": "2000-2012",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mueble lavabo Street Mueble Lavabo de GALA",
+          "url": "/catalogo/gala/accesorios/street_mueble_lavabo",
+          "specs": {
+            "ancho": "70",
+            "fondo": "45",
+            "alto": "55"
           }
         }
       ]
@@ -3309,6 +4679,357 @@
               "pergamón"
             ]
           }
+        },
+        {
+          "id": "sangra-alcora-plato-28",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Alcora Plato Ducha",
+          "modeloSlug": "alcora_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1980-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Alcora de Sangrá, acabado antideslizante",
+          "url": "/catalogo/sangra/plato-ducha/alcora",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-bahia-plato-29",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Bahia Plato Ducha",
+          "modeloSlug": "bahia_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1975-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Bahia de Sangrá, acabado antideslizante",
+          "url": "/catalogo/sangra/plato-ducha/bahia",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-domo-plato-30",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Domo Plato Ducha",
+          "modeloSlug": "domo_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1985-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Domo de Sangrá, acabado antideslizante",
+          "url": "/catalogo/sangra/plato-ducha/domo",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-boreal-plato-31",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Boreal Plato Ducha",
+          "modeloSlug": "boreal_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1980-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Boreal de Sangrá, acabado antideslizante",
+          "url": "/catalogo/sangra/plato-ducha/boreal",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-granada-plato-32",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Granada Plato Ducha",
+          "modeloSlug": "granada_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1975-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Granada de Sangrá, acabado antideslizante",
+          "url": "/catalogo/sangra/plato-ducha/granada",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-isis-plato-33",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Isis Plato Ducha",
+          "modeloSlug": "isis_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1975-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Isis de Sangrá, acabado antideslizante",
+          "url": "/catalogo/sangra/plato-ducha/isis",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-proa-plato-34",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Proa Plato Ducha",
+          "modeloSlug": "proa_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1985-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Proa de Sangrá, acabado antideslizante",
+          "url": "/catalogo/sangra/plato-ducha/proa",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-siena-plato-35",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Siena Plato Ducha",
+          "modeloSlug": "siena_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1990-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Siena de Sangrá, acabado antideslizante",
+          "url": "/catalogo/sangra/plato-ducha/siena",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-taiga-plato-36",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Taiga Plato Ducha",
+          "modeloSlug": "taiga_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1985-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Taiga de Sangrá, acabado antideslizante",
+          "url": "/catalogo/sangra/plato-ducha/taiga",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-alcora-mampara-37",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Alcora Mampara",
+          "modeloSlug": "alcora_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1980-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Alcora de Sangrá, cristal templado",
+          "url": "/catalogo/sangra/mamparas/alcora",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "sangra-bahia-mampara-38",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Bahia Mampara",
+          "modeloSlug": "bahia_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1975-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Bahia de Sangrá, cristal templado",
+          "url": "/catalogo/sangra/mamparas/bahia",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "sangra-domo-mampara-39",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Domo Mampara",
+          "modeloSlug": "domo_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1985-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Domo de Sangrá, cristal templado",
+          "url": "/catalogo/sangra/mamparas/domo",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "sangra-boreal-mampara-40",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Boreal Mampara",
+          "modeloSlug": "boreal_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1980-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Boreal de Sangrá, cristal templado",
+          "url": "/catalogo/sangra/mamparas/boreal",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "sangra-granada-mampara-41",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Granada Mampara",
+          "modeloSlug": "granada_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1975-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Granada de Sangrá, cristal templado",
+          "url": "/catalogo/sangra/mamparas/granada",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "sangra-isis-mampara-42",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Isis Mampara",
+          "modeloSlug": "isis_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1975-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Isis de Sangrá, cristal templado",
+          "url": "/catalogo/sangra/mamparas/isis",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "sangra-proa-mampara-43",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Proa Mampara",
+          "modeloSlug": "proa_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1985-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Proa de Sangrá, cristal templado",
+          "url": "/catalogo/sangra/mamparas/proa",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "sangra-siena-mampara-44",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Siena Mampara",
+          "modeloSlug": "siena_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1990-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Siena de Sangrá, cristal templado",
+          "url": "/catalogo/sangra/mamparas/siena",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "sangra-taiga-mampara-45",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Taiga Mampara",
+          "modeloSlug": "taiga_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1985-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Taiga de Sangrá, cristal templado",
+          "url": "/catalogo/sangra/mamparas/taiga",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
         }
       ]
     },
@@ -3962,6 +5683,310 @@
             "colorDisponible": [
               "blanco"
             ]
+          }
+        },
+        {
+          "id": "valadares-nautilus-plato-25",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Nautilus Plato Ducha",
+          "modeloSlug": "nautilus_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1995-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Nautilus de Valadares, acabado antideslizante",
+          "url": "/catalogo/valadares/plato-ducha/nautilus",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-tagus-plato-26",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Tagus Plato Ducha",
+          "modeloSlug": "tagus_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Tagus de Valadares, acabado antideslizante",
+          "url": "/catalogo/valadares/plato-ducha/tagus",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-oporto-plato-27",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Oporto Plato Ducha",
+          "modeloSlug": "oporto_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1980-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Oporto de Valadares, acabado antideslizante",
+          "url": "/catalogo/valadares/plato-ducha/oporto",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-opus-plato-28",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Opus Plato Ducha",
+          "modeloSlug": "opus_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Opus de Valadares, acabado antideslizante",
+          "url": "/catalogo/valadares/plato-ducha/opus",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-oceanus-plato-29",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Oceanus Plato Ducha",
+          "modeloSlug": "oceanus_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Oceanus de Valadares, acabado antideslizante",
+          "url": "/catalogo/valadares/plato-ducha/oceanus",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-durius-plato-30",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Durius Plato Ducha",
+          "modeloSlug": "durius_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Durius de Valadares, acabado antideslizante",
+          "url": "/catalogo/valadares/plato-ducha/durius",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-egg-plato-31",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Egg Plato Ducha",
+          "modeloSlug": "egg_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "2000-2012",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Egg de Valadares, acabado antideslizante",
+          "url": "/catalogo/valadares/plato-ducha/egg",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-thema-plato-32",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Thema Plato Ducha",
+          "modeloSlug": "thema_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Thema de Valadares, acabado antideslizante",
+          "url": "/catalogo/valadares/plato-ducha/thema",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-nautilus-mampara-33",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Nautilus Mampara",
+          "modeloSlug": "nautilus_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1995-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Nautilus de Valadares, cristal templado",
+          "url": "/catalogo/valadares/mamparas/nautilus",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "valadares-tagus-mampara-34",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Tagus Mampara",
+          "modeloSlug": "tagus_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Tagus de Valadares, cristal templado",
+          "url": "/catalogo/valadares/mamparas/tagus",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "valadares-oporto-mampara-35",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Oporto Mampara",
+          "modeloSlug": "oporto_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1980-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Oporto de Valadares, cristal templado",
+          "url": "/catalogo/valadares/mamparas/oporto",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "valadares-opus-mampara-36",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Opus Mampara",
+          "modeloSlug": "opus_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Opus de Valadares, cristal templado",
+          "url": "/catalogo/valadares/mamparas/opus",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "valadares-oceanus-mampara-37",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Oceanus Mampara",
+          "modeloSlug": "oceanus_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Oceanus de Valadares, cristal templado",
+          "url": "/catalogo/valadares/mamparas/oceanus",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "valadares-durius-mampara-38",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Durius Mampara",
+          "modeloSlug": "durius_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Durius de Valadares, cristal templado",
+          "url": "/catalogo/valadares/mamparas/durius",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "valadares-egg-mampara-39",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Egg Mampara",
+          "modeloSlug": "egg_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "2000-2012",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Egg de Valadares, cristal templado",
+          "url": "/catalogo/valadares/mamparas/egg",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "valadares-thema-mampara-40",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Thema Mampara",
+          "modeloSlug": "thema_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Thema de Valadares, cristal templado",
+          "url": "/catalogo/valadares/mamparas/thema",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
           }
         }
       ]
@@ -4690,6 +6715,348 @@
             "colorDisponible": [
               "blanco"
             ]
+          }
+        },
+        {
+          "id": "sanitana-regina-plato-28",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Regina Plato Ducha",
+          "modeloSlug": "regina_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1980-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Regina de Sanitana, acabado antideslizante",
+          "url": "/catalogo/sanitana/plato-ducha/regina",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-munique-plato-29",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Munique Plato Ducha",
+          "modeloSlug": "munique_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Munique de Sanitana, acabado antideslizante",
+          "url": "/catalogo/sanitana/plato-ducha/munique",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-colonia-plato-30",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Colonia Plato Ducha",
+          "modeloSlug": "colonia_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1975-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Colonia de Sanitana, acabado antideslizante",
+          "url": "/catalogo/sanitana/plato-ducha/colonia",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-kapa-plato-31",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Kapa Plato Ducha",
+          "modeloSlug": "kapa_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Kapa de Sanitana, acabado antideslizante",
+          "url": "/catalogo/sanitana/plato-ducha/kapa",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-imperial-plato-32",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Imperial Plato Ducha",
+          "modeloSlug": "imperial_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Imperial de Sanitana, acabado antideslizante",
+          "url": "/catalogo/sanitana/plato-ducha/imperial",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-coral-plato-33",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Coral Plato Ducha",
+          "modeloSlug": "coral_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1980-2000",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Coral de Sanitana, acabado antideslizante",
+          "url": "/catalogo/sanitana/plato-ducha/coral",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-nexo-plato-34",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Nexo Plato Ducha",
+          "modeloSlug": "nexo_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Nexo de Sanitana, acabado antideslizante",
+          "url": "/catalogo/sanitana/plato-ducha/nexo",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-mobil_pmr-plato-35",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Mobil PMR Plato Ducha",
+          "modeloSlug": "mobil_pmr_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Mobil PMR de Sanitana, acabado antideslizante",
+          "url": "/catalogo/sanitana/plato-ducha/mobil_pmr",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-lisboa-plato-36",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Lisboa Plato Ducha",
+          "modeloSlug": "lisboa_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Lisboa de Sanitana, acabado antideslizante",
+          "url": "/catalogo/sanitana/plato-ducha/lisboa",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-regina-mampara-37",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Regina Mampara",
+          "modeloSlug": "regina_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1980-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Regina de Sanitana, cristal templado",
+          "url": "/catalogo/sanitana/mamparas/regina",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "sanitana-munique-mampara-38",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Munique Mampara",
+          "modeloSlug": "munique_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Munique de Sanitana, cristal templado",
+          "url": "/catalogo/sanitana/mamparas/munique",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "sanitana-colonia-mampara-39",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Colonia Mampara",
+          "modeloSlug": "colonia_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1975-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Colonia de Sanitana, cristal templado",
+          "url": "/catalogo/sanitana/mamparas/colonia",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "sanitana-kapa-mampara-40",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Kapa Mampara",
+          "modeloSlug": "kapa_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Kapa de Sanitana, cristal templado",
+          "url": "/catalogo/sanitana/mamparas/kapa",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "sanitana-imperial-mampara-41",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Imperial Mampara",
+          "modeloSlug": "imperial_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Imperial de Sanitana, cristal templado",
+          "url": "/catalogo/sanitana/mamparas/imperial",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "sanitana-coral-mampara-42",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Coral Mampara",
+          "modeloSlug": "coral_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1980-2000",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Coral de Sanitana, cristal templado",
+          "url": "/catalogo/sanitana/mamparas/coral",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "sanitana-nexo-mampara-43",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Nexo Mampara",
+          "modeloSlug": "nexo_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Nexo de Sanitana, cristal templado",
+          "url": "/catalogo/sanitana/mamparas/nexo",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "sanitana-mobil_pmr-mampara-44",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Mobil PMR Mampara",
+          "modeloSlug": "mobil_pmr_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Mobil PMR de Sanitana, cristal templado",
+          "url": "/catalogo/sanitana/mamparas/mobil_pmr",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "sanitana-lisboa-mampara-45",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Lisboa Mampara",
+          "modeloSlug": "lisboa_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Lisboa de Sanitana, cristal templado",
+          "url": "/catalogo/sanitana/mamparas/lisboa",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
           }
         }
       ]
@@ -5456,6 +7823,310 @@
               "blanco"
             ]
           }
+        },
+        {
+          "id": "duravit-darling_new-plato-30",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Darling New Plato Ducha",
+          "modeloSlug": "darling_new_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1999-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Darling New de Duravit, acabado antideslizante",
+          "url": "/catalogo/duravit/plato-ducha/darling_new",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-happy_d_original-plato-31",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Happy D Original Plato Ducha",
+          "modeloSlug": "happy_d_original_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1999-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Happy D Original de Duravit, acabado antideslizante",
+          "url": "/catalogo/duravit/plato-ducha/happy_d_original",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-happy_d2-plato-32",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Happy D.2 Plato Ducha",
+          "modeloSlug": "happy_d2_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "2005-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Happy D.2 de Duravit, acabado antideslizante",
+          "url": "/catalogo/duravit/plato-ducha/happy_d2",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-d-code-plato-33",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "D-Code Plato Ducha",
+          "modeloSlug": "d-code_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha D-Code de Duravit, acabado antideslizante",
+          "url": "/catalogo/duravit/plato-ducha/d-code",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-starck_2-plato-34",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Starck 2 Plato Ducha",
+          "modeloSlug": "starck_2_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Starck 2 de Duravit, acabado antideslizante",
+          "url": "/catalogo/duravit/plato-ducha/starck_2",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-starck_3-plato-35",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Starck 3 Plato Ducha",
+          "modeloSlug": "starck_3_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Starck 3 de Duravit, acabado antideslizante",
+          "url": "/catalogo/duravit/plato-ducha/starck_3",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-me_by_starck-plato-36",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "ME by Starck Plato Ducha",
+          "modeloSlug": "me_by_starck_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "2010-2018",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha ME by Starck de Duravit, acabado antideslizante",
+          "url": "/catalogo/duravit/plato-ducha/me_by_starck",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-vero_air-plato-37",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Vero Air Plato Ducha",
+          "modeloSlug": "vero_air_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "2008-2018",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Vero Air de Duravit, acabado antideslizante",
+          "url": "/catalogo/duravit/plato-ducha/vero_air",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-darling_new-mampara-38",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Darling New Mampara",
+          "modeloSlug": "darling_new_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1999-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Darling New de Duravit, cristal templado",
+          "url": "/catalogo/duravit/mamparas/darling_new",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "duravit-happy_d_original-mampara-39",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Happy D Original Mampara",
+          "modeloSlug": "happy_d_original_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1999-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Happy D Original de Duravit, cristal templado",
+          "url": "/catalogo/duravit/mamparas/happy_d_original",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "duravit-happy_d2-mampara-40",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Happy D.2 Mampara",
+          "modeloSlug": "happy_d2_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "2005-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Happy D.2 de Duravit, cristal templado",
+          "url": "/catalogo/duravit/mamparas/happy_d2",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "duravit-d-code-mampara-41",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "D-Code Mampara",
+          "modeloSlug": "d-code_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara D-Code de Duravit, cristal templado",
+          "url": "/catalogo/duravit/mamparas/d-code",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "duravit-starck_2-mampara-42",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Starck 2 Mampara",
+          "modeloSlug": "starck_2_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Starck 2 de Duravit, cristal templado",
+          "url": "/catalogo/duravit/mamparas/starck_2",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "duravit-starck_3-mampara-43",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Starck 3 Mampara",
+          "modeloSlug": "starck_3_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Starck 3 de Duravit, cristal templado",
+          "url": "/catalogo/duravit/mamparas/starck_3",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "duravit-me_by_starck-mampara-44",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "ME by Starck Mampara",
+          "modeloSlug": "me_by_starck_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "2010-2018",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara ME by Starck de Duravit, cristal templado",
+          "url": "/catalogo/duravit/mamparas/me_by_starck",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "duravit-vero_air-mampara-45",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Vero Air Mampara",
+          "modeloSlug": "vero_air_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "2008-2018",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Vero Air de Duravit, cristal templado",
+          "url": "/catalogo/duravit/mamparas/vero_air",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
         }
       ]
     },
@@ -5931,6 +8602,348 @@
             "colorDisponible": [
               "blanco"
             ]
+          }
+        },
+        {
+          "id": "jacob-delafon-odeon_clasico-plato-19",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Odeon Clasico Plato Ducha",
+          "modeloSlug": "odeon_clasico_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1950-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Odeon Clasico de Jacob Delafon, acabado antideslizante",
+          "url": "/catalogo/jacob-delafon/plato-ducha/odeon_clasico",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-odeon_up-plato-20",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Odeon Up Plato Ducha",
+          "modeloSlug": "odeon_up_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Odeon Up de Jacob Delafon, acabado antideslizante",
+          "url": "/catalogo/jacob-delafon/plato-ducha/odeon_up",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-antares-plato-21",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Antares Plato Ducha",
+          "modeloSlug": "antares_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1975-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Antares de Jacob Delafon, acabado antideslizante",
+          "url": "/catalogo/jacob-delafon/plato-ducha/antares",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-astros-plato-22",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Astros Plato Ducha",
+          "modeloSlug": "astros_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1980-2000",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Astros de Jacob Delafon, acabado antideslizante",
+          "url": "/catalogo/jacob-delafon/plato-ducha/astros",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-freelance-plato-23",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Freelance Plato Ducha",
+          "modeloSlug": "freelance_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1990-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Freelance de Jacob Delafon, acabado antideslizante",
+          "url": "/catalogo/jacob-delafon/plato-ducha/freelance",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-portrait-plato-24",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Portrait Plato Ducha",
+          "modeloSlug": "portrait_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Portrait de Jacob Delafon, acabado antideslizante",
+          "url": "/catalogo/jacob-delafon/plato-ducha/portrait",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-escale-plato-25",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Escale Plato Ducha",
+          "modeloSlug": "escale_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Escale de Jacob Delafon, acabado antideslizante",
+          "url": "/catalogo/jacob-delafon/plato-ducha/escale",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-ove-plato-26",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Ove Plato Ducha",
+          "modeloSlug": "ove_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Ove de Jacob Delafon, acabado antideslizante",
+          "url": "/catalogo/jacob-delafon/plato-ducha/ove",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-struktura-plato-27",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Struktura Plato Ducha",
+          "modeloSlug": "struktura_plato",
+          "tipoPrincipal": "Plato de ducha extraplano",
+          "categoria": "plato-ducha",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Plato de ducha Struktura de Jacob Delafon, acabado antideslizante",
+          "url": "/catalogo/jacob-delafon/plato-ducha/struktura",
+          "specs": {
+            "material": "porcelana vitrificada",
+            "antideslizante": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-odeon_clasico-mampara-28",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Odeon Clasico Mampara",
+          "modeloSlug": "odeon_clasico_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1950-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Odeon Clasico de Jacob Delafon, cristal templado",
+          "url": "/catalogo/jacob-delafon/mamparas/odeon_clasico",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "jacob-delafon-odeon_up-mampara-29",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Odeon Up Mampara",
+          "modeloSlug": "odeon_up_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Odeon Up de Jacob Delafon, cristal templado",
+          "url": "/catalogo/jacob-delafon/mamparas/odeon_up",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "jacob-delafon-antares-mampara-30",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Antares Mampara",
+          "modeloSlug": "antares_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1975-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Antares de Jacob Delafon, cristal templado",
+          "url": "/catalogo/jacob-delafon/mamparas/antares",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "jacob-delafon-astros-mampara-31",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Astros Mampara",
+          "modeloSlug": "astros_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1980-2000",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Astros de Jacob Delafon, cristal templado",
+          "url": "/catalogo/jacob-delafon/mamparas/astros",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "jacob-delafon-freelance-mampara-32",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Freelance Mampara",
+          "modeloSlug": "freelance_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1990-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Freelance de Jacob Delafon, cristal templado",
+          "url": "/catalogo/jacob-delafon/mamparas/freelance",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "jacob-delafon-portrait-mampara-33",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Portrait Mampara",
+          "modeloSlug": "portrait_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Portrait de Jacob Delafon, cristal templado",
+          "url": "/catalogo/jacob-delafon/mamparas/portrait",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "jacob-delafon-escale-mampara-34",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Escale Mampara",
+          "modeloSlug": "escale_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Escale de Jacob Delafon, cristal templado",
+          "url": "/catalogo/jacob-delafon/mamparas/escale",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "jacob-delafon-ove-mampara-35",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Ove Mampara",
+          "modeloSlug": "ove_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Ove de Jacob Delafon, cristal templado",
+          "url": "/catalogo/jacob-delafon/mamparas/ove",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "jacob-delafon-struktura-mampara-36",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Struktura Mampara",
+          "modeloSlug": "struktura_mampara",
+          "tipoPrincipal": "Mampara de ducha",
+          "categoria": "mamparas",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Mampara Struktura de Jacob Delafon, cristal templado",
+          "url": "/catalogo/jacob-delafon/mamparas/struktura",
+          "specs": {
+            "tipoApertura": "corredera",
+            "cristal": "templado 6mm",
+            "perfileria": "aluminio"
           }
         }
       ]
