@@ -3,7 +3,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { productosUnificados, getProductosByMarca, getProductosByCategoria } from '@/app/data/productosUnificados';
-import styles from '../../page.module.css';
+import styles from '../page.module.css';
 
 interface PageProps {
     params: Promise<{ marca: string }>; // 'marca' atrapa todo lo que sea /catalogo/[slug]
