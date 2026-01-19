@@ -3,11 +3,12 @@
 import { Suspense, useState, useMemo } from 'react';
 import { useSearchParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
-import { products } from '../data/products';
+import { productosUnificados as products } from '../data/productosUnificados';
 import styles from './page.module.css';
 
 /** Type for sorting options */
 type SortOption = 'name' | 'rarity';
+
 
 // Get unique values for filters
 const brands = [...new Set(products.map(p => p.brand))].sort();
@@ -125,7 +126,7 @@ function CatalogContent() {
             {filteredProducts.length > 0 ? (
                 <div className={styles.grid}>
                     {filteredProducts.map(product => (
-                        <a key={product.id} href={`/producto/${product.id}`} className={styles.card}>
+                        <a key={product.id} href={product.url} className={styles.card}>
                             <div className={styles.imageWrapper}>
                                 <Image
                                     src={product.image}
