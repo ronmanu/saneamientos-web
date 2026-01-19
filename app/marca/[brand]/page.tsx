@@ -1,76 +1,125 @@
-import { products } from '../../data/products';
+/**
+ * =============================================================================
+ * PÁGINA DE MARCA - Listado de productos por fabricante
+ * =============================================================================
+ * 
+ * Muestra todos los productos de una marca específica.
+ * Usa productosUnificados como única fuente de datos.
+ * 
+ * @route /marca/[brand]
+ */
+
+import Image from 'next/image';
+import { productosUnificados, getProductosByMarca } from '../../data/productosUnificados';
 import styles from '../../catalogo/page.module.css';
 
+// Marcas disponibles para generar páginas estáticas
+const MARCAS = ['roca', 'gala', 'bellavista', 'jacob-delafon', 'sangra', 'valadares', 'sanitana', 'duravit'];
+
+/**
+ * Genera parámetros estáticos para todas las marcas
+ */
 export function generateStaticParams() {
-    const brands = ['roca', 'gala', 'bellavista', 'jacob-delafon', 'sangra'];
-    return brands.map((brand) => ({
+    return MARCAS.map((brand) => ({
         brand,
     }));
 }
 
+/**
+ * Formatea el slug de marca a nombre legible
+ */
+function formatBrand(slug: string): string {
+    const nombres: Record<string, string> = {
+        'roca': 'ROCA',
+        'gala': 'GALA',
+        'bellavista': 'BELLAVISTA',
+        'jacob-delafon': 'Jacob Delafon',
+        'jacob_delafon': 'Jacob Delafon',
+        'sangra': 'Sangrá',
+        'valadares': 'Valadares',
+        'sanitana': 'Sanitana',
+        'duravit': 'Duravit',
+    };
+    return nombres[slug.toLowerCase()] || slug.toUpperCase();
+}
+
+/**
+ * Metadatos dinámicos para SEO
+ */
 export async function generateMetadata({ params }: { params: Promise<{ brand: string }> }) {
     const { brand } = await params;
-    const decodedBrand = brand.replace('-', ' ');
+    const displayBrand = formatBrand(brand);
+
     return {
-        title: `Sanitarios ${decodedBrand.toUpperCase()} Descatalogados | Catálogo Oficial`,
-        description: `Encuentra todos los modelos descatalogados de la marca ${decodedBrand}. Repuestos originales y garantizados.`,
+        title: `Sanitarios ${displayBrand} Descatalogados | Catálogo Oficial`,
+        description: `Encuentra todos los modelos descatalogados de la marca ${displayBrand}. Repuestos originales y garantizados. Inodoros, bidets, lavabos y más.`,
+        openGraph: {
+            title: `${displayBrand} Descatalogados`,
+            description: `Catálogo completo de ${displayBrand} descatalogados`,
+        },
     };
 }
 
+/**
+ * Página de marca
+ */
 export default async function BrandPage({ params }: { params: Promise<{ brand: string }> }) {
     const { brand } = await params;
-
-    // Formatting logic for display
-    const formatBrand = (str: string) => {
-        if (str === 'jacob-delafon') return 'Jacob Delafon';
-        if (str === 'sangra') return 'Sangrá';
-        return str.replace('-', ' ').toUpperCase();
-    };
-
     const displayBrand = formatBrand(brand);
-    // Logic for filtering (data has 'Jacob Delafon' and 'Sangrá')
-    const getFilterBrand = (str: string) => {
-        if (str === 'jacob-delafon') return 'Jacob Delafon';
-        if (str === 'sangra') return 'Sangrá';
-        return str; // Default
-    }
-    const filterBrand = getFilterBrand(brand);
 
-    const filteredProducts = products.filter(
-        p => p.brand.toLowerCase() === filterBrand.replace('-', ' ').toLowerCase()
-    );
+    // Filtrar productos por marca (normalizado)
+    const brandNorm = displayBrand.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    const filteredProducts = productosUnificados.filter(p => {
+        const pBrand = p.brand.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+        return pBrand === brandNorm || pBrand.includes(brandNorm) || brandNorm.includes(pBrand);
+    });
 
     return (
-        <main className="container" style={{ padding: '8rem 2rem 4rem' }}>
-            <h1 style={{ marginBottom: '1rem', fontSize: '3rem', color: 'var(--color-primary)', textTransform: 'uppercase' }}>
-                {displayBrand}
-            </h1>
-            <p style={{ color: 'var(--color-text-muted)', marginBottom: '3rem', fontSize: '1.2rem' }}>
-                Catálogo exclusivo de piezas descatalogadas de la marca {displayBrand}.
-            </p>
+        <main className={styles.pageContainer}>
+            <div className={styles.categoryHeader}>
+                <h1 className={styles.categoryTitle}>
+                    {displayBrand}
+                </h1>
+                <p className={styles.categorySubtitle}>
+                    Catálogo exclusivo de piezas descatalogadas de la marca {displayBrand}.
+                    {filteredProducts.length > 0 && ` ${filteredProducts.length} productos disponibles.`}
+                </p>
+            </div>
 
             {filteredProducts.length > 0 ? (
                 <div className={styles.grid}>
                     {filteredProducts.map(product => (
-                        <div key={product.id} className={styles.card}>
+                        <a
+                            key={product.id}
+                            href={product.url}
+                            className={styles.card}
+                        >
                             <div className={styles.imageWrapper}>
-                                <img src={product.image} alt={product.name} className={styles.productImage} />
+                                <Image
+                                    src={product.image}
+                                    alt={product.name}
+                                    width={260}
+                                    height={200}
+                                    className={styles.productImage}
+                                    unoptimized
+                                />
                             </div>
                             <div className={styles.content}>
                                 <span className={styles.brand}>{product.brand}</span>
                                 <h3 className={styles.name}>{product.name}</h3>
-                                <a href={`/producto/${product.id}`} className={styles.button} style={{ display: 'block', textAlign: 'center' }}>
-                                    Ver Detalles
-                                </a>
+                                {product.periodo && (
+                                    <span className={styles.periodo}>{product.periodo}</span>
+                                )}
+                                <span className={styles.viewBtn}>Ver Detalles →</span>
                             </div>
-                        </div>
+                        </a>
                     ))}
                 </div>
             ) : (
-                <div className="glass-panel" style={{ padding: '4rem', textAlign: 'center' }}>
-                    <p>No se encontraron productos disponibles para esta marca actualmente.</p>
-                    <a href="/contacto" className="btn-primary" style={{ display: 'inline-block', marginTop: '2rem' }}>
-                        Consultar disponibilidad próximamente
+                <div className={styles.emptyState}>
+                    <p>No se encontraron productos disponibles para {displayBrand} actualmente.</p>
+                    <a href="/contacto" className={styles.backLink}>
+                        Consultar disponibilidad
                     </a>
                 </div>
             )}
