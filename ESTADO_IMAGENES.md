@@ -1,8 +1,8 @@
 
 ## Resumen Global
 - **Total Productos:** 473
-- **✅ Imágenes Reales:** 52
-- **🟡 Placeholders (A generar):** 421
+- **✅ Imágenes Reales:** 59
+- **🟡 Placeholders (A generar):** 414
 - **🔴 Faltantes (Error):** 0
 
 ## 📝 Lista de Tareas (Prioridad Generación)
@@ -32,13 +32,6 @@
 - [ ] **inodoros**: ROCA Dama Retro (antigua Dama) Azul
 - [ ] **inodoros**: ROCA Dama Retro (antigua Dama) Verde
 - [ ] **inodoros**: ROCA Dama Retro (antigua Dama) Gris
-- [ ] **inodoros**: ROCA Gondola Verde
-- [ ] **inodoros**: ROCA Gondola Gris
-- [ ] **inodoros**: ROCA Meridian (original) Visón
-- [ ] **inodoros**: ROCA Meridian (original) Rosa
-- [ ] **inodoros**: ROCA Meridian (original) Azul
-- [ ] **inodoros**: ROCA Meridian (original) Verde
-- [ ] **inodoros**: ROCA Meridian (original) Gris
 - [ ] **lavabos**: ROCA Giralda Lavabo
 - [ ] **lavabos**: ROCA Verónica Lavabo
 - [ ] **lavabos**: ROCA Lorentina Lavabo
@@ -430,7 +423,7 @@
 
 
 # 📊 Estado de Imágenes del Catálogo
-Fecha: 19/1/2026, 15:59:20
+Fecha: 19/1/2026, 16:36:31
 
 | Marca | Categoría | Modelo | Estado | Archivo |
 |---|---|---|---|---|
@@ -487,13 +480,13 @@ Fecha: 19/1/2026, 15:59:20
 | ROCA | inodoros | Gondola Visón | 🟢 ✅ REAL | `roca_gondola_vison.png` |
 | ROCA | inodoros | Gondola Rosa | 🟢 ✅ REAL | `roca_gondola_rosa.png` |
 | ROCA | inodoros | Gondola Azul | 🟢 ✅ REAL | `roca_gondola_azul.png` |
-| ROCA | inodoros | Gondola Verde | 🟡 ⚠️ PLACEHOLDER | `roca_gondola_verde.png` |
-| ROCA | inodoros | Gondola Gris | 🟡 ⚠️ PLACEHOLDER | `roca_gondola_gris.png` |
-| ROCA | inodoros | Meridian (original) Visón | 🟡 ⚠️ PLACEHOLDER | `roca_meridian-original_vison.png` |
-| ROCA | inodoros | Meridian (original) Rosa | 🟡 ⚠️ PLACEHOLDER | `roca_meridian-original_rosa.png` |
-| ROCA | inodoros | Meridian (original) Azul | 🟡 ⚠️ PLACEHOLDER | `roca_meridian-original_azul.png` |
-| ROCA | inodoros | Meridian (original) Verde | 🟡 ⚠️ PLACEHOLDER | `roca_meridian-original_verde.png` |
-| ROCA | inodoros | Meridian (original) Gris | 🟡 ⚠️ PLACEHOLDER | `roca_meridian-original_gris.png` |
+| ROCA | inodoros | Gondola Verde | 🟢 ✅ REAL | `roca_gondola_verde.png` |
+| ROCA | inodoros | Gondola Gris | 🟢 ✅ REAL | `roca_gondola_gris.png` |
+| ROCA | inodoros | Meridian (original) Visón | 🟢 ✅ REAL | `roca_meridian-original_vison.png` |
+| ROCA | inodoros | Meridian (original) Rosa | 🟢 ✅ REAL | `roca_meridian-original_rosa.png` |
+| ROCA | inodoros | Meridian (original) Azul | 🟢 ✅ REAL | `roca_meridian-original_azul.png` |
+| ROCA | inodoros | Meridian (original) Verde | 🟢 ✅ REAL | `roca_meridian-original_verde.png` |
+| ROCA | inodoros | Meridian (original) Gris | 🟢 ✅ REAL | `roca_meridian-original_gris.png` |
 | ROCA | lavabos | Giralda Lavabo | 🟡 ⚠️ PLACEHOLDER | `roca_giralda_lavabo.png` |
 | ROCA | lavabos | Verónica Lavabo | 🟡 ⚠️ PLACEHOLDER | `roca_veronica_lavabo.png` |
 | ROCA | lavabos | Lorentina Lavabo | 🟡 ⚠️ PLACEHOLDER | `roca_lorentina_lavabo.png` |
