@@ -53,19 +53,23 @@ export default function Header() {
                 </button>
 
                 {/* Navigation */}
+                {/* Navigation */}
                 <nav className={`${styles.nav} ${menuOpen ? styles.navOpen : ''}`}>
                     <a href="/" className={`${styles.navLink} ${isActive('/') ? styles.navLinkActive : ''}`} onClick={closeMenu}>
                         Inicio
                     </a>
-                    <a href="/categorias" className={`${styles.navLink} ${isActive('/categorias') ? styles.navLinkActive : ''}`} onClick={closeMenu}>
-                        Categorías
-                    </a>
-                    <a href="/catalogo" className={`${styles.navLink} ${isActive('/catalogo') ? styles.navLinkActive : ''}`} onClick={closeMenu}>
+                    {/* Dirigir a Catálogo filtrado o general */}
+                    <a href="/catalogo" className={`${styles.navLink} ${isActive('/catalogo') && !pathname.includes('marca') ? styles.navLinkActive : ''}`} onClick={closeMenu}>
                         Catálogo
                     </a>
-                    <a href="/marcas" className={`${styles.navLink} ${isActive('/marcas') ? styles.navLinkActive : ''}`} onClick={closeMenu}>
-                        Marcas
+                    {/* Enlaces directos a categorías populares en lugar de página 404 */}
+                    <a href="/catalogo/inodoros" className={`${styles.navLink} ${isActive('/catalogo/inodoros') ? styles.navLinkActive : ''}`} onClick={closeMenu}>
+                        Inodoros
                     </a>
+                    <a href="/catalogo/tapas" className={`${styles.navLink} ${isActive('/catalogo/tapas') ? styles.navLinkActive : ''}`} onClick={closeMenu}>
+                        Tapas
+                    </a>
+
                     <a href="/contacto" className={`${styles.navLink} ${isActive('/contacto') ? styles.navLinkActive : ''}`} onClick={closeMenu}>
                         Contacto
                     </a>

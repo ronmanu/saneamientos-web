@@ -423,7 +423,7 @@
 
 
 # 📊 Estado de Imágenes del Catálogo
-Fecha: 19/1/2026, 16:36:31
+Fecha: 19/1/2026, 17:13:54
 
 | Marca | Categoría | Modelo | Estado | Archivo |
 |---|---|---|---|---|
