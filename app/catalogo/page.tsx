@@ -179,57 +179,102 @@ function CatalogContent() {
                 </p>
             </div>
 
-            {/* Filters Bar */}
-            <div className={styles.filtersBar}>
-                <div className={styles.filterGroup}>
-                    <label htmlFor="brand-filter">Marca</label>
-                    <select
-                        id="brand-filter"
-                        value={selectedBrand}
-                        onChange={(e) => setSelectedBrand(e.target.value)}
-                        className={styles.filterSelect}
-                    >
-                        <option value="">Todas las marcas</option>
-                        {brands.map(brand => (
-                            <option key={brand} value={brand}>{brand}</option>
-                        ))}
-                    </select>
-                </div>
-
-                <div className={styles.filterGroup}>
-                    <label htmlFor="category-filter">Categoría</label>
-                    <select
-                        id="category-filter"
-                        value={selectedCategory}
-                        onChange={(e) => setSelectedCategory(e.target.value)}
-                        className={styles.filterSelect}
-                    >
-                        <option value="">Todas las categorías</option>
+            {/* Navegación Visual por Categorías */}
+            {!selectedCategory && !selectedBrand && !urlQuery && (
+                <div style={{ marginBottom: '3rem' }}>
+                    <h2 className={styles.subtitle} style={{ marginBottom: '1rem' }}>Explorar por Categoría</h2>
+                    <div className={styles.categoriesList}>
                         {categories.map(cat => (
-                            <option key={cat} value={cat}>{cat.charAt(0).toUpperCase() + cat.slice(1)}</option>
+                            <button
+                                key={cat}
+                                onClick={() => setSelectedCategory(cat)}
+                                className={styles.categoryPill}
+                                style={{ cursor: 'pointer', border: 'none', fontSize: '1rem', padding: '0.8rem 1.5rem' }}
+                            >
+                                {cat.charAt(0).toUpperCase() + cat.slice(1)}
+                            </button>
                         ))}
-                    </select>
+                    </div>
+                </div>
+            )}
+
+            {/* Filtros Activos / Navegación Secundaria */}
+            <div style={{ display: 'flex', gap: '2rem', flexWrap: 'wrap', marginBottom: '2rem', alignItems: 'center', background: 'var(--color-surface)', padding: '1rem', borderRadius: '12px', border: '1px solid var(--border-color)' }}>
+                {/* Selector de Marca Integrado */}
+                <div style={{ display: 'flex', gap: '1rem', alignItems: 'center', flexWrap: 'wrap' }}>
+                    <span style={{ fontWeight: 600, color: 'var(--color-text-muted)' }}>Marca:</span>
+                    <div className={styles.categoriesList} style={{ margin: 0, gap: '0.5rem' }}>
+                        <button
+                            onClick={() => setSelectedBrand('')}
+                            className={styles.categoryPill}
+                            style={{
+                                background: selectedBrand === '' ? 'var(--color-primary)' : 'transparent',
+                                color: selectedBrand === '' ? 'white' : 'inherit',
+                                borderColor: selectedBrand === '' ? 'var(--color-primary)' : 'var(--border-color)',
+                                cursor: 'pointer'
+                            }}
+                        >
+                            Todas
+                        </button>
+                        {brands.map(brand => (
+                            <button
+                                key={brand}
+                                onClick={() => setSelectedBrand(brand)}
+                                className={styles.categoryPill}
+                                style={{
+                                    background: selectedBrand === brand ? 'var(--color-primary)' : 'transparent',
+                                    color: selectedBrand === brand ? 'white' : 'inherit',
+                                    borderColor: selectedBrand === brand ? 'var(--color-primary)' : 'var(--border-color)',
+                                    cursor: 'pointer'
+                                }}
+                            >
+                                {brand}
+                            </button>
+                        ))}
+                    </div>
                 </div>
 
-                <div className={styles.filterGroup}>
-                    <label htmlFor="sort-filter">Ordenar por</label>
-                    <select
-                        id="sort-filter"
-                        value={sortBy}
-                        onChange={(e) => setSortBy(e.target.value as SortOption)}
-                        className={styles.filterSelect}
+                {/* Reset si hay filtros */}
+                {(selectedCategory || selectedBrand || urlQuery) && (
+                    <button
+                        onClick={clearFilters}
+                        style={{
+                            marginLeft: 'auto',
+                            color: 'var(--color-primary)',
+                            fontWeight: 600,
+                            background: 'none',
+                            border: 'none',
+                            cursor: 'pointer',
+                            textDecoration: 'underline'
+                        }}
                     >
-                        <option value="name">Nombre A-Z</option>
-                        <option value="rarity">Rareza (difícil primero)</option>
-                    </select>
-                </div>
-
-                {hasActiveFilters && (
-                    <button onClick={clearFilters} className={styles.clearBtn}>
-                        Limpiar filtros
+                        Limpiar Filtros ✕
                     </button>
                 )}
             </div>
+
+            {/* Selector de Categorías (si ya se filtró por algo, para permitir cambiar rápido) */}
+            {(selectedCategory || selectedBrand) && (
+                <div style={{ marginBottom: '2rem' }}>
+                    <div className={styles.categoriesList} style={{ gap: '0.5rem' }}>
+                        {categories.map(cat => (
+                            <button
+                                key={cat}
+                                onClick={() => setSelectedCategory(selectedCategory === cat ? '' : cat)}
+                                className={styles.categoryPill}
+                                style={{
+                                    background: selectedCategory === cat ? 'var(--color-surface-alt)' : 'transparent',
+                                    borderColor: selectedCategory === cat ? 'var(--color-text-muted)' : '',
+                                    opacity: selectedCategory && selectedCategory !== cat ? 0.6 : 1,
+                                    cursor: 'pointer'
+                                }}
+                            >
+                                {cat.charAt(0).toUpperCase() + cat.slice(1)}
+                            </button>
+                        ))}
+                    </div>
+                </div>
+            )}
 
             {filteredProducts.length > 0 ? (
                 <div className={styles.grid}>
