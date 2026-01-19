@@ -321,6 +321,13 @@ export default async function ProductoPage({ params }: ProductPageProps) {
                     <p className={styles.ctaSubtext}>
                         ¿No sabes qué modelo es? Envíanos una foto y te ayudamos a identificarlo.
                     </p>
+
+                    <div className={styles.emailContactNote}>
+                        <p>
+                            ¿Prefieres contactar por <strong>correo electrónico</strong>?{' '}
+                            Hazlo desde nuestra sección <Link href="/consultar-stock">Consultar Stock</Link>.
+                        </p>
+                    </div>
                 </div>
             </div>
 
