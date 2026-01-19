@@ -17,7 +17,7 @@ import { Suspense, useState, useMemo, useEffect } from 'react';
 import { useSearchParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
 import { productosUnificados as products } from '../data/productosUnificados';
-import styles from './page.module.css';
+import styles from './Catalog.module.css';
 
 /** Type for sorting options */
 type SortOption = 'name' | 'rarity';

@@ -10,8 +10,9 @@
  */
 
 import Image from 'next/image';
-import { productosUnificados, getProductosByMarca } from '../../data/productosUnificados';
-import styles from '../../catalogo/page.module.css';
+import { notFound } from 'next/navigation';
+import { getProductosByMarca, productosUnificados } from '@/app/data/productosUnificados';
+import styles from '../../catalogo/Catalog.module.css';
 
 // Marcas disponibles para generar páginas estáticas
 const MARCAS = ['roca', 'gala', 'bellavista', 'jacob-delafon', 'sangra', 'valadares', 'sanitana', 'duravit'];
