@@ -118,11 +118,12 @@ function CatalogContent() {
 
         // Filtro por búsqueda de texto
         if (urlQuery) {
-            result = result.filter(product =>
-                product.name.toLowerCase().includes(urlQuery) ||
-                product.brand.toLowerCase().includes(urlQuery) ||
-                product.category.toLowerCase().includes(urlQuery)
-            );
+            const queryTerms = urlQuery.toLowerCase().trim().split(/\s+/);
+            result = result.filter(product => {
+                const searchableText = `${product.name} ${product.brand} ${product.category}`.toLowerCase();
+                // Todas las palabras de la búsqueda deben estar presentes en el producto
+                return queryTerms.every(term => searchableText.includes(term));
+            });
         }
 
         // Filtro por marca (del selector o URL)

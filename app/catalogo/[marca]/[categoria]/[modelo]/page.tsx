@@ -297,16 +297,20 @@ export default async function ProductoPage({ params }: ProductPageProps) {
                             </div>
 
                             {/* Colores disponibles */}
-                            {producto.specs.colorDisponible && Array.isArray(producto.specs.colorDisponible) && (
-                                <div className={styles.colores}>
-                                    <span className={styles.coloresLabel}>🎨 Colores disponibles:</span>
-                                    <div className={styles.coloresList}>
-                                        {producto.specs.colorDisponible.map((color: string, idx: number) => (
-                                            <span key={idx} className={styles.colorTag}>{color}</span>
-                                        ))}
+                            {producto.specs.colorDisponible && Array.isArray(producto.specs.colorDisponible) &&
+                                !producto.specs.colorDisponible.some((c: string) => producto.modelo.toLowerCase().includes(c.toLowerCase())) && (
+                                    <div className={styles.colores}>
+                                        <span className={styles.coloresLabel}>🎨 Colores originales del modelo:</span>
+                                        <div className={styles.coloresList}>
+                                            {producto.specs.colorDisponible.map((color: string, idx: number) => (
+                                                <span key={idx} className={styles.colorTag}>{color}</span>
+                                            ))}
+                                        </div>
+                                        <p style={{ fontSize: '0.8rem', color: '#666', marginTop: '0.4rem', fontStyle: 'italic' }}>
+                                            Tenemos stock de la mayoría de colores antiguos. Consúltanos.
+                                        </p>
                                     </div>
-                                </div>
-                            )}
+                                )}
 
                             {/* Nota técnica */}
                             {producto.specs.notaTecnica && (

@@ -54,6 +54,13 @@ export default function Home() {
           >
             🤳 No sé qué modelo es: Enviar foto por WhatsApp
           </a>
+
+          <div style={{ marginTop: '1.5rem', textAlign: 'center', fontSize: '0.95rem', color: 'var(--color-text-muted)' }}>
+            <p>
+              ¿Prefieres contactar por <strong>correo electrónico</strong>?
+              Hazlo desde nuestra sección <a href="/consultar-stock" style={{ color: 'var(--color-primary)', fontWeight: 700, textDecoration: 'none' }}>Consultar Stock</a>.
+            </p>
+          </div>
         </div>
       </section>
 

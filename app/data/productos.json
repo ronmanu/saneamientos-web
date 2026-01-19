@@ -33,7 +33,15 @@
             "formaTaza": "ovalada/redondeada",
             "fijacion": null,
             "distanciaEntreTornillos": "16",
-            "colorDisponible": null,
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ],
             "material": "Resiwood / MDF+PVC",
             "tipoMecanismo": "D1P (compatible)",
             "grupoCompatibilidad": "16.0 cm",
@@ -77,8 +85,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm"
           }
@@ -113,8 +126,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm"
           }
@@ -149,8 +167,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "14.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": null
           }
@@ -185,7 +208,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "13.4-17.4",
             "colorDisponible": [
-              "blanco"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "multirango 13.5-17.5 cm"
           }
@@ -253,8 +282,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "codigoReferencia": "A801B6200B"
@@ -290,8 +324,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "codigoReferencia": "A801B2000"
@@ -327,8 +366,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "tipoMecanismo": "D1P"
@@ -400,8 +444,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm"
           }
@@ -436,8 +485,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm"
           }
@@ -461,8 +515,13 @@
             "formaTaza": "ovalada",
             "numOrificiosGriferia": 1,
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -485,8 +544,13 @@
             "formaTaza": "ovalada",
             "numOrificiosGriferia": 1,
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -509,8 +573,13 @@
             "formaTaza": "ovalada",
             "numOrificiosGriferia": 1,
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -533,8 +602,13 @@
             "formaTaza": "ovalada",
             "numOrificiosGriferia": 1,
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -557,8 +631,13 @@
             "formaTaza": "ovalada",
             "numOrificiosGriferia": 1,
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -605,8 +684,13 @@
             "formaTaza": "ovalada",
             "numOrificiosGriferia": 1,
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -653,8 +737,13 @@
             "formaTaza": "ovalada",
             "numOrificiosGriferia": 1,
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -677,8 +766,13 @@
             "formaTaza": "ovalada",
             "numOrificiosGriferia": 1,
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -699,8 +793,13 @@
             "numOrificiosGriferia": 1,
             "conRebosadero": true,
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "ancho": "60.0",
             "fondo": "51.0",
@@ -724,8 +823,13 @@
             "numOrificiosGriferia": 1,
             "conRebosadero": true,
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -746,8 +850,13 @@
             "numOrificiosGriferia": 1,
             "conRebosadero": true,
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -768,8 +877,13 @@
             "numOrificiosGriferia": 1,
             "conRebosadero": true,
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -790,8 +904,13 @@
             "numOrificiosGriferia": 1,
             "conRebosadero": true,
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -834,8 +953,13 @@
             "numOrificiosGriferia": 1,
             "conRebosadero": true,
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -878,8 +1002,13 @@
             "numOrificiosGriferia": 1,
             "conRebosadero": true,
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -900,8 +1029,13 @@
             "numOrificiosGriferia": 1,
             "conRebosadero": true,
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -921,7 +1055,13 @@
             "material": "porcelana vitrificada",
             "antideslizante": true,
             "colorDisponible": [
-              "blanco"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -941,7 +1081,13 @@
             "material": "porcelana vitrificada",
             "antideslizante": true,
             "colorDisponible": [
-              "blanco"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -961,7 +1107,13 @@
             "material": "porcelana vitrificada",
             "antideslizante": true,
             "colorDisponible": [
-              "blanco"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -981,7 +1133,13 @@
             "material": "porcelana vitrificada",
             "antideslizante": true,
             "colorDisponible": [
-              "blanco"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -1001,7 +1159,13 @@
             "material": "porcelana vitrificada",
             "antideslizante": true,
             "colorDisponible": [
-              "blanco"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -1041,7 +1205,13 @@
             "material": "porcelana vitrificada",
             "antideslizante": true,
             "colorDisponible": [
-              "blanco"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -1081,7 +1251,13 @@
             "material": "porcelana vitrificada",
             "antideslizante": true,
             "colorDisponible": [
-              "blanco"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -1101,7 +1277,13 @@
             "material": "porcelana vitrificada",
             "antideslizante": true,
             "colorDisponible": [
-              "blanco"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -1120,7 +1302,16 @@
           "specs": {
             "tipoApertura": "corredera",
             "cristal": "templado 6mm",
-            "perfileria": "aluminio"
+            "perfileria": "aluminio",
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ]
           }
         },
         {
@@ -1138,7 +1329,16 @@
           "specs": {
             "tipoApertura": "corredera",
             "cristal": "templado 6mm",
-            "perfileria": "aluminio"
+            "perfileria": "aluminio",
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ]
           }
         },
         {
@@ -1156,7 +1356,16 @@
           "specs": {
             "tipoApertura": "corredera",
             "cristal": "templado 6mm",
-            "perfileria": "aluminio"
+            "perfileria": "aluminio",
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ]
           }
         },
         {
@@ -1174,7 +1383,16 @@
           "specs": {
             "tipoApertura": "corredera",
             "cristal": "templado 6mm",
-            "perfileria": "aluminio"
+            "perfileria": "aluminio",
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ]
           }
         },
         {
@@ -1192,7 +1410,16 @@
           "specs": {
             "tipoApertura": "corredera",
             "cristal": "templado 6mm",
-            "perfileria": "aluminio"
+            "perfileria": "aluminio",
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ]
           }
         },
         {
@@ -1228,7 +1455,16 @@
           "specs": {
             "tipoApertura": "corredera",
             "cristal": "templado 6mm",
-            "perfileria": "aluminio"
+            "perfileria": "aluminio",
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ]
           }
         },
         {
@@ -1264,7 +1500,16 @@
           "specs": {
             "tipoApertura": "corredera",
             "cristal": "templado 6mm",
-            "perfileria": "aluminio"
+            "perfileria": "aluminio",
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ]
           }
         },
         {
@@ -1282,7 +1527,16 @@
           "specs": {
             "tipoApertura": "corredera",
             "cristal": "templado 6mm",
-            "perfileria": "aluminio"
+            "perfileria": "aluminio",
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ]
           }
         },
         {
@@ -1300,7 +1554,16 @@
           "specs": {
             "ancho": "18",
             "proyeccion": "8",
-            "acabado": "cromo"
+            "acabado": "cromo",
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ]
           }
         },
         {
@@ -1318,7 +1581,16 @@
           "specs": {
             "ancho": "45",
             "proyeccion": "8",
-            "acabado": "cromo"
+            "acabado": "cromo",
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ]
           }
         },
         {
@@ -1336,7 +1608,16 @@
           "specs": {
             "ancho": "12",
             "proyeccion": "10",
-            "acabado": "cromo"
+            "acabado": "cromo",
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ]
           }
         },
         {
@@ -1352,7 +1633,16 @@
           "caracteristicas": "Portarrollos Victoria Portarrollos de ROCA",
           "url": "/catalogo/roca/accesorios/victoria_portarrollos",
           "specs": {
-            "acabado": "cromo"
+            "acabado": "cromo",
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ]
           }
         },
         {
@@ -1368,7 +1658,16 @@
           "caracteristicas": "Toallero Victoria Toallero de ROCA",
           "url": "/catalogo/roca/accesorios/victoria_toallero",
           "specs": {
-            "acabado": "cromo"
+            "acabado": "cromo",
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ]
           }
         },
         {
@@ -1384,7 +1683,16 @@
           "caracteristicas": "Jabonera Victoria Jabonera de ROCA",
           "url": "/catalogo/roca/accesorios/victoria_jabonera",
           "specs": {
-            "acabado": "cromo"
+            "acabado": "cromo",
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ]
           }
         },
         {
@@ -1400,7 +1708,16 @@
           "caracteristicas": "Portarrollos Meridian Portarrollos de ROCA",
           "url": "/catalogo/roca/accesorios/meridian_portarrollos",
           "specs": {
-            "acabado": "cromo"
+            "acabado": "cromo",
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ]
           }
         },
         {
@@ -1416,7 +1733,16 @@
           "caracteristicas": "Toallero Meridian Toallero de ROCA",
           "url": "/catalogo/roca/accesorios/meridian_toallero",
           "specs": {
-            "acabado": "cromo"
+            "acabado": "cromo",
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ]
           }
         },
         {
@@ -1466,7 +1792,16 @@
           "specs": {
             "ancho": "60",
             "fondo": "40",
-            "alto": "50"
+            "alto": "50",
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ]
           }
         },
         {
@@ -1561,9 +1896,13 @@
           "specs": {
             "formaTaza": "ovalada",
             "colorDisponible": [
-              "blanco",
-              "pergamón",
-              "colores especiales MDF/PVC/lacado"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -1586,8 +1925,13 @@
             "formaTaza": "ovalada",
             "grupoCompatibilidad": "16.0 cm",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -1606,8 +1950,13 @@
           "specs": {
             "formaTaza": "ovalada",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ]
           }
         },
@@ -1641,8 +1990,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "codigoReferencia": "A801B6200B",
@@ -1679,8 +2033,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "codigoReferencia": "A801B6200B",
@@ -1717,8 +2076,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "codigoReferencia": "A801B6200B",
@@ -1755,8 +2119,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "codigoReferencia": "A801B6200B",
@@ -1793,8 +2162,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "codigoReferencia": "A801B6200B",
@@ -1831,8 +2205,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "colorBase": "Visón"
@@ -1868,8 +2247,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "colorBase": "Rosa"
@@ -1905,8 +2289,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "colorBase": "Azul"
@@ -1942,8 +2331,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "colorBase": "Verde"
@@ -1979,8 +2373,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "colorBase": "Gris"
@@ -2016,8 +2415,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "codigoReferencia": "A801B2000",
@@ -2054,8 +2458,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "codigoReferencia": "A801B2000",
@@ -2092,8 +2501,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "codigoReferencia": "A801B2000",
@@ -2130,8 +2544,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "codigoReferencia": "A801B2000",
@@ -2168,8 +2587,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "codigoReferencia": "A801B2000",
@@ -2205,7 +2629,15 @@
             "formaTaza": "ovalada/redondeada",
             "fijacion": null,
             "distanciaEntreTornillos": "16",
-            "colorDisponible": null,
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ],
             "material": "Resiwood / MDF+PVC",
             "tipoMecanismo": "D1P (compatible)",
             "grupoCompatibilidad": "16.0 cm",
@@ -2249,7 +2681,15 @@
             "formaTaza": "ovalada/redondeada",
             "fijacion": null,
             "distanciaEntreTornillos": "16",
-            "colorDisponible": null,
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ],
             "material": "Resiwood / MDF+PVC",
             "tipoMecanismo": "D1P (compatible)",
             "grupoCompatibilidad": "16.0 cm",
@@ -2293,7 +2733,15 @@
             "formaTaza": "ovalada/redondeada",
             "fijacion": null,
             "distanciaEntreTornillos": "16",
-            "colorDisponible": null,
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ],
             "material": "Resiwood / MDF+PVC",
             "tipoMecanismo": "D1P (compatible)",
             "grupoCompatibilidad": "16.0 cm",
@@ -2337,7 +2785,15 @@
             "formaTaza": "ovalada/redondeada",
             "fijacion": null,
             "distanciaEntreTornillos": "16",
-            "colorDisponible": null,
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ],
             "material": "Resiwood / MDF+PVC",
             "tipoMecanismo": "D1P (compatible)",
             "grupoCompatibilidad": "16.0 cm",
@@ -2381,7 +2837,15 @@
             "formaTaza": "ovalada/redondeada",
             "fijacion": null,
             "distanciaEntreTornillos": "16",
-            "colorDisponible": null,
+            "colorDisponible": [
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
+            ],
             "material": "Resiwood / MDF+PVC",
             "tipoMecanismo": "D1P (compatible)",
             "grupoCompatibilidad": "16.0 cm",
@@ -2426,8 +2890,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "tipoMecanismo": "D1P",
@@ -2464,8 +2933,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "tipoMecanismo": "D1P",
@@ -2502,8 +2976,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "tipoMecanismo": "D1P",
@@ -2540,8 +3019,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "tipoMecanismo": "D1P",
@@ -2578,8 +3062,13 @@
             "fijacion": null,
             "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "Blanco",
+              "Pergamón",
+              "Visón",
+              "Rosa Ilusión",
+              "Azul Formentor",
+              "Verde Sauce",
+              "Gris Polar"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "tipoMecanismo": "D1P",
