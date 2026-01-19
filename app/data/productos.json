@@ -450,7 +450,7 @@
           "modeloSlug": "giralda_bidet",
           "tipoPrincipal": "Bidé de suelo",
           "categoria": "bidets",
-          "periodo": "1960-1990",
+          "periodo": "1970-1990",
           "situacion": "Descatalogado",
           "caracteristicas": "Bidé Giralda de ROCA, a juego con la serie de inodoro del mismo nombre",
           "url": "/catalogo/roca/bidets/giralda",
@@ -474,7 +474,7 @@
           "modeloSlug": "veronica_bidet",
           "tipoPrincipal": "Bidé de suelo",
           "categoria": "bidets",
-          "periodo": "1970-1995",
+          "periodo": "1980-2005",
           "situacion": "Descatalogado",
           "caracteristicas": "Bidé Verónica de ROCA, a juego con la serie de inodoro del mismo nombre",
           "url": "/catalogo/roca/bidets/veronica",
@@ -690,7 +690,7 @@
           "modeloSlug": "giralda_lavabo",
           "tipoPrincipal": "Lavabo con pedestal",
           "categoria": "lavabos",
-          "periodo": "1960-1990",
+          "periodo": "1970-1990",
           "situacion": "Descatalogado",
           "caracteristicas": "Lavabo Giralda de ROCA, diseño clásico con pedestal",
           "url": "/catalogo/roca/lavabos/giralda",
@@ -701,7 +701,10 @@
             "colorDisponible": [
               "blanco",
               "pergamón"
-            ]
+            ],
+            "ancho": "60.0",
+            "fondo": "51.0",
+            "formaTaza": "ovalada"
           }
         },
         {
@@ -712,7 +715,7 @@
           "modeloSlug": "veronica_lavabo",
           "tipoPrincipal": "Lavabo con pedestal",
           "categoria": "lavabos",
-          "periodo": "1970-1995",
+          "periodo": "1980-2005",
           "situacion": "Descatalogado",
           "caracteristicas": "Lavabo Verónica de ROCA, diseño clásico con pedestal",
           "url": "/catalogo/roca/lavabos/veronica",
@@ -1504,6 +1507,108 @@
             "altura": "185",
             "tipoApertura": "corredera",
             "perfil": "blanco"
+          }
+        },
+        {
+          "id": "roca-giralda_tapa_wc-65",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Giralda Tapa WC",
+          "modeloSlug": "giralda_tapa_wc",
+          "tipoPrincipal": "Tapa WC compatible",
+          "categoria": "tapas-wc",
+          "periodo": "1970-1990",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Tapa WC compatible Giralda Tapa WC de ROCA",
+          "url": "/catalogo/roca/tapas-wc/giralda_tapa_wc",
+          "specs": {
+            "ancho": "36.0",
+            "fondo": "43.5",
+            "distanciaEntreTornillos": "16.0",
+            "formaTaza": "ovalada",
+            "grupoCompatibilidad": "16.0 cm",
+            "colorDisponible": [
+              "blanco",
+              "pergamón",
+              "azul formentor",
+              "gris",
+              "rosa ilusión",
+              "verde sauce",
+              "visón",
+              "azul caribe",
+              "azul marino",
+              "bolero",
+              "castoro",
+              "manila",
+              "rosa",
+              "samba",
+              "verde taiga"
+            ]
+          }
+        },
+        {
+          "id": "roca-giralda_tapa_bidet-66",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Giralda Tapa Bidet",
+          "modeloSlug": "giralda_tapa_bidet",
+          "tipoPrincipal": "Tapa Bidet compatible",
+          "categoria": "tapas-wc",
+          "periodo": "1970-1990",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Tapa Bidet compatible Giralda Tapa Bidet de ROCA",
+          "url": "/catalogo/roca/tapas-wc/giralda_tapa_bidet",
+          "specs": {
+            "formaTaza": "ovalada",
+            "colorDisponible": [
+              "blanco",
+              "pergamón",
+              "colores especiales MDF/PVC/lacado"
+            ]
+          }
+        },
+        {
+          "id": "roca-veronica_tapa_wc-67",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Verónica Tapa WC",
+          "modeloSlug": "veronica_tapa_wc",
+          "tipoPrincipal": "Tapa WC compatible",
+          "categoria": "tapas-wc",
+          "periodo": "1980-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Tapa WC compatible Verónica Tapa WC de ROCA",
+          "url": "/catalogo/roca/tapas-wc/veronica_tapa_wc",
+          "specs": {
+            "ancho": "36.5",
+            "fondo": "44.0",
+            "distanciaEntreTornillos": "16.0",
+            "formaTaza": "ovalada",
+            "grupoCompatibilidad": "16.0 cm",
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-veronica_tapa_bidet-68",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Verónica Tapa Bidet",
+          "modeloSlug": "veronica_tapa_bidet",
+          "tipoPrincipal": "Tapa Bidet compatible",
+          "categoria": "tapas-wc",
+          "periodo": "1980-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Tapa Bidet compatible Verónica Tapa Bidet de ROCA",
+          "url": "/catalogo/roca/tapas-wc/veronica_tapa_bidet",
+          "specs": {
+            "formaTaza": "ovalada",
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
           }
         }
       ]
@@ -6004,7 +6109,7 @@
           "tipoPrincipal": "Inodoro clásico, cisternas, tapas",
           "categoria": "inodoros",
           "codigo": "GRTM3I10C1, GRTM3I57C1, GRTMC78C05, GRTMC83C05",
-          "periodo": "1985-2010",
+          "periodo": "1980-2005",
           "situacion": "Parcialmente descatalogado",
           "caracteristicas": "Una de las series más longevas; tapa Grecia con múltiples variantes de color/versión",
           "compatibilidades": "Cisterna completa Grecia, tapas por color",
@@ -6015,16 +6120,18 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "36",
-            "fondo": "44",
+            "ancho": "36.0",
+            "fondo": "44.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
-            "formaTaza": "ovalada clásica",
+            "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
-            "colorDisponible": null,
+            "distanciaEntreTornillos": "16.0",
+            "colorDisponible": [
+              "blanco"
+            ],
             "grupoCompatibilidad": "16.0 cm",
             "distribuidoresRecomendados": [
               "Leroy Merlin",
@@ -6546,7 +6653,10 @@
             "conRebosadero": true,
             "colorDisponible": [
               "blanco"
-            ]
+            ],
+            "ancho": "60.0",
+            "fondo": "48.0",
+            "formaTaza": "ovalada"
           }
         },
         {
@@ -7376,7 +7486,7 @@
           "modeloSlug": "darling_new_pie_bidet",
           "tipoPrincipal": "Bidé de suelo",
           "categoria": "bidets",
-          "periodo": "1999-2015",
+          "periodo": "2005-2015",
           "situacion": "Descatalogado",
           "caracteristicas": "Bidé Darling New Pie de Duravit, diseño alemán premium",
           "url": "/catalogo/duravit/bidets/darling_new_pie",
@@ -7386,7 +7496,7 @@
             "formaTaza": "ovalada",
             "numOrificiosGriferia": 1,
             "colorDisponible": [
-              "blanco"
+              "blanco alpino"
             ]
           }
         },
@@ -7398,7 +7508,7 @@
           "modeloSlug": "darling_new_suspendido_bidet",
           "tipoPrincipal": "Bidé suspendido",
           "categoria": "bidets",
-          "periodo": "1999-2015",
+          "periodo": "2005-2015",
           "situacion": "Descatalogado",
           "caracteristicas": "Bidé Darling New Suspendido de Duravit, diseño alemán premium",
           "url": "/catalogo/duravit/bidets/darling_new_suspendido",
@@ -7408,7 +7518,7 @@
             "formaTaza": "ovalada",
             "numOrificiosGriferia": 1,
             "colorDisponible": [
-              "blanco"
+              "blanco alpino"
             ]
           }
         },
@@ -7442,7 +7552,7 @@
           "modeloSlug": "happy_d2_pie_bidet",
           "tipoPrincipal": "Bidé de suelo",
           "categoria": "bidets",
-          "periodo": "1999-2015",
+          "periodo": "2008-2015",
           "situacion": "Descatalogado",
           "caracteristicas": "Bidé Happy D.2 Pie de Duravit, diseño alemán premium",
           "url": "/catalogo/duravit/bidets/happy_d2_pie",
@@ -7452,7 +7562,7 @@
             "formaTaza": "ovalada",
             "numOrificiosGriferia": 1,
             "colorDisponible": [
-              "blanco"
+              "blanco alpino"
             ]
           }
         },
@@ -7464,17 +7574,17 @@
           "modeloSlug": "happy_d2_suspendido_bidet",
           "tipoPrincipal": "Bidé suspendido",
           "categoria": "bidets",
-          "periodo": "1999-2015",
+          "periodo": "2008-2015",
           "situacion": "Descatalogado",
           "caracteristicas": "Bidé Happy D.2 Suspendido de Duravit, diseño alemán premium",
           "url": "/catalogo/duravit/bidets/happy_d2_suspendido",
           "specs": {
-            "ancho": "35.5",
+            "ancho": "36.5",
             "fondo": "54.0",
             "formaTaza": "ovalada",
             "numOrificiosGriferia": 1,
             "colorDisponible": [
-              "blanco"
+              "blanco alpino"
             ]
           }
         },
@@ -7486,12 +7596,12 @@
           "modeloSlug": "d-code_pie_bidet",
           "tipoPrincipal": "Bidé de suelo",
           "categoria": "bidets",
-          "periodo": "1999-2015",
+          "periodo": "1995-2015",
           "situacion": "Descatalogado",
           "caracteristicas": "Bidé D-Code Pie de Duravit, diseño alemán premium",
           "url": "/catalogo/duravit/bidets/d-code_pie",
           "specs": {
-            "ancho": "35.5",
+            "ancho": "35.0",
             "fondo": "54.0",
             "formaTaza": "ovalada",
             "numOrificiosGriferia": 1,
@@ -7664,7 +7774,7 @@
           "modeloSlug": "darling_new_lavabo",
           "tipoPrincipal": "Lavabo con pedestal",
           "categoria": "lavabos",
-          "periodo": "1999-2015",
+          "periodo": "2005-2015",
           "situacion": "Descatalogado",
           "caracteristicas": "Lavabo Darling New de Duravit, diseño clásico con pedestal",
           "url": "/catalogo/duravit/lavabos/darling_new",
@@ -7673,8 +7783,11 @@
             "numOrificiosGriferia": 1,
             "conRebosadero": true,
             "colorDisponible": [
-              "blanco"
-            ]
+              "blanco alpino"
+            ],
+            "ancho": "65.0",
+            "fondo": "55.0",
+            "formaTaza": "ovalada"
           }
         },
         {
@@ -7706,7 +7819,7 @@
           "modeloSlug": "happy_d2_lavabo",
           "tipoPrincipal": "Lavabo con pedestal",
           "categoria": "lavabos",
-          "periodo": "2005-2015",
+          "periodo": "2008-2015",
           "situacion": "Descatalogado",
           "caracteristicas": "Lavabo Happy D.2 de Duravit, diseño clásico con pedestal",
           "url": "/catalogo/duravit/lavabos/happy_d2",
@@ -7715,8 +7828,11 @@
             "numOrificiosGriferia": 1,
             "conRebosadero": true,
             "colorDisponible": [
-              "blanco"
-            ]
+              "blanco alpino"
+            ],
+            "ancho": "50.0",
+            "fondo": "36.0",
+            "formaTaza": "ovalada"
           }
         },
         {
@@ -7727,7 +7843,7 @@
           "modeloSlug": "d-code_lavabo",
           "tipoPrincipal": "Lavabo con pedestal",
           "categoria": "lavabos",
-          "periodo": "2000-2015",
+          "periodo": "1995-2015",
           "situacion": "Descatalogado",
           "caracteristicas": "Lavabo D-Code de Duravit, diseño clásico con pedestal",
           "url": "/catalogo/duravit/lavabos/d-code",
@@ -7737,7 +7853,10 @@
             "conRebosadero": true,
             "colorDisponible": [
               "blanco"
-            ]
+            ],
+            "ancho": "55.0",
+            "fondo": "43.0",
+            "formaTaza": "ovalada"
           }
         },
         {
@@ -7790,7 +7909,7 @@
           "modeloSlug": "me_by_starck_lavabo",
           "tipoPrincipal": "Lavabo con pedestal",
           "categoria": "lavabos",
-          "periodo": "2010-2018",
+          "periodo": "2010-2015",
           "situacion": "Descatalogado",
           "caracteristicas": "Lavabo ME by Starck de Duravit, diseño clásico con pedestal",
           "url": "/catalogo/duravit/lavabos/me_by_starck",
@@ -7799,8 +7918,12 @@
             "numOrificiosGriferia": 1,
             "conRebosadero": true,
             "colorDisponible": [
-              "blanco"
-            ]
+              "blanco alpino",
+              "blanco mate"
+            ],
+            "ancho": "60.0",
+            "fondo": "40.0",
+            "formaTaza": "rectangular"
           }
         },
         {
@@ -7811,7 +7934,7 @@
           "modeloSlug": "vero_air_lavabo",
           "tipoPrincipal": "Lavabo con pedestal",
           "categoria": "lavabos",
-          "periodo": "2008-2018",
+          "periodo": "2010-2015",
           "situacion": "Descatalogado",
           "caracteristicas": "Lavabo Vero Air de Duravit, diseño clásico con pedestal",
           "url": "/catalogo/duravit/lavabos/vero_air",
@@ -7821,7 +7944,10 @@
             "conRebosadero": true,
             "colorDisponible": [
               "blanco"
-            ]
+            ],
+            "ancho": "60.0",
+            "fondo": "47.0",
+            "formaTaza": "cuadrada"
           }
         },
         {
@@ -8126,6 +8252,153 @@
             "tipoApertura": "corredera",
             "cristal": "templado 6mm",
             "perfileria": "aluminio"
+          }
+        },
+        {
+          "id": "duravit-vero_lavabo_60x47-46",
+          "marca": "DURAVIT",
+          "marcaSlug": "duravit",
+          "modelo": "Vero Lavabo 60x47",
+          "modeloSlug": "vero_lavabo_60x47",
+          "tipoPrincipal": "Lavabo mural",
+          "categoria": "lavabos",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo mural Vero Lavabo 60x47 de DURAVIT",
+          "url": "/catalogo/duravit/lavabos/vero_lavabo_60x47",
+          "specs": {
+            "ancho": "60.0",
+            "fondo": "47.0",
+            "formaTaza": "cuadrada",
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-vero_lavabo_80x47-47",
+          "marca": "DURAVIT",
+          "marcaSlug": "duravit",
+          "modelo": "Vero Lavabo 80x47",
+          "modeloSlug": "vero_lavabo_80x47",
+          "tipoPrincipal": "Lavabo mural",
+          "categoria": "lavabos",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo mural Vero Lavabo 80x47 de DURAVIT",
+          "url": "/catalogo/duravit/lavabos/vero_lavabo_80x47",
+          "specs": {
+            "ancho": "80.0",
+            "fondo": "47.0",
+            "formaTaza": "cuadrada",
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-vero_air_lavabo_50x47-48",
+          "marca": "DURAVIT",
+          "marcaSlug": "duravit",
+          "modelo": "Vero Air Lavabo 50x47",
+          "modeloSlug": "vero_air_lavabo_50x47",
+          "tipoPrincipal": "Lavabo encimera",
+          "categoria": "lavabos",
+          "periodo": "2010-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo encimera Vero Air Lavabo 50x47 de DURAVIT",
+          "url": "/catalogo/duravit/lavabos/vero_air_lavabo_50x47",
+          "specs": {
+            "ancho": "50.0",
+            "fondo": "47.0",
+            "formaTaza": "cuadrada",
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-vero_air_lavabo_80x47-49",
+          "marca": "DURAVIT",
+          "marcaSlug": "duravit",
+          "modelo": "Vero Air Lavabo 80x47",
+          "modeloSlug": "vero_air_lavabo_80x47",
+          "tipoPrincipal": "Lavabo encimera",
+          "categoria": "lavabos",
+          "periodo": "2010-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo encimera Vero Air Lavabo 80x47 de DURAVIT",
+          "url": "/catalogo/duravit/lavabos/vero_air_lavabo_80x47",
+          "specs": {
+            "ancho": "80.0",
+            "fondo": "47.0",
+            "formaTaza": "cuadrada",
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-vero_air_lavabo_100x47-50",
+          "marca": "DURAVIT",
+          "marcaSlug": "duravit",
+          "modelo": "Vero Air Lavabo 100x47",
+          "modeloSlug": "vero_air_lavabo_100x47",
+          "tipoPrincipal": "Lavabo encimera",
+          "categoria": "lavabos",
+          "periodo": "2010-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo encimera Vero Air Lavabo 100x47 de DURAVIT",
+          "url": "/catalogo/duravit/lavabos/vero_air_lavabo_100x47",
+          "specs": {
+            "ancho": "100.0",
+            "fondo": "47.0",
+            "formaTaza": "cuadrada",
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-vero_air_lavabo_120x47-51",
+          "marca": "DURAVIT",
+          "marcaSlug": "duravit",
+          "modelo": "Vero Air Lavabo 120x47",
+          "modeloSlug": "vero_air_lavabo_120x47",
+          "tipoPrincipal": "Lavabo encimera",
+          "categoria": "lavabos",
+          "periodo": "2010-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo encimera Vero Air Lavabo 120x47 de DURAVIT",
+          "url": "/catalogo/duravit/lavabos/vero_air_lavabo_120x47",
+          "specs": {
+            "ancho": "120.0",
+            "fondo": "47.0",
+            "formaTaza": "cuadrada",
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-me_by_starck_lavabo_63x40-52",
+          "marca": "DURAVIT",
+          "marcaSlug": "duravit",
+          "modelo": "ME by Starck Lavabo 63x40",
+          "modeloSlug": "me_by_starck_lavabo_63x40",
+          "tipoPrincipal": "Lavabo para mueble",
+          "categoria": "lavabos",
+          "periodo": "2010-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo para mueble ME by Starck Lavabo 63x40 de DURAVIT",
+          "url": "/catalogo/duravit/lavabos/me_by_starck_lavabo_63x40",
+          "specs": {
+            "ancho": "63.0",
+            "fondo": "40.0",
+            "formaTaza": "rectangular",
+            "colorDisponible": [
+              "blanco alpino"
+            ]
           }
         }
       ]
