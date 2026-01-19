@@ -441,6 +441,466 @@
             ],
             "grupoCompatibilidad": "16.0 cm"
           }
+        },
+        {
+          "id": "roca-giralda-bidet-12",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Giralda Bidet",
+          "modeloSlug": "giralda_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1960-1990",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Giralda de ROCA, a juego con la serie de inodoro del mismo nombre",
+          "url": "/catalogo/roca/bidets/giralda",
+          "specs": {
+            "ancho": null,
+            "fondo": null,
+            "altura": null,
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-veronica-bidet-13",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Verónica Bidet",
+          "modeloSlug": "veronica_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1970-1995",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Verónica de ROCA, a juego con la serie de inodoro del mismo nombre",
+          "url": "/catalogo/roca/bidets/veronica",
+          "specs": {
+            "ancho": null,
+            "fondo": null,
+            "altura": null,
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-lorentina-bidet-14",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Lorentina Bidet",
+          "modeloSlug": "lorentina_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1965-1985",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Lorentina de ROCA, a juego con la serie de inodoro del mismo nombre",
+          "url": "/catalogo/roca/bidets/lorentina",
+          "specs": {
+            "ancho": null,
+            "fondo": null,
+            "altura": null,
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-lucerna-bidet-15",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Lucerna Bidet",
+          "modeloSlug": "lucerna_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1970-1990",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Lucerna de ROCA, a juego con la serie de inodoro del mismo nombre",
+          "url": "/catalogo/roca/bidets/lucerna",
+          "specs": {
+            "ancho": null,
+            "fondo": null,
+            "altura": null,
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-victoria-bidet-16",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Victoria Bidet",
+          "modeloSlug": "victoria_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Victoria de ROCA, a juego con la serie de inodoro del mismo nombre",
+          "url": "/catalogo/roca/bidets/victoria",
+          "specs": {
+            "ancho": null,
+            "fondo": null,
+            "altura": null,
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-dama_retro-bidet-17",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Dama Retro Bidet",
+          "modeloSlug": "dama_retro_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1990-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Dama Retro de ROCA, a juego con la serie de inodoro del mismo nombre",
+          "url": "/catalogo/roca/bidets/dama_retro",
+          "specs": {
+            "ancho": null,
+            "fondo": null,
+            "altura": null,
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-meridian-bidet-18",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Meridian Bidet",
+          "modeloSlug": "meridian_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1995-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Meridian de ROCA, a juego con la serie de inodoro del mismo nombre",
+          "url": "/catalogo/roca/bidets/meridian",
+          "specs": {
+            "ancho": null,
+            "fondo": null,
+            "altura": null,
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-frontalis-bidet-19",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Frontalis Bidet",
+          "modeloSlug": "frontalis_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Frontalis de ROCA, a juego con la serie de inodoro del mismo nombre",
+          "url": "/catalogo/roca/bidets/frontalis",
+          "specs": {
+            "ancho": null,
+            "fondo": null,
+            "altura": null,
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-georgia-bidet-20",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Georgia Bidet",
+          "modeloSlug": "georgia_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Georgia de ROCA, a juego con la serie de inodoro del mismo nombre",
+          "url": "/catalogo/roca/bidets/georgia",
+          "specs": {
+            "ancho": null,
+            "fondo": null,
+            "altura": null,
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-veranda-bidet-21",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Veranda Bidet",
+          "modeloSlug": "veranda_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1995-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Veranda de ROCA, a juego con la serie de inodoro del mismo nombre",
+          "url": "/catalogo/roca/bidets/veranda",
+          "specs": {
+            "ancho": null,
+            "fondo": null,
+            "altura": null,
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-giralda-lavabo-22",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Giralda Lavabo",
+          "modeloSlug": "giralda_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1960-1990",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Giralda de ROCA, diseño clásico con pedestal",
+          "url": "/catalogo/roca/lavabos/giralda",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-veronica-lavabo-23",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Verónica Lavabo",
+          "modeloSlug": "veronica_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1970-1995",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Verónica de ROCA, diseño clásico con pedestal",
+          "url": "/catalogo/roca/lavabos/veronica",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-lorentina-lavabo-24",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Lorentina Lavabo",
+          "modeloSlug": "lorentina_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1965-1985",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Lorentina de ROCA, diseño clásico con pedestal",
+          "url": "/catalogo/roca/lavabos/lorentina",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-lucerna-lavabo-25",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Lucerna Lavabo",
+          "modeloSlug": "lucerna_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1970-1990",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Lucerna de ROCA, diseño clásico con pedestal",
+          "url": "/catalogo/roca/lavabos/lucerna",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-victoria-lavabo-26",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Victoria Lavabo",
+          "modeloSlug": "victoria_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Victoria de ROCA, diseño clásico con pedestal",
+          "url": "/catalogo/roca/lavabos/victoria",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-dama_retro-lavabo-27",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Dama Retro Lavabo",
+          "modeloSlug": "dama_retro_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1990-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Dama Retro de ROCA, diseño clásico con pedestal",
+          "url": "/catalogo/roca/lavabos/dama_retro",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-meridian-lavabo-28",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Meridian Lavabo",
+          "modeloSlug": "meridian_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1995-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Meridian de ROCA, diseño clásico con pedestal",
+          "url": "/catalogo/roca/lavabos/meridian",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-frontalis-lavabo-29",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Frontalis Lavabo",
+          "modeloSlug": "frontalis_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Frontalis de ROCA, diseño clásico con pedestal",
+          "url": "/catalogo/roca/lavabos/frontalis",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-georgia-lavabo-30",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Georgia Lavabo",
+          "modeloSlug": "georgia_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Georgia de ROCA, diseño clásico con pedestal",
+          "url": "/catalogo/roca/lavabos/georgia",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "roca-veranda-lavabo-31",
+          "marca": "ROCA",
+          "marcaSlug": "roca",
+          "modelo": "Veranda Lavabo",
+          "modeloSlug": "veranda_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1995-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Veranda de ROCA, diseño clásico con pedestal",
+          "url": "/catalogo/roca/lavabos/veranda",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
         }
       ]
     },
@@ -694,6 +1154,286 @@
               "pergamón"
             ],
             "grupoCompatibilidad": null
+          }
+        },
+        {
+          "id": "bellavista-arcadia-bidet-7",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Arcadia Bidet",
+          "modeloSlug": "arcadia_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Arcadia de BELLAVISTA, a juego con la serie de inodoro",
+          "url": "/catalogo/bellavista/bidets/arcadia",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "bellavista-italica-bidet-8",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Itálica Bidet",
+          "modeloSlug": "italica_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Itálica de BELLAVISTA, a juego con la serie de inodoro",
+          "url": "/catalogo/bellavista/bidets/italica",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "bellavista-magna-bidet-9",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Magna Bidet",
+          "modeloSlug": "magna_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1980-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Magna de BELLAVISTA, a juego con la serie de inodoro",
+          "url": "/catalogo/bellavista/bidets/magna",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "bellavista-lara-bidet-10",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Lara Bidet",
+          "modeloSlug": "lara_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Lara de BELLAVISTA, a juego con la serie de inodoro",
+          "url": "/catalogo/bellavista/bidets/lara",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "bellavista-record-bidet-11",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Record Bidet",
+          "modeloSlug": "record_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1980-2000",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Record de BELLAVISTA, a juego con la serie de inodoro",
+          "url": "/catalogo/bellavista/bidets/record",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "bellavista-capri-bidet-12",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Capri Bidet",
+          "modeloSlug": "capri_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1975-1995",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Capri de BELLAVISTA, a juego con la serie de inodoro",
+          "url": "/catalogo/bellavista/bidets/capri",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "bellavista-arcadia-lavabo-13",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Arcadia Lavabo",
+          "modeloSlug": "arcadia_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Arcadia de BELLAVISTA, diseño clásico con pedestal",
+          "url": "/catalogo/bellavista/lavabos/arcadia",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "bellavista-arcadia_suspendido-lavabo-14",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Arcadia Suspendido Lavabo",
+          "modeloSlug": "arcadia_suspendido_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Arcadia Suspendido de BELLAVISTA, diseño clásico con pedestal",
+          "url": "/catalogo/bellavista/lavabos/arcadia_suspendido",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "bellavista-italica-lavabo-15",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Itálica Lavabo",
+          "modeloSlug": "italica_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Itálica de BELLAVISTA, diseño clásico con pedestal",
+          "url": "/catalogo/bellavista/lavabos/italica",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "bellavista-magna-lavabo-16",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Magna Lavabo",
+          "modeloSlug": "magna_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1980-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Magna de BELLAVISTA, diseño clásico con pedestal",
+          "url": "/catalogo/bellavista/lavabos/magna",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "bellavista-lara-lavabo-17",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Lara Lavabo",
+          "modeloSlug": "lara_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Lara de BELLAVISTA, diseño clásico con pedestal",
+          "url": "/catalogo/bellavista/lavabos/lara",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "bellavista-record-lavabo-18",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Record Lavabo",
+          "modeloSlug": "record_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1980-2000",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Record de BELLAVISTA, diseño clásico con pedestal",
+          "url": "/catalogo/bellavista/lavabos/record",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "bellavista-capri-lavabo-19",
+          "marca": "BELLAVISTA",
+          "marcaSlug": "bellavista",
+          "modelo": "Capri Lavabo",
+          "modeloSlug": "capri_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1975-1995",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Capri de BELLAVISTA, diseño clásico con pedestal",
+          "url": "/catalogo/bellavista/lavabos/capri",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
           }
         }
       ]
@@ -1058,6 +1798,393 @@
               "pergamón"
             ],
             "grupoCompatibilidad": "15.5 cm"
+          }
+        },
+        {
+          "id": "gala-elia-bidet-10",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Elia Bidet",
+          "modeloSlug": "elia_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Elia de GALA, a juego con la serie de inodoro",
+          "url": "/catalogo/gala/bidets/elia",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-klea-bidet-11",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Klea Bidet",
+          "modeloSlug": "klea_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Klea de GALA, a juego con la serie de inodoro",
+          "url": "/catalogo/gala/bidets/klea",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-street-bidet-12",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Street Bidet",
+          "modeloSlug": "street_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "2000-2012",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Street de GALA, a juego con la serie de inodoro",
+          "url": "/catalogo/gala/bidets/street",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-gala_2000-bidet-13",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Gala 2000 Bidet",
+          "modeloSlug": "gala_2000_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Gala 2000 de GALA, a juego con la serie de inodoro",
+          "url": "/catalogo/gala/bidets/gala_2000",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-aurea-bidet-14",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Aurea Bidet",
+          "modeloSlug": "aurea_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1990-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Aurea de GALA, a juego con la serie de inodoro",
+          "url": "/catalogo/gala/bidets/aurea",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-loa-bidet-15",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Loa Bidet",
+          "modeloSlug": "loa_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1980-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Loa de GALA, a juego con la serie de inodoro",
+          "url": "/catalogo/gala/bidets/loa",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-nostalgia-bidet-16",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Nostalgia Bidet",
+          "modeloSlug": "nostalgia_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Nostalgia de GALA, a juego con la serie de inodoro",
+          "url": "/catalogo/gala/bidets/nostalgia",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-bacara-bidet-17",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Bacara Bidet",
+          "modeloSlug": "bacara_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1995-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Bacara de GALA, a juego con la serie de inodoro",
+          "url": "/catalogo/gala/bidets/bacara",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-diana-bidet-18",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Diana Bidet",
+          "modeloSlug": "diana_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Diana de GALA, a juego con la serie de inodoro",
+          "url": "/catalogo/gala/bidets/diana",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-elia-lavabo-19",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Elia Lavabo",
+          "modeloSlug": "elia_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Elia de GALA, diseño clásico con pedestal",
+          "url": "/catalogo/gala/lavabos/elia",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-klea-lavabo-20",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Klea Lavabo",
+          "modeloSlug": "klea_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Klea de GALA, diseño clásico con pedestal",
+          "url": "/catalogo/gala/lavabos/klea",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-street-lavabo-21",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Street Lavabo",
+          "modeloSlug": "street_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "2000-2012",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Street de GALA, diseño clásico con pedestal",
+          "url": "/catalogo/gala/lavabos/street",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-gala_2000-lavabo-22",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Gala 2000 Lavabo",
+          "modeloSlug": "gala_2000_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Gala 2000 de GALA, diseño clásico con pedestal",
+          "url": "/catalogo/gala/lavabos/gala_2000",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-aurea-lavabo-23",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Aurea Lavabo",
+          "modeloSlug": "aurea_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1990-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Aurea de GALA, diseño clásico con pedestal",
+          "url": "/catalogo/gala/lavabos/aurea",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-loa-lavabo-24",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Loa Lavabo",
+          "modeloSlug": "loa_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1980-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Loa de GALA, diseño clásico con pedestal",
+          "url": "/catalogo/gala/lavabos/loa",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-nostalgia-lavabo-25",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Nostalgia Lavabo",
+          "modeloSlug": "nostalgia_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Nostalgia de GALA, diseño clásico con pedestal",
+          "url": "/catalogo/gala/lavabos/nostalgia",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-bacara-lavabo-26",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Bacara Lavabo",
+          "modeloSlug": "bacara_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1995-2008",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Bacara de GALA, diseño clásico con pedestal",
+          "url": "/catalogo/gala/lavabos/bacara",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "gala-diana-lavabo-27",
+          "marca": "GALA",
+          "marcaSlug": "gala",
+          "modelo": "Diana Lavabo",
+          "modeloSlug": "diana_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Diana de GALA, diseño clásico con pedestal",
+          "url": "/catalogo/gala/lavabos/diana",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
           }
         }
       ]
@@ -1795,6 +2922,393 @@
             ],
             "grupoCompatibilidad": "15.5 cm"
           }
+        },
+        {
+          "id": "sangra-alcora-bidet-10",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Alcora Bidet",
+          "modeloSlug": "alcora_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1980-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Alcora de Sangrá, a juego con la serie de inodoro",
+          "url": "/catalogo/sangra/bidets/alcora",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-bahia-bidet-11",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Bahia Bidet",
+          "modeloSlug": "bahia_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1975-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Bahia de Sangrá, a juego con la serie de inodoro",
+          "url": "/catalogo/sangra/bidets/bahia",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-domo-bidet-12",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Domo Bidet",
+          "modeloSlug": "domo_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1985-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Domo de Sangrá, a juego con la serie de inodoro",
+          "url": "/catalogo/sangra/bidets/domo",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-boreal-bidet-13",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Boreal Bidet",
+          "modeloSlug": "boreal_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1980-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Boreal de Sangrá, a juego con la serie de inodoro",
+          "url": "/catalogo/sangra/bidets/boreal",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-granada-bidet-14",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Granada Bidet",
+          "modeloSlug": "granada_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1975-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Granada de Sangrá, a juego con la serie de inodoro",
+          "url": "/catalogo/sangra/bidets/granada",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-isis-bidet-15",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Isis Bidet",
+          "modeloSlug": "isis_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1975-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Isis de Sangrá, a juego con la serie de inodoro",
+          "url": "/catalogo/sangra/bidets/isis",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-proa-bidet-16",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Proa Bidet",
+          "modeloSlug": "proa_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1985-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Proa de Sangrá, a juego con la serie de inodoro",
+          "url": "/catalogo/sangra/bidets/proa",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-siena-bidet-17",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Siena Bidet",
+          "modeloSlug": "siena_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1990-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Siena de Sangrá, a juego con la serie de inodoro",
+          "url": "/catalogo/sangra/bidets/siena",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-taiga-bidet-18",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Taiga Bidet",
+          "modeloSlug": "taiga_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1985-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Taiga de Sangrá, a juego con la serie de inodoro",
+          "url": "/catalogo/sangra/bidets/taiga",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-alcora-lavabo-19",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Alcora Lavabo",
+          "modeloSlug": "alcora_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1980-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Alcora de Sangrá, diseño clásico con pedestal",
+          "url": "/catalogo/sangra/lavabos/alcora",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-bahia-lavabo-20",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Bahia Lavabo",
+          "modeloSlug": "bahia_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1975-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Bahia de Sangrá, diseño clásico con pedestal",
+          "url": "/catalogo/sangra/lavabos/bahia",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-domo-lavabo-21",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Domo Lavabo",
+          "modeloSlug": "domo_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1985-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Domo de Sangrá, diseño clásico con pedestal",
+          "url": "/catalogo/sangra/lavabos/domo",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-boreal-lavabo-22",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Boreal Lavabo",
+          "modeloSlug": "boreal_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1980-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Boreal de Sangrá, diseño clásico con pedestal",
+          "url": "/catalogo/sangra/lavabos/boreal",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-granada-lavabo-23",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Granada Lavabo",
+          "modeloSlug": "granada_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1975-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Granada de Sangrá, diseño clásico con pedestal",
+          "url": "/catalogo/sangra/lavabos/granada",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-isis-lavabo-24",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Isis Lavabo",
+          "modeloSlug": "isis_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1975-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Isis de Sangrá, diseño clásico con pedestal",
+          "url": "/catalogo/sangra/lavabos/isis",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-proa-lavabo-25",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Proa Lavabo",
+          "modeloSlug": "proa_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1985-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Proa de Sangrá, diseño clásico con pedestal",
+          "url": "/catalogo/sangra/lavabos/proa",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-siena-lavabo-26",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Siena Lavabo",
+          "modeloSlug": "siena_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1990-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Siena de Sangrá, diseño clásico con pedestal",
+          "url": "/catalogo/sangra/lavabos/siena",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
+        },
+        {
+          "id": "sangra-taiga-lavabo-27",
+          "marca": "Sangrá",
+          "marcaSlug": "sangra",
+          "modelo": "Taiga Lavabo",
+          "modeloSlug": "taiga_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1985-2007",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Taiga de Sangrá, diseño clásico con pedestal",
+          "url": "/catalogo/sangra/lavabos/taiga",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ]
+          }
         }
       ]
     },
@@ -2120,6 +3634,334 @@
               "blanco"
             ],
             "grupoCompatibilidad": "15.5 cm"
+          }
+        },
+        {
+          "id": "valadares-nautilus-bidet-9",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Nautilus Bidet",
+          "modeloSlug": "nautilus_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1995-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Nautilus de Valadares, a juego con la serie de inodoro",
+          "url": "/catalogo/valadares/bidets/nautilus",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-tagus-bidet-10",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Tagus Bidet",
+          "modeloSlug": "tagus_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Tagus de Valadares, a juego con la serie de inodoro",
+          "url": "/catalogo/valadares/bidets/tagus",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-oporto-bidet-11",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Oporto Bidet",
+          "modeloSlug": "oporto_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1980-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Oporto de Valadares, a juego con la serie de inodoro",
+          "url": "/catalogo/valadares/bidets/oporto",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-opus-bidet-12",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Opus Bidet",
+          "modeloSlug": "opus_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Opus de Valadares, a juego con la serie de inodoro",
+          "url": "/catalogo/valadares/bidets/opus",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-oceanus-bidet-13",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Oceanus Bidet",
+          "modeloSlug": "oceanus_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Oceanus de Valadares, a juego con la serie de inodoro",
+          "url": "/catalogo/valadares/bidets/oceanus",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-durius-bidet-14",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Durius Bidet",
+          "modeloSlug": "durius_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Durius de Valadares, a juego con la serie de inodoro",
+          "url": "/catalogo/valadares/bidets/durius",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-egg-bidet-15",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Egg Bidet",
+          "modeloSlug": "egg_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "2000-2012",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Egg de Valadares, a juego con la serie de inodoro",
+          "url": "/catalogo/valadares/bidets/egg",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-thema-bidet-16",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Thema Bidet",
+          "modeloSlug": "thema_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Thema de Valadares, a juego con la serie de inodoro",
+          "url": "/catalogo/valadares/bidets/thema",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-nautilus-lavabo-17",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Nautilus Lavabo",
+          "modeloSlug": "nautilus_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1995-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Nautilus de Valadares, diseño clásico con pedestal",
+          "url": "/catalogo/valadares/lavabos/nautilus",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-tagus-lavabo-18",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Tagus Lavabo",
+          "modeloSlug": "tagus_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Tagus de Valadares, diseño clásico con pedestal",
+          "url": "/catalogo/valadares/lavabos/tagus",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-oporto-lavabo-19",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Oporto Lavabo",
+          "modeloSlug": "oporto_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1980-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Oporto de Valadares, diseño clásico con pedestal",
+          "url": "/catalogo/valadares/lavabos/oporto",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-opus-lavabo-20",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Opus Lavabo",
+          "modeloSlug": "opus_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Opus de Valadares, diseño clásico con pedestal",
+          "url": "/catalogo/valadares/lavabos/opus",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-oceanus-lavabo-21",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Oceanus Lavabo",
+          "modeloSlug": "oceanus_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Oceanus de Valadares, diseño clásico con pedestal",
+          "url": "/catalogo/valadares/lavabos/oceanus",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-durius-lavabo-22",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Durius Lavabo",
+          "modeloSlug": "durius_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Durius de Valadares, diseño clásico con pedestal",
+          "url": "/catalogo/valadares/lavabos/durius",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-egg-lavabo-23",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Egg Lavabo",
+          "modeloSlug": "egg_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "2000-2012",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Egg de Valadares, diseño clásico con pedestal",
+          "url": "/catalogo/valadares/lavabos/egg",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "valadares-thema-lavabo-24",
+          "marca": "Valadares",
+          "marcaSlug": "valadares",
+          "modelo": "Thema Lavabo",
+          "modeloSlug": "thema_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Thema de Valadares, diseño clásico con pedestal",
+          "url": "/catalogo/valadares/lavabos/thema",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
           }
         }
       ]
@@ -2480,6 +4322,375 @@
             ],
             "grupoCompatibilidad": "16.0 cm"
           }
+        },
+        {
+          "id": "sanitana-regina-bidet-10",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Regina Bidet",
+          "modeloSlug": "regina_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1980-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Regina de Sanitana, a juego con la serie de inodoro",
+          "url": "/catalogo/sanitana/bidets/regina",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-munique-bidet-11",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Munique Bidet",
+          "modeloSlug": "munique_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Munique de Sanitana, a juego con la serie de inodoro",
+          "url": "/catalogo/sanitana/bidets/munique",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-colonia-bidet-12",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Colonia Bidet",
+          "modeloSlug": "colonia_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1975-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Colonia de Sanitana, a juego con la serie de inodoro",
+          "url": "/catalogo/sanitana/bidets/colonia",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-kapa-bidet-13",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Kapa Bidet",
+          "modeloSlug": "kapa_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Kapa de Sanitana, a juego con la serie de inodoro",
+          "url": "/catalogo/sanitana/bidets/kapa",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-imperial-bidet-14",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Imperial Bidet",
+          "modeloSlug": "imperial_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Imperial de Sanitana, a juego con la serie de inodoro",
+          "url": "/catalogo/sanitana/bidets/imperial",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-coral-bidet-15",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Coral Bidet",
+          "modeloSlug": "coral_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1980-2000",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Coral de Sanitana, a juego con la serie de inodoro",
+          "url": "/catalogo/sanitana/bidets/coral",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-nexo-bidet-16",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Nexo Bidet",
+          "modeloSlug": "nexo_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Nexo de Sanitana, a juego con la serie de inodoro",
+          "url": "/catalogo/sanitana/bidets/nexo",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-mobil_pmr-bidet-17",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Mobil PMR Bidet",
+          "modeloSlug": "mobil_pmr_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Mobil PMR de Sanitana, a juego con la serie de inodoro",
+          "url": "/catalogo/sanitana/bidets/mobil_pmr",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-lisboa-bidet-18",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Lisboa Bidet",
+          "modeloSlug": "lisboa_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Lisboa de Sanitana, a juego con la serie de inodoro",
+          "url": "/catalogo/sanitana/bidets/lisboa",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-regina-lavabo-19",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Regina Lavabo",
+          "modeloSlug": "regina_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1980-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Regina de Sanitana, diseño clásico con pedestal",
+          "url": "/catalogo/sanitana/lavabos/regina",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-munique-lavabo-20",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Munique Lavabo",
+          "modeloSlug": "munique_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Munique de Sanitana, diseño clásico con pedestal",
+          "url": "/catalogo/sanitana/lavabos/munique",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-colonia-lavabo-21",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Colonia Lavabo",
+          "modeloSlug": "colonia_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1975-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Colonia de Sanitana, diseño clásico con pedestal",
+          "url": "/catalogo/sanitana/lavabos/colonia",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-kapa-lavabo-22",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Kapa Lavabo",
+          "modeloSlug": "kapa_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Kapa de Sanitana, diseño clásico con pedestal",
+          "url": "/catalogo/sanitana/lavabos/kapa",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-imperial-lavabo-23",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Imperial Lavabo",
+          "modeloSlug": "imperial_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Imperial de Sanitana, diseño clásico con pedestal",
+          "url": "/catalogo/sanitana/lavabos/imperial",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-coral-lavabo-24",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Coral Lavabo",
+          "modeloSlug": "coral_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1980-2000",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Coral de Sanitana, diseño clásico con pedestal",
+          "url": "/catalogo/sanitana/lavabos/coral",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-nexo-lavabo-25",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Nexo Lavabo",
+          "modeloSlug": "nexo_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Nexo de Sanitana, diseño clásico con pedestal",
+          "url": "/catalogo/sanitana/lavabos/nexo",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-mobil_pmr-lavabo-26",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Mobil PMR Lavabo",
+          "modeloSlug": "mobil_pmr_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Mobil PMR de Sanitana, diseño clásico con pedestal",
+          "url": "/catalogo/sanitana/lavabos/mobil_pmr",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "sanitana-lisboa-lavabo-27",
+          "marca": "Sanitana",
+          "marcaSlug": "sanitana",
+          "modelo": "Lisboa Lavabo",
+          "modeloSlug": "lisboa_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1990-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Lisboa de Sanitana, diseño clásico con pedestal",
+          "url": "/catalogo/sanitana/lavabos/lisboa",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
         }
       ]
     },
@@ -2789,6 +5000,462 @@
             ],
             "grupoCompatibilidad": null
           }
+        },
+        {
+          "id": "duravit-darling_new_pie-bidet-9",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Darling New Pie Bidet",
+          "modeloSlug": "darling_new_pie_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1999-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Darling New Pie de Duravit, diseño alemán premium",
+          "url": "/catalogo/duravit/bidets/darling_new_pie",
+          "specs": {
+            "ancho": "36.5",
+            "fondo": "57.0",
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-darling_new_suspendido-bidet-10",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Darling New Suspendido Bidet",
+          "modeloSlug": "darling_new_suspendido_bidet",
+          "tipoPrincipal": "Bidé suspendido",
+          "categoria": "bidets",
+          "periodo": "1999-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Darling New Suspendido de Duravit, diseño alemán premium",
+          "url": "/catalogo/duravit/bidets/darling_new_suspendido",
+          "specs": {
+            "ancho": "37.0",
+            "fondo": "54.0",
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-happy_d_original-bidet-11",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Happy D Original Bidet",
+          "modeloSlug": "happy_d_original_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1999-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Happy D Original de Duravit, diseño alemán premium",
+          "url": "/catalogo/duravit/bidets/happy_d_original",
+          "specs": {
+            "ancho": null,
+            "fondo": null,
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-happy_d2_pie-bidet-12",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Happy D.2 Pie Bidet",
+          "modeloSlug": "happy_d2_pie_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1999-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Happy D.2 Pie de Duravit, diseño alemán premium",
+          "url": "/catalogo/duravit/bidets/happy_d2_pie",
+          "specs": {
+            "ancho": "36.5",
+            "fondo": "57.0",
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-happy_d2_suspendido-bidet-13",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Happy D.2 Suspendido Bidet",
+          "modeloSlug": "happy_d2_suspendido_bidet",
+          "tipoPrincipal": "Bidé suspendido",
+          "categoria": "bidets",
+          "periodo": "1999-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Happy D.2 Suspendido de Duravit, diseño alemán premium",
+          "url": "/catalogo/duravit/bidets/happy_d2_suspendido",
+          "specs": {
+            "ancho": "35.5",
+            "fondo": "54.0",
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-d-code_pie-bidet-14",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "D-Code Pie Bidet",
+          "modeloSlug": "d-code_pie_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1999-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé D-Code Pie de Duravit, diseño alemán premium",
+          "url": "/catalogo/duravit/bidets/d-code_pie",
+          "specs": {
+            "ancho": "35.5",
+            "fondo": "54.0",
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-d-code_suspendido-bidet-15",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "D-Code Suspendido Bidet",
+          "modeloSlug": "d-code_suspendido_bidet",
+          "tipoPrincipal": "Bidé suspendido",
+          "categoria": "bidets",
+          "periodo": "1999-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé D-Code Suspendido de Duravit, diseño alemán premium",
+          "url": "/catalogo/duravit/bidets/d-code_suspendido",
+          "specs": {
+            "ancho": "35.5",
+            "fondo": "54.0",
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-starck_2-bidet-16",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Starck 2 Bidet",
+          "modeloSlug": "starck_2_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1999-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Starck 2 de Duravit, diseño alemán premium",
+          "url": "/catalogo/duravit/bidets/starck_2",
+          "specs": {
+            "ancho": null,
+            "fondo": null,
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-starck_3_pie-bidet-17",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Starck 3 Pie Bidet",
+          "modeloSlug": "starck_3_pie_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1999-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Starck 3 Pie de Duravit, diseño alemán premium",
+          "url": "/catalogo/duravit/bidets/starck_3_pie",
+          "specs": {
+            "ancho": "36.0",
+            "fondo": "65.5",
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-starck_3_suspendido-bidet-18",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Starck 3 Suspendido Bidet",
+          "modeloSlug": "starck_3_suspendido_bidet",
+          "tipoPrincipal": "Bidé suspendido",
+          "categoria": "bidets",
+          "periodo": "1999-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Starck 3 Suspendido de Duravit, diseño alemán premium",
+          "url": "/catalogo/duravit/bidets/starck_3_suspendido",
+          "specs": {
+            "ancho": "36.0",
+            "fondo": "54.0",
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-me_by_starck_pie-bidet-19",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "ME by Starck Pie Bidet",
+          "modeloSlug": "me_by_starck_pie_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1999-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé ME by Starck Pie de Duravit, diseño alemán premium",
+          "url": "/catalogo/duravit/bidets/me_by_starck_pie",
+          "specs": {
+            "ancho": "37.0",
+            "fondo": "60.0",
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "blanco satinado"
+            ]
+          }
+        },
+        {
+          "id": "duravit-me_by_starck_suspendido-bidet-20",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "ME by Starck Suspendido Bidet",
+          "modeloSlug": "me_by_starck_suspendido_bidet",
+          "tipoPrincipal": "Bidé suspendido",
+          "categoria": "bidets",
+          "periodo": "1999-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé ME by Starck Suspendido de Duravit, diseño alemán premium",
+          "url": "/catalogo/duravit/bidets/me_by_starck_suspendido",
+          "specs": {
+            "ancho": "37.0",
+            "fondo": "54.0",
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco",
+              "blanco satinado"
+            ]
+          }
+        },
+        {
+          "id": "duravit-vero_air_suspendido-bidet-21",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Vero Air Suspendido Bidet",
+          "modeloSlug": "vero_air_suspendido_bidet",
+          "tipoPrincipal": "Bidé suspendido",
+          "categoria": "bidets",
+          "periodo": "1999-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Vero Air Suspendido de Duravit, diseño alemán premium",
+          "url": "/catalogo/duravit/bidets/vero_air_suspendido",
+          "specs": {
+            "ancho": "37.0",
+            "fondo": "57.0",
+            "formaTaza": "cuadrada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-darling_new-lavabo-22",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Darling New Lavabo",
+          "modeloSlug": "darling_new_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1999-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Darling New de Duravit, diseño clásico con pedestal",
+          "url": "/catalogo/duravit/lavabos/darling_new",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-happy_d_original-lavabo-23",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Happy D Original Lavabo",
+          "modeloSlug": "happy_d_original_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1999-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Happy D Original de Duravit, diseño clásico con pedestal",
+          "url": "/catalogo/duravit/lavabos/happy_d_original",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-happy_d2-lavabo-24",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Happy D.2 Lavabo",
+          "modeloSlug": "happy_d2_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "2005-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Happy D.2 de Duravit, diseño clásico con pedestal",
+          "url": "/catalogo/duravit/lavabos/happy_d2",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-d-code-lavabo-25",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "D-Code Lavabo",
+          "modeloSlug": "d-code_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo D-Code de Duravit, diseño clásico con pedestal",
+          "url": "/catalogo/duravit/lavabos/d-code",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-starck_2-lavabo-26",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Starck 2 Lavabo",
+          "modeloSlug": "starck_2_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Starck 2 de Duravit, diseño clásico con pedestal",
+          "url": "/catalogo/duravit/lavabos/starck_2",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-starck_3-lavabo-27",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Starck 3 Lavabo",
+          "modeloSlug": "starck_3_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "2000-2015",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Starck 3 de Duravit, diseño clásico con pedestal",
+          "url": "/catalogo/duravit/lavabos/starck_3",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-me_by_starck-lavabo-28",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "ME by Starck Lavabo",
+          "modeloSlug": "me_by_starck_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "2010-2018",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo ME by Starck de Duravit, diseño clásico con pedestal",
+          "url": "/catalogo/duravit/lavabos/me_by_starck",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "duravit-vero_air-lavabo-29",
+          "marca": "Duravit",
+          "marcaSlug": "duravit",
+          "modelo": "Vero Air Lavabo",
+          "modeloSlug": "vero_air_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "2008-2018",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Vero Air de Duravit, diseño clásico con pedestal",
+          "url": "/catalogo/duravit/lavabos/vero_air",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
         }
       ]
     },
@@ -2889,6 +5556,381 @@
           "specs": {
             "dimensiones": null,
             "colorDisponible": null
+          }
+        }
+      ]
+    },
+    "jacobdelafon": {
+      "nombre": "Jacob Delafon",
+      "slug": "jacob-delafon",
+      "modelos": [
+        {
+          "id": "jacob-delafon-odeon_clasico-bidet-1",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Odeon Clasico Bidet",
+          "modeloSlug": "odeon_clasico_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1950-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Odeon Clasico de Jacob Delafon, a juego con la serie de inodoro",
+          "url": "/catalogo/jacob-delafon/bidets/odeon_clasico",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-odeon_up-bidet-2",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Odeon Up Bidet",
+          "modeloSlug": "odeon_up_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Odeon Up de Jacob Delafon, a juego con la serie de inodoro",
+          "url": "/catalogo/jacob-delafon/bidets/odeon_up",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-antares-bidet-3",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Antares Bidet",
+          "modeloSlug": "antares_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1975-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Antares de Jacob Delafon, a juego con la serie de inodoro",
+          "url": "/catalogo/jacob-delafon/bidets/antares",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-astros-bidet-4",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Astros Bidet",
+          "modeloSlug": "astros_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1980-2000",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Astros de Jacob Delafon, a juego con la serie de inodoro",
+          "url": "/catalogo/jacob-delafon/bidets/astros",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-freelance-bidet-5",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Freelance Bidet",
+          "modeloSlug": "freelance_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1990-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Freelance de Jacob Delafon, a juego con la serie de inodoro",
+          "url": "/catalogo/jacob-delafon/bidets/freelance",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-portrait-bidet-6",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Portrait Bidet",
+          "modeloSlug": "portrait_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Portrait de Jacob Delafon, a juego con la serie de inodoro",
+          "url": "/catalogo/jacob-delafon/bidets/portrait",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-escale-bidet-7",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Escale Bidet",
+          "modeloSlug": "escale_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Escale de Jacob Delafon, a juego con la serie de inodoro",
+          "url": "/catalogo/jacob-delafon/bidets/escale",
+          "specs": {
+            "formaTaza": "cuadrada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-ove-bidet-8",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Ove Bidet",
+          "modeloSlug": "ove_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Ove de Jacob Delafon, a juego con la serie de inodoro",
+          "url": "/catalogo/jacob-delafon/bidets/ove",
+          "specs": {
+            "formaTaza": "ovalada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-struktura-bidet-9",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Struktura Bidet",
+          "modeloSlug": "struktura_bidet",
+          "tipoPrincipal": "Bidé de suelo",
+          "categoria": "bidets",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Bidé Struktura de Jacob Delafon, a juego con la serie de inodoro",
+          "url": "/catalogo/jacob-delafon/bidets/struktura",
+          "specs": {
+            "formaTaza": "cuadrada",
+            "numOrificiosGriferia": 1,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-odeon_clasico-lavabo-10",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Odeon Clasico Lavabo",
+          "modeloSlug": "odeon_clasico_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1950-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Odeon Clasico de Jacob Delafon, diseño clásico con pedestal",
+          "url": "/catalogo/jacob-delafon/lavabos/odeon_clasico",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-odeon_up-lavabo-11",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Odeon Up Lavabo",
+          "modeloSlug": "odeon_up_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Odeon Up de Jacob Delafon, diseño clásico con pedestal",
+          "url": "/catalogo/jacob-delafon/lavabos/odeon_up",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-antares-lavabo-12",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Antares Lavabo",
+          "modeloSlug": "antares_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1975-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Antares de Jacob Delafon, diseño clásico con pedestal",
+          "url": "/catalogo/jacob-delafon/lavabos/antares",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-astros-lavabo-13",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Astros Lavabo",
+          "modeloSlug": "astros_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1980-2000",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Astros de Jacob Delafon, diseño clásico con pedestal",
+          "url": "/catalogo/jacob-delafon/lavabos/astros",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-freelance-lavabo-14",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Freelance Lavabo",
+          "modeloSlug": "freelance_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1990-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Freelance de Jacob Delafon, diseño clásico con pedestal",
+          "url": "/catalogo/jacob-delafon/lavabos/freelance",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-portrait-lavabo-15",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Portrait Lavabo",
+          "modeloSlug": "portrait_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1985-2005",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Portrait de Jacob Delafon, diseño clásico con pedestal",
+          "url": "/catalogo/jacob-delafon/lavabos/portrait",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-escale-lavabo-16",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Escale Lavabo",
+          "modeloSlug": "escale_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Escale de Jacob Delafon, diseño clásico con pedestal",
+          "url": "/catalogo/jacob-delafon/lavabos/escale",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-ove-lavabo-17",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Ove Lavabo",
+          "modeloSlug": "ove_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "1995-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Ove de Jacob Delafon, diseño clásico con pedestal",
+          "url": "/catalogo/jacob-delafon/lavabos/ove",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
+          }
+        },
+        {
+          "id": "jacob-delafon-struktura-lavabo-18",
+          "marca": "Jacob Delafon",
+          "marcaSlug": "jacob-delafon",
+          "modelo": "Struktura Lavabo",
+          "modeloSlug": "struktura_lavabo",
+          "tipoPrincipal": "Lavabo con pedestal",
+          "categoria": "lavabos",
+          "periodo": "2000-2010",
+          "situacion": "Descatalogado",
+          "caracteristicas": "Lavabo Struktura de Jacob Delafon, diseño clásico con pedestal",
+          "url": "/catalogo/jacob-delafon/lavabos/struktura",
+          "specs": {
+            "tipoMontaje": "pedestal",
+            "numOrificiosGriferia": 1,
+            "conRebosadero": true,
+            "colorDisponible": [
+              "blanco"
+            ]
           }
         }
       ]

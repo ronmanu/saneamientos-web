@@ -98,8 +98,9 @@ export interface ProductosDatabase {
     fechaActualizacion: string;
 }
 
-// Base de datos tipada
-const db = productosData as ProductosDatabase;
+// Base de datos tipada - permite marcas dinámicas
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const db = productosData as any as ProductosDatabase;
 
 /**
  * Obtiene todas las marcas disponibles
