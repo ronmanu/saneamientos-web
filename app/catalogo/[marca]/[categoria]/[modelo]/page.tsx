@@ -342,19 +342,33 @@ export default async function ProductoPage({ params }: ProductPageProps) {
                 <section className={styles.relacionados}>
                     <h2>Productos Relacionados</h2>
                     <div className={styles.relacionadosGrid}>
-                        {relacionados.map(rel => (
-                            <Link key={rel.id} href={rel.url} className={styles.relacionadoCard}>
-                                <div className={styles.relacionadoImage}>🚽</div>
-                                <div className={styles.relacionadoInfo}>
-                                    <span className={styles.relacionadoMarca}>{rel.marca}</span>
-                                    <h3>{rel.modelo}</h3>
-                                    <span className={styles.relacionadoPeriodo}>{rel.periodo}</span>
-                                </div>
-                            </Link>
-                        ))}
+                        {relacionados.map(rel => {
+                            // Generar ruta de imagen basada en marca y modelo
+                            const imagePath = `/productos/${rel.marcaSlug}_${rel.modeloSlug}.png`;
+                            return (
+                                <Link key={rel.id} href={rel.url} className={styles.relacionadoCard}>
+                                    <div className={styles.relacionadoImageWrapper}>
+                                        <Image
+                                            src={imagePath}
+                                            alt={`${rel.modelo} ${rel.marca}`}
+                                            width={200}
+                                            height={150}
+                                            className={styles.relacionadoImage}
+                                            unoptimized
+                                        />
+                                    </div>
+                                    <div className={styles.relacionadoInfo}>
+                                        <span className={styles.relacionadoMarca}>{rel.marca}</span>
+                                        <h3>{rel.modelo}</h3>
+                                        <span className={styles.relacionadoPeriodo}>{rel.periodo}</span>
+                                    </div>
+                                </Link>
+                            );
+                        })}
                     </div>
                 </section>
             )}
+
         </main>
     );
 }

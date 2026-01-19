@@ -67,17 +67,18 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "36",
-            "fondo": "43",
+            "ancho": "36.0",
+            "fondo": "43.5",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
             "grupoCompatibilidad": "16.0 cm"
           }
@@ -103,16 +104,17 @@
             "alturaTotal": null,
             "alturaAsiento": null,
             "ancho": "36.5",
-            "fondo": "44",
+            "fondo": "44.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
             "grupoCompatibilidad": "16.0 cm"
           }
@@ -137,7 +139,7 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "37",
+            "ancho": "37.0",
             "fondo": "46.5",
             "salida": null,
             "distanciaDesague": null,
@@ -145,11 +147,12 @@
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "14",
+            "distanciaEntreTornillos": "14.0",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
-            "grupoCompatibilidad": "14.0 cm"
+            "grupoCompatibilidad": null
           }
         },
         {
@@ -240,7 +243,7 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "36",
+            "ancho": "36.0",
             "fondo": "44.6",
             "salida": null,
             "distanciaDesague": null,
@@ -248,9 +251,10 @@
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "codigoReferencia": "A801B6200B"
@@ -277,16 +281,17 @@
             "alturaTotal": null,
             "alturaAsiento": null,
             "ancho": "32.7",
-            "fondo": "45",
+            "fondo": "45.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
-            "formaTaza": "redonda",
+            "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "codigoReferencia": "A801B2000"
@@ -312,7 +317,7 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "33",
+            "ancho": "33.0",
             "fondo": "42.15",
             "salida": null,
             "distanciaDesague": null,
@@ -320,11 +325,12 @@
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
-            "grupoCompatibilidad": "23.0 cm (Meridian compacto)",
+            "grupoCompatibilidad": "16.0 cm",
             "tipoMecanismo": "D1P"
           }
         },
@@ -356,9 +362,10 @@
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
             "grupoCompatibilidad": "16.0 cm"
           }
@@ -383,7 +390,7 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "38",
+            "ancho": "38.0",
             "fondo": "46.5",
             "salida": null,
             "distanciaDesague": null,
@@ -391,9 +398,10 @@
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
             "grupoCompatibilidad": "16.0 cm"
           }
@@ -418,17 +426,18 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "39",
-            "fondo": "45",
+            "ancho": "39.0",
+            "fondo": "45.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
             "grupoCompatibilidad": "16.0 cm"
           }
@@ -563,18 +572,19 @@
             "alturaTotal": null,
             "alturaAsiento": null,
             "ancho": "38.5",
-            "fondo": "44",
+            "fondo": "44.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
-            "grupoCompatibilidad": "15.5 cm",
+            "grupoCompatibilidad": "16.0 cm",
             "codigoReferencia": "1325, 2337"
           }
         },
@@ -598,8 +608,8 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "37",
-            "fondo": "44",
+            "ancho": "37.0",
+            "fondo": "44.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
@@ -608,9 +618,10 @@
             "fijacion": null,
             "distanciaEntreTornillos": "20.5",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
-            "grupoCompatibilidad": "20.5 cm"
+            "grupoCompatibilidad": null
           }
         },
         {
@@ -633,17 +644,18 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "37",
-            "fondo": "44",
+            "ancho": "37.0",
+            "fondo": "44.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
-            "formaTaza": "cuadrada",
+            "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
             "grupoCompatibilidad": "16.0 cm"
           }
@@ -669,15 +681,19 @@
             "alturaTotal": null,
             "alturaAsiento": null,
             "ancho": "35.2",
-            "fondo": "43.5",
+            "fondo": null,
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
-            "formaTaza": null,
+            "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "15.5",
-            "colorDisponible": null
+            "distanciaEntreTornillos": null,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ],
+            "grupoCompatibilidad": null
           }
         }
       ]
@@ -742,7 +758,7 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "35",
+            "ancho": "35.0",
             "fondo": "42.5",
             "salida": null,
             "distanciaDesague": null,
@@ -750,9 +766,10 @@
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
             "grupoCompatibilidad": "16.0 cm"
           }
@@ -847,8 +864,8 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "34",
-            "fondo": "45",
+            "ancho": "34.0",
+            "fondo": "45.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
@@ -857,7 +874,8 @@
             "fijacion": null,
             "distanciaEntreTornillos": "15.5",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
             "grupoCompatibilidad": "15.5 cm"
           }
@@ -882,17 +900,18 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "39",
-            "fondo": "41",
+            "ancho": "39.0",
+            "fondo": "41.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
-            "formaTaza": "cuadrada",
+            "formaTaza": "ovalada",
             "fijacion": null,
             "distanciaEntreTornillos": "15.5",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
             "grupoCompatibilidad": "15.5 cm"
           }
@@ -917,7 +936,7 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "37",
+            "ancho": "37.0",
             "fondo": "42.5",
             "salida": null,
             "distanciaDesague": null,
@@ -925,9 +944,10 @@
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
             "grupoCompatibilidad": "16.0 cm"
           }
@@ -953,16 +973,17 @@
             "alturaTotal": null,
             "alturaAsiento": null,
             "ancho": "34.5",
-            "fondo": "44",
+            "fondo": "44.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
             "grupoCompatibilidad": "16.0 cm"
           }
@@ -987,17 +1008,18 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "36",
-            "fondo": "42",
+            "ancho": "36.0",
+            "fondo": "42.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
             "grupoCompatibilidad": "16.0 cm"
           }
@@ -1022,8 +1044,8 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "34",
-            "fondo": "43",
+            "ancho": "34.0",
+            "fondo": "43.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
@@ -1032,7 +1054,8 @@
             "fijacion": null,
             "distanciaEntreTornillos": "15.5",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
             "grupoCompatibilidad": "15.5 cm"
           }
@@ -1064,18 +1087,18 @@
             "alturaTotal": null,
             "alturaAsiento": null,
             "ancho": "36.5",
-            "fondo": "43",
+            "fondo": "43.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "15.5",
+            "distanciaEntreTornillos": null,
             "colorDisponible": [
               "blanco"
             ],
-            "grupoCompatibilidad": "15.5 cm"
+            "grupoCompatibilidad": null
           }
         },
         {
@@ -1181,7 +1204,7 @@
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
               "blanco"
             ],
@@ -1349,14 +1372,14 @@
             "alturaTotal": null,
             "alturaAsiento": null,
             "ancho": "36.5",
-            "fondo": "42",
+            "fondo": "42.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
               "blanco"
             ],
@@ -1383,7 +1406,7 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "34",
+            "ancho": "34.0",
             "fondo": "40.8",
             "salida": null,
             "distanciaDesague": null,
@@ -1424,19 +1447,20 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "36.6",
-            "fondo": "44",
+            "ancho": "38.0",
+            "fondo": "44.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "14",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco"
+              "blanco",
+              "pergamón"
             ],
-            "grupoCompatibilidad": "14.0 cm"
+            "grupoCompatibilidad": "16.0 cm"
           }
         },
         {
@@ -1496,15 +1520,15 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "36.5",
-            "fondo": "42",
+            "ancho": "36.6",
+            "fondo": "42.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
               "blanco",
               "pergamón"
@@ -1532,16 +1556,20 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "36",
+            "ancho": "36.0",
             "fondo": "43.5",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
-            "formaTaza": null,
+            "formaTaza": "ovalada",
             "fijacion": null,
             "distanciaEntreTornillos": "15.5",
-            "colorDisponible": null
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ],
+            "grupoCompatibilidad": "15.5 cm"
           }
         },
         {
@@ -1607,16 +1635,20 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "35",
-            "fondo": "43",
+            "ancho": "35.0",
+            "fondo": "43.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
-            "formaTaza": null,
+            "formaTaza": "ovalada",
             "fijacion": null,
             "distanciaEntreTornillos": "16.5",
-            "colorDisponible": null
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ],
+            "grupoCompatibilidad": null
           }
         },
         {
@@ -1640,16 +1672,19 @@
             "alturaTotal": null,
             "alturaAsiento": null,
             "ancho": "36.4",
-            "fondo": "42",
+            "fondo": null,
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "15.5",
-            "colorDisponible": null,
-            "grupoCompatibilidad": "15.5 cm",
+            "distanciaEntreTornillos": null,
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ],
+            "grupoCompatibilidad": null,
             "alertaCompatibilidad": "⚠️ Volumen instalado muy alto"
           }
         },
@@ -1673,16 +1708,20 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "37",
-            "fondo": "42",
+            "ancho": "37.0",
+            "fondo": "42.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
-            "formaTaza": null,
+            "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
-            "colorDisponible": null
+            "distanciaEntreTornillos": "16.0",
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ],
+            "grupoCompatibilidad": "16.0 cm"
           }
         },
         {
@@ -1705,16 +1744,20 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "37",
+            "ancho": "37.0",
             "fondo": "41.5",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
-            "formaTaza": null,
+            "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
-            "colorDisponible": null
+            "distanciaEntreTornillos": "16.0",
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ],
+            "grupoCompatibilidad": "16.0 cm"
           }
         },
         {
@@ -1738,15 +1781,19 @@
             "alturaTotal": null,
             "alturaAsiento": null,
             "ancho": "35.5",
-            "fondo": "48",
+            "fondo": "48.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
-            "formaTaza": null,
+            "formaTaza": "ovalada",
             "fijacion": null,
             "distanciaEntreTornillos": "15.5",
-            "colorDisponible": null
+            "colorDisponible": [
+              "blanco",
+              "pergamón"
+            ],
+            "grupoCompatibilidad": "15.5 cm"
           }
         }
       ]
@@ -1888,7 +1935,7 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "35",
+            "ancho": "35.0",
             "fondo": "43.5",
             "salida": null,
             "distanciaDesague": null,
@@ -1896,7 +1943,7 @@
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
               "blanco"
             ],
@@ -1923,16 +1970,19 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "35",
-            "fondo": "41",
+            "ancho": "35.0",
+            "fondo": "41.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
-            "formaTaza": null,
+            "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
-            "colorDisponible": null
+            "distanciaEntreTornillos": "16.0",
+            "colorDisponible": [
+              "blanco"
+            ],
+            "grupoCompatibilidad": "16.0 cm"
           }
         },
         {
@@ -1956,15 +2006,18 @@
             "alturaTotal": null,
             "alturaAsiento": null,
             "ancho": "36.5",
-            "fondo": "42",
+            "fondo": "42.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
-            "formaTaza": null,
+            "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": null,
-            "colorDisponible": null
+            "distanciaEntreTornillos": "16.0",
+            "colorDisponible": [
+              "blanco"
+            ],
+            "grupoCompatibilidad": "16.0 cm"
           }
         },
         {
@@ -1987,16 +2040,19 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "36",
-            "fondo": "40",
+            "ancho": "36.0",
+            "fondo": "40.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
-            "formaTaza": null,
+            "formaTaza": "ovalada",
             "fijacion": null,
             "distanciaEntreTornillos": "12.5",
-            "colorDisponible": null
+            "colorDisponible": [
+              "blanco"
+            ],
+            "grupoCompatibilidad": null
           }
         },
         {
@@ -2052,15 +2108,18 @@
             "alturaTotal": null,
             "alturaAsiento": null,
             "ancho": "34.5",
-            "fondo": "42",
+            "fondo": "42.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
-            "formaTaza": null,
+            "formaTaza": "ovalada",
             "fijacion": null,
             "distanciaEntreTornillos": "15.5",
-            "colorDisponible": null
+            "colorDisponible": [
+              "blanco"
+            ],
+            "grupoCompatibilidad": "15.5 cm"
           }
         }
       ]
@@ -2139,10 +2198,9 @@
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "blanco"
             ],
             "grupoCompatibilidad": "16.0 cm"
           }
@@ -2175,10 +2233,9 @@
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
-              "blanco",
-              "pergamón"
+              "blanco"
             ],
             "grupoCompatibilidad": "16.0 cm",
             "codigoReferencia": "MPTD2E10C0"
@@ -2240,16 +2297,19 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "36",
+            "ancho": "36.0",
             "fondo": "42.5",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
-            "formaTaza": null,
+            "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
-            "colorDisponible": null
+            "distanciaEntreTornillos": "16.0",
+            "colorDisponible": [
+              "blanco"
+            ],
+            "grupoCompatibilidad": "16.0 cm"
           }
         },
         {
@@ -2273,15 +2333,18 @@
             "alturaTotal": null,
             "alturaAsiento": null,
             "ancho": "33.5",
-            "fondo": "43",
+            "fondo": "43.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
-            "formaTaza": null,
+            "formaTaza": "ovalada",
             "fijacion": null,
             "distanciaEntreTornillos": "15.5",
-            "colorDisponible": null
+            "colorDisponible": [
+              "blanco"
+            ],
+            "grupoCompatibilidad": "15.5 cm"
           }
         },
         {
@@ -2336,15 +2399,15 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "36",
-            "fondo": "43",
+            "ancho": "36.0",
+            "fondo": "43.0",
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
               "blanco"
             ],
@@ -2409,10 +2472,13 @@
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
-            "formaTaza": null,
+            "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
-            "colorDisponible": null
+            "distanciaEntreTornillos": "16.0",
+            "colorDisponible": [
+              "blanco"
+            ],
+            "grupoCompatibilidad": "16.0 cm"
           }
         }
       ]
@@ -2642,19 +2708,19 @@
           "specs": {
             "alturaTotal": null,
             "alturaAsiento": null,
-            "ancho": "36.5",
-            "fondo": "42",
+            "ancho": null,
+            "fondo": null,
             "salida": null,
             "distanciaDesague": null,
             "entradaAgua": null,
             "capacidadCisterna": null,
             "formaTaza": "ovalada",
             "fijacion": null,
-            "distanciaEntreTornillos": "16",
+            "distanciaEntreTornillos": "16.0",
             "colorDisponible": [
               "blanco"
             ],
-            "grupoCompatibilidad": "27.0 cm"
+            "grupoCompatibilidad": "16.0 cm"
           }
         },
         {
