@@ -75,6 +75,14 @@ export async function generateMetadata({ params }: ProductPageProps): Promise<Me
             url: `https://www.aparatossanitariosdescatalogados.com${producto.url}`,
             siteName: 'Sanitarios Descatalogados',
             type: 'website',
+            images: [
+                {
+                    url: `https://www.aparatossanitariosdescatalogados.com${getImagenProducto(producto.marcaSlug, producto.modeloSlug, producto.categoria)}`,
+                    width: 800,
+                    height: 600,
+                    alt: `${producto.modelo} ${marcaFormateada}`,
+                },
+            ],
         },
     };
 }
@@ -97,6 +105,7 @@ export default async function ProductoPage({ params }: ProductPageProps) {
         '@context': 'https://schema.org',
         '@type': 'Product',
         name: `${producto.modelo} ${producto.marca}`,
+        image: `https://www.aparatossanitariosdescatalogados.com${imagenProducto}`,
         description: producto.caracteristicas,
         brand: {
             '@type': 'Brand',
