@@ -14,7 +14,7 @@ export interface Product {
     shape?: string;
     material?: string;
     code?: string;
-    fixation?: string;
+    fixation?: string | null;
     compatibilityGroup?: string;
   };
 }
