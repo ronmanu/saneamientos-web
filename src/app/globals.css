@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,500;6..96,600&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600&display=swap');
+
+@import "tailwindcss";
+
+:root {
+  --background: #F4F2EE;
+  --foreground: #0B0B0C;
+  --accent: #D96C4A;
+  --muted: #6E6A63;
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Typography */
+.font-display {
+  font-family: 'Bodoni Moda', serif;
+}
+
+.font-mono {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+/* Grain Overlay */
+.grain-overlay {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.04;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+}
+
+/* Section Pinned */
+.section-pinned {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Frame Padding */
+.frame-padding {
+  padding: 4vh 4vw;
+}
+
+@media (max-width: 768px) {
+  .frame-padding {
+    padding: 3vh 3vw;
+  }
+}
+
+/* Hairlines */
+.hairline {
+  height: 1px;
+  background-color: rgba(11, 11, 12, 0.35);
+}
+
+.hairline-light {
+  height: 1px;
+  background-color: rgba(244, 242, 238, 0.35);
+}
+
+/* Editorial Buttons */
+.btn-editorial {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem 2.5rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  transition: all 0.3s ease;
+  font-family: 'IBM Plex Mono', monospace;
+  white-space: nowrap;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+}
+
+.btn-editorial-primary {
+  background-color: #F4F2EE;
+  color: #0B0B0C;
+  box-shadow: inset 0 0 0 1px #0B0B0C;
+  padding: 0.875rem 2rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+}
+
+.btn-editorial-primary:hover {
+  background-color: #0B0B0C;
+  color: #F4F2EE;
+}
+
+.btn-editorial-accent {
+  background-color: #D96C4A;
+  color: white;
+}
+
+.btn-editorial-accent:hover {
+  background-color: #c25e3e;
+}
+
+/* Labels */
+.label-mono {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+/* Headings */
+.heading-display {
+  font-family: 'Bodoni Moda', serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  line-height: 0.92;
+}
+
+/* Background Colors */
+.bg-primary-light {
+  background-color: #F4F2EE;
+}
+
+.bg-primary-dark {
+  background-color: #0B0B0C;
+}
+
+/* Text Colors */
+.text-accent {
+  color: #D96C4A;
+}
+
+.text-secondary-muted {
+  color: #6E6A63;
+}
+
+/* Utilities */
+.will-change-transform {
+  will-change: transform;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+/* Scroll */
+html {
+  scroll-behavior: smooth;
+}
