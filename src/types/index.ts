@@ -8,14 +8,14 @@ export interface Product {
   image: string;
   status: 'disponible' | 'reservado' | 'vendido';
   specs?: {
-    width?: number;
-    length?: number;
-    holeDistance?: number;
-    shape?: string;
-    material?: string;
-    code?: string;
+    width?: number | null;
+    length?: number | null;
+    holeDistance?: number | null;
+    shape?: string | null;
+    material?: string | null;
+    code?: string | null;
     fixation?: string | null;
-    compatibilityGroup?: string;
+    compatibilityGroup?: string | null;
   };
 }
 
